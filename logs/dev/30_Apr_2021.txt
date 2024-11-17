@@ -1,0 +1,2796 @@
+
+--------------------Acitivity Logs for Fri 30 Apr, 2021 Used in dev Environment-------------------------------
+
+=> Log File created for Fri 30 Apr, 2021 which is start at 01:04 PM from 127.0.0.1
+=> File Creation System Details (It should be same for all the log entry.
+=> If any log is not same then maybe that entry/action is not from a authorised/know device.
+=> Default System Configuration at Entry Time
+
+SystemDetails --> [
+    'DateTime' => 'Fri 30 Apr, 2021 01:04:32 pm',
+    'IpAddress' => '127.0.0.1',
+    'DeviceType' => 'Computer',
+    'Tpv6_P' => 'Windows NT GAURAV-HP 10.0 build 19043 (Windows 10) AMD64',
+    'OS' => 'Windows NT',
+    'OS_RELEASE' => '10.0',
+    'OS_Version' =>'build 19043 (Windows 10)',
+    'SystemType' => 'AMD64',
+    'HostName' =>'GAURAV-HP',
+    'MoreDetails' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36'
+ ]
+
+
+----------------------- Entry At 01:04 PM ---------------------------------
+
+=> LOG_FILE_CREATED --> {
+    Log File Generated
+}
+
+=> APP_INSTALLATION --> {
+    App is installed successfully whose details are <?php
+$ENVIRONMENT_VARIABLES = [
+	'APP_NAME'=> 'MD DEVELOP Build',
+    'APP_VERSION' => '1.0',
+    'DOMAIN'=> 'mddevelopbuild.com',
+    'DEV_NAME'=> 'Gaurav Singh',
+    'APP_PHONE'=>'8447572565',
+    'APP_MAIL_ID'=>'info@mddevelopbuild.com',
+    'SENDER_MAIL'=>'notification@mddevelopbuild.com',
+    'RECEIVER_MAIL'=>'gauravsinghigc@gmail.com',
+    'APP_ADDRESS'=>'11/7 Opposite Pillar No. 60 Near DS Door, Main Mathura Road, faridabad , Haryana',
+    'MAP_LINK'=>'None',
+    'DOWNLOAD_APP_LINK'=>'',
+    'DB_HOST' => 'localhost',
+    'DB_USERNAME' => 'root',
+    'DB_PASSWORD' => '',
+    'DB_NAME' => 'mddevelops',
+    'DB_PORT' => '3306',
+    'WORK_ENV' => 'dev',
+    'APP_STATUS' => 'INSTALLED'
+];
+foreach ($ENVIRONMENT_VARIABLES as $key => $value) {
+      putenv("$key=$value");
+  }
+ 
+}
+
+=> SystemDetails --> [
+    'DateTime' => 'Fri 30 Apr, 2021 01:04:32 pm',
+    'IpAddress' => '127.0.0.1',
+    'DeviceType' => 'Computer',
+    'Tpv6_P' => 'Windows NT GAURAV-HP 10.0 build 19043 (Windows 10) AMD64',
+    'OS' => 'Windows NT',
+    'OS_RELEASE' => '10.0',
+    'OS_Version' =>'build 19043 (Windows 10)',
+    'SystemType' => 'AMD64',
+    'HostName' =>'GAURAV-HP',
+    'MoreDetails' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36'
+ ]
+
+
+----------------------- Entry At 07:04 PM ---------------------------------
+
+=> APP_INSTALLATION --> {
+    App is installed successfully whose details are <?php
+$ENVIRONMENT_VARIABLES = [
+	'APP_NAME'=> 'MD DEVELOP Build',
+    'APP_VERSION' => '1.0',
+    'DOMAIN'=> 'http://localhost/projects/mddevelopbuild',
+    'DEV_NAME'=> 'Gaurav Singh',
+    'APP_PHONE'=>'8447572565',
+    'APP_MAIL_ID'=>'info@mddevelopbuild.com',
+    'SENDER_MAIL'=>'notification@http://localhost/projects/mddevelopbuild',
+    'RECEIVER_MAIL'=>'gauravsinghigc@gmail.com',
+    'APP_ADDRESS'=>'11/7 Opposite Pillar No. 60 Near DS Door, Main Mathura Road, faridabad , Haryana',
+    'MAP_LINK'=>'None',
+    'DOWNLOAD_APP_LINK'=>'',
+    'DB_OPTION'=>'true',
+    'DB_HOST' => 'localhost',
+    'DB_USERNAME' => 'root',
+    'DB_PASSWORD' => '',
+    'DB_NAME' => 'mddevelops',
+    'DB_PORT' => '3306',
+    'WORK_ENV' => 'dev',
+    'APP_STATUS' => 'INSTALLED'
+];
+foreach ($ENVIRONMENT_VARIABLES as $key => $value) {
+      putenv("$key=$value");
+  }
+ 
+}
+
+SystemDetails --> [
+    'DateTime' => 'Fri 30 Apr, 2021 07:04:00 pm',
+    'IpAddress' => '127.0.0.1',
+    'DeviceType' => 'Computer',
+    'Tpv6_P' => 'Windows NT GAURAV-HP 10.0 build 19043 (Windows 10) AMD64',
+    'OS' => 'Windows NT',
+    'OS_RELEASE' => '10.0',
+    'OS_Version' =>'build 19043 (Windows 10)',
+    'SystemType' => 'AMD64',
+    'HostName' =>'GAURAV-HP',
+    'MoreDetails' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36'
+ ]
+
+
+----------------------- Entry At 07:04 PM ---------------------------------
+
+=> APP_INSTALLATION --> {
+    App is installed successfully whose details are <?php
+$ENVIRONMENT_VARIABLES = [
+	'APP_NAME'=> 'MD DEVELOP Build',
+    'APP_VERSION' => '1.0',
+    'DOMAIN'=> 'mddevelopbuild.com',
+    'DEV_NAME'=> 'Gaurav Singh',
+    'APP_PHONE'=>'8447572565',
+    'APP_MAIL_ID'=>'info@mddevelopbuild.com',
+    'SENDER_MAIL'=>'notification@mddevelopbuild.com',
+    'RECEIVER_MAIL'=>'gauravsinghigc@gmail.com',
+    'APP_ADDRESS'=>'11/7 Opposite Pillar No. 60 Near DS Door, Main Mathura Road, faridabad , Haryana',
+    'MAP_LINK'=>'None',
+    'DOWNLOAD_APP_LINK'=>'',
+    'DB_OPTION'=>'true',
+    'DB_HOST' => 'localhost',
+    'DB_USERNAME' => 'root',
+    'DB_PASSWORD' => '',
+    'DB_NAME' => 'mddevelops',
+    'DB_PORT' => '3306',
+    'WORK_ENV' => 'dev',
+    'APP_STATUS' => 'INSTALLED'
+];
+foreach ($ENVIRONMENT_VARIABLES as $key => $value) {
+      putenv("$key=$value");
+  }
+ 
+}
+
+SystemDetails --> [
+    'DateTime' => 'Fri 30 Apr, 2021 07:04:57 pm',
+    'IpAddress' => '127.0.0.1',
+    'DeviceType' => 'Computer',
+    'Tpv6_P' => 'Windows NT GAURAV-HP 10.0 build 19043 (Windows 10) AMD64',
+    'OS' => 'Windows NT',
+    'OS_RELEASE' => '10.0',
+    'OS_Version' =>'build 19043 (Windows 10)',
+    'SystemType' => 'AMD64',
+    'HostName' =>'GAURAV-HP',
+    'MoreDetails' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36'
+ ]
+
+
+----------------------- Entry At 08:04 PM ---------------------------------
+
+=> APP_INSTALLATION --> {
+    App is installed successfully whose details are <?php
+$ENVIRONMENT_VARIABLES = [
+	'APP_NAME'=> 'MD DEVELOP Build',
+    'APP_VERSION' => '1.0',
+    'DOMAIN'=> 'mddevelopbuild.com',
+    'DEV_NAME'=> 'Gaurav Singh',
+    'APP_PHONE'=>'8447572565',
+    'APP_MAIL_ID'=>'info@mddevelopbuild.com',
+    'SENDER_MAIL'=>'notification@mddevelopbuild.com',
+    'RECEIVER_MAIL'=>'gauravsinghigc@gmail.com',
+    'APP_ADDRESS'=>'11/7 Opposite Pillar No. 60 Near DS Door, Main Mathura Road, faridabad , Haryana',
+    'MAP_LINK'=>'None',
+    'DOWNLOAD_APP_LINK'=>'',
+    'DB_OPTION'=>'true',
+    'DB_HOST' => 'localhost',
+    'DB_USERNAME' => 'root',
+    'DB_PASSWORD' => '',
+    'DB_NAME' => 'mddevelops',
+    'DB_PORT' => '3306',
+    'WORK_ENV' => 'dev',
+    'APP_STATUS' => 'INSTALLED'
+];
+foreach ($ENVIRONMENT_VARIABLES as $key => $value) {
+      putenv("$key=$value");
+  }
+ 
+}
+
+SystemDetails --> [
+    'DateTime' => 'Fri 30 Apr, 2021 08:04:30 pm',
+    'IpAddress' => '127.0.0.1',
+    'DeviceType' => 'Computer',
+    'Tpv6_P' => 'Windows NT GAURAV-HP 10.0 build 19043 (Windows 10) AMD64',
+    'OS' => 'Windows NT',
+    'OS_RELEASE' => '10.0',
+    'OS_Version' =>'build 19043 (Windows 10)',
+    'SystemType' => 'AMD64',
+    'HostName' =>'GAURAV-HP',
+    'MoreDetails' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36'
+ ]
+
+
+----------------------- Entry At 08:04 PM ---------------------------------
+
+=> APP_INSTALLATION --> {
+    App is installed successfully whose details are <?php
+$ENVIRONMENT_VARIABLES = [
+	'APP_NAME'=> 'MD DEVELOP Build',
+    'APP_VERSION' => '1.0',
+    'DOMAIN'=> 'mddevelopbuild.com',
+    'DEV_NAME'=> 'Gaurav Singh',
+    'APP_PHONE'=>'8447572565',
+    'APP_MAIL_ID'=>'info@mddevelopbuild.com',
+    'SENDER_MAIL'=>'notification@mddevelopbuild.com',
+    'RECEIVER_MAIL'=>'gauravsinghigc@gmail.com',
+    'APP_ADDRESS'=>'11/7 Opposite Pillar No. 60 Near DS Door, Main Mathura Road, faridabad , Haryana',
+    'MAP_LINK'=>'None',
+    'DOWNLOAD_APP_LINK'=>'',
+    'DB_OPTION'=>'true',
+    'DB_HOST' => 'localhost',
+    'DB_USERNAME' => 'root',
+    'DB_PASSWORD' => '',
+    'DB_NAME' => 'mddevelops',
+    'DB_PORT' => '3306',
+    'WORK_ENV' => 'dev',
+    'APP_STATUS' => 'INSTALLED'
+];
+foreach ($ENVIRONMENT_VARIABLES as $key => $value) {
+      putenv("$key=$value");
+  }
+ 
+}
+
+SystemDetails --> [
+    'DateTime' => 'Fri 30 Apr, 2021 08:04:16 pm',
+    'IpAddress' => '127.0.0.1',
+    'DeviceType' => 'Computer',
+    'Tpv6_P' => 'Windows NT GAURAV-HP 10.0 build 19043 (Windows 10) AMD64',
+    'OS' => 'Windows NT',
+    'OS_RELEASE' => '10.0',
+    'OS_Version' =>'build 19043 (Windows 10)',
+    'SystemType' => 'AMD64',
+    'HostName' =>'GAURAV-HP',
+    'MoreDetails' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36'
+ ]
+
+
+----------------------- Entry At 08:04 PM ---------------------------------
+
+=> APP_INSTALLATION --> {
+    App is installed successfully whose details are <?php
+$ENVIRONMENT_VARIABLES = [
+	'APP_NAME'=> 'MD DEVELOP Build',
+    'APP_VERSION' => '1.0',
+    'DOMAIN'=> 'mddevelopbuild.com',
+    'DEV_NAME'=> 'Gaurav Singh',
+    'APP_PHONE'=>'8447572565',
+    'APP_MAIL_ID'=>'info@mddevelopbuild.com',
+    'SENDER_MAIL'=>'notification@mddevelopbuild.com',
+    'RECEIVER_MAIL'=>'gauravsinghigc@gmail.com',
+    'APP_ADDRESS'=>'11/7 Opposite Pillar No. 60 Near DS Door, Main Mathura Road, faridabad , Haryana',
+    'MAP_LINK'=>'None',
+    'DOWNLOAD_APP_LINK'=>'',
+    'DB_OPTION'=>'true',
+    'DB_HOST' => 'localhost',
+    'DB_USERNAME' => 'root',
+    'DB_PASSWORD' => '',
+    'DB_NAME' => 'mddevelops',
+    'DB_PORT' => '3306',
+    'WORK_ENV' => 'dev',
+    'APP_STATUS' => 'INSTALLED'
+];
+foreach ($ENVIRONMENT_VARIABLES as $key => $value) {
+      putenv("$key=$value");
+  }
+ 
+}
+
+SystemDetails --> [
+    'DateTime' => 'Fri 30 Apr, 2021 08:04:28 pm',
+    'IpAddress' => '127.0.0.1',
+    'DeviceType' => 'Computer',
+    'Tpv6_P' => 'Windows NT GAURAV-HP 10.0 build 19043 (Windows 10) AMD64',
+    'OS' => 'Windows NT',
+    'OS_RELEASE' => '10.0',
+    'OS_Version' =>'build 19043 (Windows 10)',
+    'SystemType' => 'AMD64',
+    'HostName' =>'GAURAV-HP',
+    'MoreDetails' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36'
+ ]
+
+
+----------------------- Entry At 08:04 PM ---------------------------------
+
+=> APP_INSTALLATION --> {
+    App is installed successfully whose details are <?php
+$ENVIRONMENT_VARIABLES = [
+	'APP_NAME'=> 'MD DEVELOP Build',
+    'APP_VERSION' => '1.0',
+    'DOMAIN'=> 'mddevelopbuild.com',
+    'DEV_NAME'=> 'Gaurav Singh',
+    'APP_PHONE'=>'8447572565',
+    'APP_MAIL_ID'=>'info@mddevelopbuild.com',
+    'SENDER_MAIL'=>'notification@mddevelopbuild.com',
+    'RECEIVER_MAIL'=>'gauravsinghigc@gmail.com',
+    'APP_ADDRESS'=>'11/7 Opposite Pillar No. 60 Near DS Door, Main Mathura Road, faridabad , Haryana',
+    'MAP_LINK'=>'None',
+    'DOWNLOAD_APP_LINK'=>'',
+    'DB_OPTION'=>'true',
+    'DB_HOST' => 'localhost',
+    'DB_USERNAME' => 'root',
+    'DB_PASSWORD' => '',
+    'DB_NAME' => 'mddevelops',
+    'DB_PORT' => '3306',
+    'WORK_ENV' => 'dev',
+    'APP_STATUS' => 'INSTALLED'
+];
+foreach ($ENVIRONMENT_VARIABLES as $key => $value) {
+      putenv("$key=$value");
+  }
+ 
+}
+
+SystemDetails --> [
+    'DateTime' => 'Fri 30 Apr, 2021 08:04:37 pm',
+    'IpAddress' => '127.0.0.1',
+    'DeviceType' => 'Computer',
+    'Tpv6_P' => 'Windows NT GAURAV-HP 10.0 build 19043 (Windows 10) AMD64',
+    'OS' => 'Windows NT',
+    'OS_RELEASE' => '10.0',
+    'OS_Version' =>'build 19043 (Windows 10)',
+    'SystemType' => 'AMD64',
+    'HostName' =>'GAURAV-HP',
+    'MoreDetails' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36'
+ ]
+
+
+----------------------- Entry At 08:04 PM ---------------------------------
+
+=> APP_INSTALLATION --> {
+    App is installed successfully whose details are <?php
+$ENVIRONMENT_VARIABLES = [
+	'APP_NAME'=> 'MD DEVELOP Build',
+    'APP_VERSION' => '1.0',
+    'DOMAIN'=> 'mddevelopbuild.com',
+    'DEV_NAME'=> 'Gaurav Singh',
+    'APP_PHONE'=>'8447572565',
+    'APP_MAIL_ID'=>'info@mddevelopbuild.com',
+    'SENDER_MAIL'=>'notification@mddevelopbuild.com',
+    'RECEIVER_MAIL'=>'gauravsinghigc@gmail.com',
+    'APP_ADDRESS'=>'11/7 Opposite Pillar No. 60 Near DS Door, Main Mathura Road, faridabad , Haryana',
+    'MAP_LINK'=>'None',
+    'DOWNLOAD_APP_LINK'=>'',
+    'DB_OPTION'=>'true',
+    'DB_HOST' => 'localhost',
+    'DB_USERNAME' => 'root',
+    'DB_PASSWORD' => '',
+    'DB_NAME' => 'mddevelops',
+    'DB_PORT' => '3306',
+    'WORK_ENV' => 'dev',
+    'APP_STATUS' => 'INSTALLED'
+];
+foreach ($ENVIRONMENT_VARIABLES as $key => $value) {
+      putenv("$key=$value");
+  }
+ 
+}
+
+SystemDetails --> [
+    'DateTime' => 'Fri 30 Apr, 2021 08:04:06 pm',
+    'IpAddress' => '127.0.0.1',
+    'DeviceType' => 'Computer',
+    'Tpv6_P' => 'Windows NT GAURAV-HP 10.0 build 19043 (Windows 10) AMD64',
+    'OS' => 'Windows NT',
+    'OS_RELEASE' => '10.0',
+    'OS_Version' =>'build 19043 (Windows 10)',
+    'SystemType' => 'AMD64',
+    'HostName' =>'GAURAV-HP',
+    'MoreDetails' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36'
+ ]
+
+
+----------------------- Entry At 08:04 PM ---------------------------------
+
+=> APP_INSTALLATION --> {
+    App is installed successfully whose details are <?php
+$ENVIRONMENT_VARIABLES = [
+	'APP_NAME'=> 'MD DEVELOP Build',
+    'APP_VERSION' => '1.0',
+    'DOMAIN'=> 'mddevelopbuild.com',
+    'DEV_NAME'=> 'Gaurav Singh',
+    'APP_PHONE'=>'8447572565',
+    'APP_MAIL_ID'=>'info@mddevelopbuild.com',
+    'SENDER_MAIL'=>'notification@mddevelopbuild.com',
+    'RECEIVER_MAIL'=>'gauravsinghigc@gmail.com',
+    'APP_ADDRESS'=>'11/7 Opposite Pillar No. 60 Near DS Door, Main Mathura Road, faridabad , Haryana',
+    'MAP_LINK'=>'None',
+    'DOWNLOAD_APP_LINK'=>'',
+    'DB_OPTION'=>'true',
+    'DB_HOST' => 'localhost',
+    'DB_USERNAME' => 'root',
+    'DB_PASSWORD' => '',
+    'DB_NAME' => 'mddevelops',
+    'DB_PORT' => '3306',
+    'WORK_ENV' => 'dev',
+    'APP_STATUS' => 'INSTALLED'
+];
+foreach ($ENVIRONMENT_VARIABLES as $key => $value) {
+      putenv("$key=$value");
+  }
+ 
+}
+
+SystemDetails --> [
+    'DateTime' => 'Fri 30 Apr, 2021 08:04:14 pm',
+    'IpAddress' => '127.0.0.1',
+    'DeviceType' => 'Computer',
+    'Tpv6_P' => 'Windows NT GAURAV-HP 10.0 build 19043 (Windows 10) AMD64',
+    'OS' => 'Windows NT',
+    'OS_RELEASE' => '10.0',
+    'OS_Version' =>'build 19043 (Windows 10)',
+    'SystemType' => 'AMD64',
+    'HostName' =>'GAURAV-HP',
+    'MoreDetails' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36'
+ ]
+
+
+----------------------- Entry At 08:04 PM ---------------------------------
+
+=> APP_INSTALLATION --> {
+    App is installed successfully whose details are <?php
+$ENVIRONMENT_VARIABLES = [
+	'APP_NAME'=> 'MD DEVELOP Build',
+    'APP_VERSION' => '1.0',
+    'DOMAIN'=> 'mddevelopbuild.com',
+    'DEV_NAME'=> 'Gaurav Singh',
+    'APP_PHONE'=>'8447572565',
+    'APP_MAIL_ID'=>'info@mddevelopbuild.com',
+    'SENDER_MAIL'=>'notification@mddevelopbuild.com',
+    'RECEIVER_MAIL'=>'gauravsinghigc@gmail.com',
+    'APP_ADDRESS'=>'11/7 Opposite Pillar No. 60 Near DS Door, Main Mathura Road, faridabad , Haryana',
+    'MAP_LINK'=>'None',
+    'DOWNLOAD_APP_LINK'=>'',
+    'DB_OPTION'=>'true',
+    'DB_HOST' => 'localhost',
+    'DB_USERNAME' => 'root',
+    'DB_PASSWORD' => '',
+    'DB_NAME' => 'mddevelops',
+    'DB_PORT' => '3306',
+    'WORK_ENV' => 'dev',
+    'APP_STATUS' => 'INSTALLED'
+];
+foreach ($ENVIRONMENT_VARIABLES as $key => $value) {
+      putenv("$key=$value");
+  }
+ 
+}
+
+SystemDetails --> [
+    'DateTime' => 'Fri 30 Apr, 2021 08:04:21 pm',
+    'IpAddress' => '127.0.0.1',
+    'DeviceType' => 'Computer',
+    'Tpv6_P' => 'Windows NT GAURAV-HP 10.0 build 19043 (Windows 10) AMD64',
+    'OS' => 'Windows NT',
+    'OS_RELEASE' => '10.0',
+    'OS_Version' =>'build 19043 (Windows 10)',
+    'SystemType' => 'AMD64',
+    'HostName' =>'GAURAV-HP',
+    'MoreDetails' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36'
+ ]
+
+
+----------------------- Entry At 08:04 PM ---------------------------------
+
+=> APP_INSTALLATION_FAILED --> {
+    App is installed failed whose details are $ENVIRONMENT_VARIABLES  
+}
+
+SystemDetails --> [
+    'DateTime' => 'Fri 30 Apr, 2021 08:04:21 pm',
+    'IpAddress' => '127.0.0.1',
+    'DeviceType' => 'Computer',
+    'Tpv6_P' => 'Windows NT GAURAV-HP 10.0 build 19043 (Windows 10) AMD64',
+    'OS' => 'Windows NT',
+    'OS_RELEASE' => '10.0',
+    'OS_Version' =>'build 19043 (Windows 10)',
+    'SystemType' => 'AMD64',
+    'HostName' =>'GAURAV-HP',
+    'MoreDetails' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36'
+ ]
+
+
+----------------------- Entry At 08:04 PM ---------------------------------
+
+=> APP_INSTALLATION_FAILED --> {
+    App is installed failed whose details are $ENVIRONMENT_VARIABLES 	'APP_NAME'=> 'MD DEVELOP Build',
+    'APP_VERSION' => '1.0',
+    'DOMAIN'=> 'mddevelopbuild.com',
+    'DEV_NAME'=> 'Gaurav Singh',
+    'APP_PHONE'=>'8447572565',
+    'APP_MAIL_ID'=>'info@mddevelopbuild.com',
+    'SENDER_MAIL'=>'notification@mddevelopbuild.com',
+    'RECEIVER_MAIL'=>'gauravsinghigc@gmail.com',
+    'APP_ADDRESS'=>'11/7 Opposite Pillar No. 60 Near DS Door, Main Mathura Road, faridabad , Haryana',
+    'MAP_LINK'=>'None',
+    'DOWNLOAD_APP_LINK'=>'',
+    'DB_OPTION'=>'true',
+    'DB_HOST' => 'localhost',
+    'DB_USERNAME' => 'root',
+    'DB_PASSWORD' => '',
+    'DB_NAME' => 'mddevelops',
+    'DB_PORT' => '3306',
+    'WORK_ENV' => 'dev',
+    'APP_STATUS' => 'INSTALLED' 
+}
+
+SystemDetails --> [
+    'DateTime' => 'Fri 30 Apr, 2021 08:04:00 pm',
+    'IpAddress' => '127.0.0.1',
+    'DeviceType' => 'Computer',
+    'Tpv6_P' => 'Windows NT GAURAV-HP 10.0 build 19043 (Windows 10) AMD64',
+    'OS' => 'Windows NT',
+    'OS_RELEASE' => '10.0',
+    'OS_Version' =>'build 19043 (Windows 10)',
+    'SystemType' => 'AMD64',
+    'HostName' =>'GAURAV-HP',
+    'MoreDetails' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36'
+ ]
+
+
+----------------------- Entry At 08:04 PM ---------------------------------
+
+=> APP_INSTALLATION_FAILED --> {
+    App is installed failed whose details are $ENVIRONMENT_VARIABLES 	'APP_NAME'=> 'MD DEVELOP Build',
+    'APP_VERSION' => '1.0',
+    'DOMAIN'=> 'mddevelopbuild.com',
+    'DEV_NAME'=> 'Gaurav Singh',
+    'APP_PHONE'=>'8447572565',
+    'APP_MAIL_ID'=>'info@mddevelopbuild.com',
+    'SENDER_MAIL'=>'notification@mddevelopbuild.com',
+    'RECEIVER_MAIL'=>'gauravsinghigc@gmail.com',
+    'APP_ADDRESS'=>'11/7 Opposite Pillar No. 60 Near DS Door, Main Mathura Road, faridabad , Haryana',
+    'MAP_LINK'=>'None',
+    'DOWNLOAD_APP_LINK'=>'',
+    'DB_OPTION'=>'true',
+    'DB_HOST' => 'localhost',
+    'DB_USERNAME' => 'root',
+    'DB_PASSWORD' => '',
+    'DB_NAME' => 'mddevelops',
+    'DB_PORT' => '3306',
+    'WORK_ENV' => 'dev',
+    'APP_STATUS' => 'INSTALLED' 
+}
+
+SystemDetails --> [
+    'DateTime' => 'Fri 30 Apr, 2021 08:04:32 pm',
+    'IpAddress' => '127.0.0.1',
+    'DeviceType' => 'Computer',
+    'Tpv6_P' => 'Windows NT GAURAV-HP 10.0 build 19043 (Windows 10) AMD64',
+    'OS' => 'Windows NT',
+    'OS_RELEASE' => '10.0',
+    'OS_Version' =>'build 19043 (Windows 10)',
+    'SystemType' => 'AMD64',
+    'HostName' =>'GAURAV-HP',
+    'MoreDetails' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36'
+ ]
+
+
+----------------------- Entry At 08:04 PM ---------------------------------
+
+=> APP_INSTALLATION_FAILED --> {
+    App is installed failed whose details are $ENVIRONMENT_VARIABLES 	'APP_NAME'=> 'MD DEVELOP Build',
+    'APP_VERSION' => '1.0',
+    'DOMAIN'=> 'mddevelopbuild.com',
+    'DEV_NAME'=> 'Gaurav Singh',
+    'APP_PHONE'=>'8447572565',
+    'APP_MAIL_ID'=>'info@mddevelopbuild.com',
+    'SENDER_MAIL'=>'notification@mddevelopbuild.com',
+    'RECEIVER_MAIL'=>'gauravsinghigc@gmail.com',
+    'APP_ADDRESS'=>'11/7 Opposite Pillar No. 60 Near DS Door, Main Mathura Road, faridabad , Haryana',
+    'MAP_LINK'=>'None',
+    'DOWNLOAD_APP_LINK'=>'',
+    'DB_OPTION'=>'true',
+    'DB_HOST' => 'localhost',
+    'DB_USERNAME' => 'root',
+    'DB_PASSWORD' => '',
+    'DB_NAME' => 'mddevelops',
+    'DB_PORT' => '3306',
+    'WORK_ENV' => 'dev',
+    'APP_STATUS' => 'INSTALLED' 
+}
+
+SystemDetails --> [
+    'DateTime' => 'Fri 30 Apr, 2021 08:04:24 pm',
+    'IpAddress' => '127.0.0.1',
+    'DeviceType' => 'Computer',
+    'Tpv6_P' => 'Windows NT GAURAV-HP 10.0 build 19043 (Windows 10) AMD64',
+    'OS' => 'Windows NT',
+    'OS_RELEASE' => '10.0',
+    'OS_Version' =>'build 19043 (Windows 10)',
+    'SystemType' => 'AMD64',
+    'HostName' =>'GAURAV-HP',
+    'MoreDetails' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36'
+ ]
+
+
+----------------------- Entry At 08:04 PM ---------------------------------
+
+=> APP_INSTALLATION_FAILED --> {
+    App is installed failed whose details are $ENVIRONMENT_VARIABLES 	'APP_NAME'=> 'MD DEVELOP Build',
+    'APP_VERSION' => '1.0',
+    'DOMAIN'=> 'mddevelopbuild.com',
+    'DEV_NAME'=> 'Gaurav Singh',
+    'APP_PHONE'=>'8447572565',
+    'APP_MAIL_ID'=>'info@mddevelopbuild.com',
+    'SENDER_MAIL'=>'notification@mddevelopbuild.com',
+    'RECEIVER_MAIL'=>'gauravsinghigc@gmail.com',
+    'APP_ADDRESS'=>'11/7 Opposite Pillar No. 60 Near DS Door, Main Mathura Road, faridabad , Haryana',
+    'MAP_LINK'=>'None',
+    'DOWNLOAD_APP_LINK'=>'',
+    'DB_OPTION'=>'true',
+    'DB_HOST' => 'localhost',
+    'DB_USERNAME' => 'root',
+    'DB_PASSWORD' => '',
+    'DB_NAME' => 'mddevelops',
+    'DB_PORT' => '3306',
+    'WORK_ENV' => 'dev',
+    'APP_STATUS' => 'INSTALLED' 
+}
+
+SystemDetails --> [
+    'DateTime' => 'Fri 30 Apr, 2021 08:04:51 pm',
+    'IpAddress' => '127.0.0.1',
+    'DeviceType' => 'Computer',
+    'Tpv6_P' => 'Windows NT GAURAV-HP 10.0 build 19043 (Windows 10) AMD64',
+    'OS' => 'Windows NT',
+    'OS_RELEASE' => '10.0',
+    'OS_Version' =>'build 19043 (Windows 10)',
+    'SystemType' => 'AMD64',
+    'HostName' =>'GAURAV-HP',
+    'MoreDetails' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36'
+ ]
+
+
+----------------------- Entry At 08:04 PM ---------------------------------
+
+=> APP_INSTALLATION_FAILED --> {
+    App is installed failed whose details are $ENVIRONMENT_VARIABLES 	'APP_NAME'=> 'MD DEVELOP Build',
+    'APP_VERSION' => '1.0',
+    'DOMAIN'=> 'mddevelopbuild.com',
+    'DEV_NAME'=> 'Gaurav Singh',
+    'APP_PHONE'=>'8447572565',
+    'APP_MAIL_ID'=>'info@mddevelopbuild.com',
+    'SENDER_MAIL'=>'notification@mddevelopbuild.com',
+    'RECEIVER_MAIL'=>'gauravsinghigc@gmail.com',
+    'APP_ADDRESS'=>'11/7 Opposite Pillar No. 60 Near DS Door, Main Mathura Road, faridabad , Haryana',
+    'MAP_LINK'=>'None',
+    'DOWNLOAD_APP_LINK'=>'',
+    'DB_OPTION'=>'true',
+    'DB_HOST' => 'localhost',
+    'DB_USERNAME' => 'root',
+    'DB_PASSWORD' => '',
+    'DB_NAME' => 'mddevelops',
+    'DB_PORT' => '3306',
+    'WORK_ENV' => 'dev',
+    'APP_STATUS' => 'INSTALLED' 
+}
+
+SystemDetails --> [
+    'DateTime' => 'Fri 30 Apr, 2021 08:04:30 pm',
+    'IpAddress' => '127.0.0.1',
+    'DeviceType' => 'Computer',
+    'Tpv6_P' => 'Windows NT GAURAV-HP 10.0 build 19043 (Windows 10) AMD64',
+    'OS' => 'Windows NT',
+    'OS_RELEASE' => '10.0',
+    'OS_Version' =>'build 19043 (Windows 10)',
+    'SystemType' => 'AMD64',
+    'HostName' =>'GAURAV-HP',
+    'MoreDetails' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36'
+ ]
+
+
+----------------------- Entry At 08:04 PM ---------------------------------
+
+=> APP_INSTALLATION_FAILED --> {
+    App is installed failed whose details are $ENVIRONMENT_VARIABLES 	'APP_NAME'=> 'MD DEVELOP Build',
+    'APP_VERSION' => '1.0',
+    'DOMAIN'=> 'mddevelopbuild.com',
+    'DEV_NAME'=> 'Gaurav Singh',
+    'APP_PHONE'=>'8447572565',
+    'APP_MAIL_ID'=>'info@mddevelopbuild.com',
+    'SENDER_MAIL'=>'notification@mddevelopbuild.com',
+    'RECEIVER_MAIL'=>'gauravsinghigc@gmail.com',
+    'APP_ADDRESS'=>'11/7 Opposite Pillar No. 60 Near DS Door, Main Mathura Road, faridabad , Haryana',
+    'MAP_LINK'=>'None',
+    'DOWNLOAD_APP_LINK'=>'',
+    'DB_OPTION'=>'true',
+    'DB_HOST' => 'localhost',
+    'DB_USERNAME' => 'root',
+    'DB_PASSWORD' => '',
+    'DB_NAME' => 'mddevelops',
+    'DB_PORT' => '3306',
+    'WORK_ENV' => 'dev',
+    'APP_STATUS' => 'INSTALLED' 
+}
+
+SystemDetails --> [
+    'DateTime' => 'Fri 30 Apr, 2021 08:04:50 pm',
+    'IpAddress' => '127.0.0.1',
+    'DeviceType' => 'Computer',
+    'Tpv6_P' => 'Windows NT GAURAV-HP 10.0 build 19043 (Windows 10) AMD64',
+    'OS' => 'Windows NT',
+    'OS_RELEASE' => '10.0',
+    'OS_Version' =>'build 19043 (Windows 10)',
+    'SystemType' => 'AMD64',
+    'HostName' =>'GAURAV-HP',
+    'MoreDetails' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36'
+ ]
+
+
+----------------------- Entry At 08:04 PM ---------------------------------
+
+=> APP_INSTALLATION_FAILED --> {
+    App is installed failed whose details are $ENVIRONMENT_VARIABLES 	'APP_NAME'=> 'MD DEVELOP Build',
+    'APP_VERSION' => '1.0',
+    'DOMAIN'=> 'mddevelopbuild.com',
+    'DEV_NAME'=> 'Gaurav Singh',
+    'APP_PHONE'=>'8447572565',
+    'APP_MAIL_ID'=>'info@mddevelopbuild.com',
+    'SENDER_MAIL'=>'notification@mddevelopbuild.com',
+    'RECEIVER_MAIL'=>'gauravsinghigc@gmail.com',
+    'APP_ADDRESS'=>'11/7 Opposite Pillar No. 60 Near DS Door, Main Mathura Road, faridabad , Haryana',
+    'MAP_LINK'=>'None',
+    'DOWNLOAD_APP_LINK'=>'',
+    'DB_OPTION'=>'true',
+    'DB_HOST' => 'localhost',
+    'DB_USERNAME' => 'root',
+    'DB_PASSWORD' => '',
+    'DB_NAME' => 'mddevelops',
+    'DB_PORT' => '3306',
+    'WORK_ENV' => 'dev',
+    'APP_STATUS' => 'INSTALLED' 
+}
+
+SystemDetails --> [
+    'DateTime' => 'Fri 30 Apr, 2021 08:04:23 pm',
+    'IpAddress' => '127.0.0.1',
+    'DeviceType' => 'Computer',
+    'Tpv6_P' => 'Windows NT GAURAV-HP 10.0 build 19043 (Windows 10) AMD64',
+    'OS' => 'Windows NT',
+    'OS_RELEASE' => '10.0',
+    'OS_Version' =>'build 19043 (Windows 10)',
+    'SystemType' => 'AMD64',
+    'HostName' =>'GAURAV-HP',
+    'MoreDetails' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36'
+ ]
+
+
+----------------------- Entry At 08:04 PM ---------------------------------
+
+=> APP_INSTALLATION_FAILED --> {
+    App is installed failed whose details are $ENVIRONMENT_VARIABLES 	'APP_NAME'=> 'MD DEVELOP Build',
+    'APP_VERSION' => '1.0',
+    'DOMAIN'=> 'mddevelopbuild.com',
+    'DEV_NAME'=> 'Gaurav Singh',
+    'APP_PHONE'=>'8447572565',
+    'APP_MAIL_ID'=>'info@mddevelopbuild.com',
+    'SENDER_MAIL'=>'notification@mddevelopbuild.com',
+    'RECEIVER_MAIL'=>'gauravsinghigc@gmail.com',
+    'APP_ADDRESS'=>'11/7 Opposite Pillar No. 60 Near DS Door, Main Mathura Road, faridabad , Haryana',
+    'MAP_LINK'=>'None',
+    'DOWNLOAD_APP_LINK'=>'',
+    'DB_OPTION'=>'true',
+    'DB_HOST' => 'localhost',
+    'DB_USERNAME' => 'root',
+    'DB_PASSWORD' => '',
+    'DB_NAME' => 'mddevelops',
+    'DB_PORT' => '3306',
+    'WORK_ENV' => 'dev',
+    'APP_STATUS' => 'INSTALLED' 
+}
+
+SystemDetails --> [
+    'DateTime' => 'Fri 30 Apr, 2021 08:04:48 pm',
+    'IpAddress' => '127.0.0.1',
+    'DeviceType' => 'Computer',
+    'Tpv6_P' => 'Windows NT GAURAV-HP 10.0 build 19043 (Windows 10) AMD64',
+    'OS' => 'Windows NT',
+    'OS_RELEASE' => '10.0',
+    'OS_Version' =>'build 19043 (Windows 10)',
+    'SystemType' => 'AMD64',
+    'HostName' =>'GAURAV-HP',
+    'MoreDetails' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36'
+ ]
+
+
+----------------------- Entry At 08:04 PM ---------------------------------
+
+=> APP_INSTALLATION_FAILED --> {
+    App is installed failed whose details are $ENVIRONMENT_VARIABLES 	'APP_NAME'=> 'MD DEVELOP Build',
+    'APP_VERSION' => '1.0',
+    'DOMAIN'=> 'mddevelopbuild.com',
+    'DEV_NAME'=> 'Gaurav Singh',
+    'APP_PHONE'=>'8447572565',
+    'APP_MAIL_ID'=>'info@mddevelopbuild.com',
+    'SENDER_MAIL'=>'notification@mddevelopbuild.com',
+    'RECEIVER_MAIL'=>'gauravsinghigc@gmail.com',
+    'APP_ADDRESS'=>'11/7 Opposite Pillar No. 60 Near DS Door, Main Mathura Road, faridabad , Haryana',
+    'MAP_LINK'=>'None',
+    'DOWNLOAD_APP_LINK'=>'',
+    'DB_OPTION'=>'true',
+    'DB_HOST' => 'localhost',
+    'DB_USERNAME' => 'root',
+    'DB_PASSWORD' => '',
+    'DB_NAME' => 'mddevelops',
+    'DB_PORT' => '3306',
+    'WORK_ENV' => 'dev',
+    'APP_STATUS' => 'INSTALLED' 
+}
+
+SystemDetails --> [
+    'DateTime' => 'Fri 30 Apr, 2021 08:04:36 pm',
+    'IpAddress' => '127.0.0.1',
+    'DeviceType' => 'Computer',
+    'Tpv6_P' => 'Windows NT GAURAV-HP 10.0 build 19043 (Windows 10) AMD64',
+    'OS' => 'Windows NT',
+    'OS_RELEASE' => '10.0',
+    'OS_Version' =>'build 19043 (Windows 10)',
+    'SystemType' => 'AMD64',
+    'HostName' =>'GAURAV-HP',
+    'MoreDetails' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36'
+ ]
+
+
+----------------------- Entry At 08:04 PM ---------------------------------
+
+=> APP_INSTALLATION_FAILED --> {
+    App is installed failed whose details are $ENVIRONMENT_VARIABLES 	'APP_NAME'=> 'MD DEVELOP Build',
+    'APP_VERSION' => '1.0',
+    'DOMAIN'=> 'mddevelopbuild.com',
+    'DEV_NAME'=> 'Gaurav Singh',
+    'APP_PHONE'=>'8447572565',
+    'APP_MAIL_ID'=>'info@mddevelopbuild.com',
+    'SENDER_MAIL'=>'notification@mddevelopbuild.com',
+    'RECEIVER_MAIL'=>'gauravsinghigc@gmail.com',
+    'APP_ADDRESS'=>'11/7 Opposite Pillar No. 60 Near DS Door, Main Mathura Road, faridabad , Haryana',
+    'MAP_LINK'=>'None',
+    'DOWNLOAD_APP_LINK'=>'',
+    'DB_OPTION'=>'true',
+    'DB_HOST' => 'localhost',
+    'DB_USERNAME' => 'root',
+    'DB_PASSWORD' => '',
+    'DB_NAME' => 'mddevelops',
+    'DB_PORT' => '3306',
+    'WORK_ENV' => 'dev',
+    'APP_STATUS' => 'INSTALLED' 
+}
+
+SystemDetails --> [
+    'DateTime' => 'Fri 30 Apr, 2021 08:04:20 pm',
+    'IpAddress' => '127.0.0.1',
+    'DeviceType' => 'Computer',
+    'Tpv6_P' => 'Windows NT GAURAV-HP 10.0 build 19043 (Windows 10) AMD64',
+    'OS' => 'Windows NT',
+    'OS_RELEASE' => '10.0',
+    'OS_Version' =>'build 19043 (Windows 10)',
+    'SystemType' => 'AMD64',
+    'HostName' =>'GAURAV-HP',
+    'MoreDetails' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36'
+ ]
+
+
+----------------------- Entry At 08:04 PM ---------------------------------
+
+=> APP_INSTALLATION_FAILED --> {
+    App is installed failed whose details are $ENVIRONMENT_VARIABLES 	'APP_NAME'=> 'MD DEVELOP Build',
+    'APP_VERSION' => '1.0',
+    'DOMAIN'=> 'mddevelopbuild.com',
+    'DEV_NAME'=> 'Gaurav Singh',
+    'APP_PHONE'=>'8447572565',
+    'APP_MAIL_ID'=>'info@mddevelopbuild.com',
+    'SENDER_MAIL'=>'notification@mddevelopbuild.com',
+    'RECEIVER_MAIL'=>'gauravsinghigc@gmail.com',
+    'APP_ADDRESS'=>'11/7 Opposite Pillar No. 60 Near DS Door, Main Mathura Road, faridabad , Haryana',
+    'MAP_LINK'=>'None',
+    'DOWNLOAD_APP_LINK'=>'',
+    'DB_OPTION'=>'true',
+    'DB_HOST' => 'localhost',
+    'DB_USERNAME' => 'root',
+    'DB_PASSWORD' => '',
+    'DB_NAME' => 'mddevelops',
+    'DB_PORT' => '3306',
+    'WORK_ENV' => 'dev',
+    'APP_STATUS' => 'INSTALLED' 
+}
+
+SystemDetails --> [
+    'DateTime' => 'Fri 30 Apr, 2021 08:04:08 pm',
+    'IpAddress' => '127.0.0.1',
+    'DeviceType' => 'Computer',
+    'Tpv6_P' => 'Windows NT GAURAV-HP 10.0 build 19043 (Windows 10) AMD64',
+    'OS' => 'Windows NT',
+    'OS_RELEASE' => '10.0',
+    'OS_Version' =>'build 19043 (Windows 10)',
+    'SystemType' => 'AMD64',
+    'HostName' =>'GAURAV-HP',
+    'MoreDetails' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36'
+ ]
+
+
+----------------------- Entry At 08:04 PM ---------------------------------
+
+=> APP_INSTALLATION_FAILED --> {
+    App is installed failed whose details are $ENVIRONMENT_VARIABLES 	'APP_NAME'=> 'MD DEVELOP Build',
+    'APP_VERSION' => '1.0',
+    'DOMAIN'=> 'mddevelopbuild.com',
+    'DEV_NAME'=> 'Gaurav Singh',
+    'APP_PHONE'=>'8447572565',
+    'APP_MAIL_ID'=>'info@mddevelopbuild.com',
+    'SENDER_MAIL'=>'notification@mddevelopbuild.com',
+    'RECEIVER_MAIL'=>'gauravsinghigc@gmail.com',
+    'APP_ADDRESS'=>'11/7 Opposite Pillar No. 60 Near DS Door, Main Mathura Road, faridabad , Haryana',
+    'MAP_LINK'=>'None',
+    'DOWNLOAD_APP_LINK'=>'',
+    'DB_OPTION'=>'true',
+    'DB_HOST' => 'localhost',
+    'DB_USERNAME' => 'root',
+    'DB_PASSWORD' => '',
+    'DB_NAME' => 'mddevelops',
+    'DB_PORT' => '3306',
+    'WORK_ENV' => 'dev',
+    'APP_STATUS' => 'INSTALLED' 
+}
+
+SystemDetails --> [
+    'DateTime' => 'Fri 30 Apr, 2021 08:04:42 pm',
+    'IpAddress' => '127.0.0.1',
+    'DeviceType' => 'Computer',
+    'Tpv6_P' => 'Windows NT GAURAV-HP 10.0 build 19043 (Windows 10) AMD64',
+    'OS' => 'Windows NT',
+    'OS_RELEASE' => '10.0',
+    'OS_Version' =>'build 19043 (Windows 10)',
+    'SystemType' => 'AMD64',
+    'HostName' =>'GAURAV-HP',
+    'MoreDetails' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36'
+ ]
+
+
+----------------------- Entry At 08:04 PM ---------------------------------
+
+=> APP_INSTALLATION_FAILED --> {
+    App is installed failed whose details are $ENVIRONMENT_VARIABLES 	'APP_NAME'=> 'MD DEVELOP Build',
+    'APP_VERSION' => '1.0',
+    'DOMAIN'=> 'mddevelopbuild.com',
+    'DEV_NAME'=> 'Gaurav Singh',
+    'APP_PHONE'=>'8447572565',
+    'APP_MAIL_ID'=>'info@mddevelopbuild.com',
+    'SENDER_MAIL'=>'notification@mddevelopbuild.com',
+    'RECEIVER_MAIL'=>'gauravsinghigc@gmail.com',
+    'APP_ADDRESS'=>'11/7 Opposite Pillar No. 60 Near DS Door, Main Mathura Road, faridabad , Haryana',
+    'MAP_LINK'=>'None',
+    'DOWNLOAD_APP_LINK'=>'',
+    'DB_OPTION'=>'true',
+    'DB_HOST' => 'localhost',
+    'DB_USERNAME' => 'root',
+    'DB_PASSWORD' => '',
+    'DB_NAME' => 'mddevelops',
+    'DB_PORT' => '3306',
+    'WORK_ENV' => 'dev',
+    'APP_STATUS' => 'INSTALLED' 
+}
+
+SystemDetails --> [
+    'DateTime' => 'Fri 30 Apr, 2021 08:04:02 pm',
+    'IpAddress' => '127.0.0.1',
+    'DeviceType' => 'Computer',
+    'Tpv6_P' => 'Windows NT GAURAV-HP 10.0 build 19043 (Windows 10) AMD64',
+    'OS' => 'Windows NT',
+    'OS_RELEASE' => '10.0',
+    'OS_Version' =>'build 19043 (Windows 10)',
+    'SystemType' => 'AMD64',
+    'HostName' =>'GAURAV-HP',
+    'MoreDetails' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36'
+ ]
+
+
+----------------------- Entry At 08:04 PM ---------------------------------
+
+=> APP_INSTALLATION_FAILED --> {
+    App is installed failed whose details are $ENVIRONMENT_VARIABLES 	'APP_NAME'=> 'MD DEVELOP Build',
+    'APP_VERSION' => '1.0',
+    'DOMAIN'=> 'mddevelopbuild.com',
+    'DEV_NAME'=> 'Gaurav Singh',
+    'APP_PHONE'=>'8447572565',
+    'APP_MAIL_ID'=>'info@mddevelopbuild.com',
+    'SENDER_MAIL'=>'notification@mddevelopbuild.com',
+    'RECEIVER_MAIL'=>'gauravsinghigc@gmail.com',
+    'APP_ADDRESS'=>'11/7 Opposite Pillar No. 60 Near DS Door, Main Mathura Road, faridabad , Haryana',
+    'MAP_LINK'=>'None',
+    'DOWNLOAD_APP_LINK'=>'',
+    'DB_OPTION'=>'true',
+    'DB_HOST' => 'localhost',
+    'DB_USERNAME' => 'root',
+    'DB_PASSWORD' => '',
+    'DB_NAME' => 'mddevelops',
+    'DB_PORT' => '3306',
+    'WORK_ENV' => 'dev',
+    'APP_STATUS' => 'INSTALLED' 
+}
+
+SystemDetails --> [
+    'DateTime' => 'Fri 30 Apr, 2021 08:04:40 pm',
+    'IpAddress' => '127.0.0.1',
+    'DeviceType' => 'Computer',
+    'Tpv6_P' => 'Windows NT GAURAV-HP 10.0 build 19043 (Windows 10) AMD64',
+    'OS' => 'Windows NT',
+    'OS_RELEASE' => '10.0',
+    'OS_Version' =>'build 19043 (Windows 10)',
+    'SystemType' => 'AMD64',
+    'HostName' =>'GAURAV-HP',
+    'MoreDetails' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36'
+ ]
+
+
+----------------------- Entry At 08:04 PM ---------------------------------
+
+=> APP_INSTALLATION_FAILED --> {
+    App is installed failed whose details are $ENVIRONMENT_VARIABLES 	'APP_NAME'=> 'MD DEVELOP Build',
+    'APP_VERSION' => '1.0',
+    'DOMAIN'=> 'mddevelopbuild.com',
+    'DEV_NAME'=> 'Gaurav Singh',
+    'APP_PHONE'=>'8447572565',
+    'APP_MAIL_ID'=>'info@mddevelopbuild.com',
+    'SENDER_MAIL'=>'notification@mddevelopbuild.com',
+    'RECEIVER_MAIL'=>'gauravsinghigc@gmail.com',
+    'APP_ADDRESS'=>'11/7 Opposite Pillar No. 60 Near DS Door, Main Mathura Road, faridabad , Haryana',
+    'MAP_LINK'=>'None',
+    'DOWNLOAD_APP_LINK'=>'',
+    'DB_OPTION'=>'true',
+    'DB_HOST' => 'localhost',
+    'DB_USERNAME' => 'root',
+    'DB_PASSWORD' => '',
+    'DB_NAME' => 'mddevelops',
+    'DB_PORT' => '3306',
+    'WORK_ENV' => 'dev',
+    'APP_STATUS' => 'INSTALLED' 
+}
+
+SystemDetails --> [
+    'DateTime' => 'Fri 30 Apr, 2021 08:04:12 pm',
+    'IpAddress' => '127.0.0.1',
+    'DeviceType' => 'Computer',
+    'Tpv6_P' => 'Windows NT GAURAV-HP 10.0 build 19043 (Windows 10) AMD64',
+    'OS' => 'Windows NT',
+    'OS_RELEASE' => '10.0',
+    'OS_Version' =>'build 19043 (Windows 10)',
+    'SystemType' => 'AMD64',
+    'HostName' =>'GAURAV-HP',
+    'MoreDetails' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36'
+ ]
+
+
+----------------------- Entry At 08:04 PM ---------------------------------
+
+=> APP_INSTALLATION_FAILED --> {
+    App is installed failed whose details are $ENVIRONMENT_VARIABLES 	'APP_NAME'=> 'MD DEVELOP Build',
+    'APP_VERSION' => '1.0',
+    'DOMAIN'=> 'mddevelopbuild.com',
+    'DEV_NAME'=> 'Gaurav Singh',
+    'APP_PHONE'=>'8447572565',
+    'APP_MAIL_ID'=>'info@mddevelopbuild.com',
+    'SENDER_MAIL'=>'notification@mddevelopbuild.com',
+    'RECEIVER_MAIL'=>'gauravsinghigc@gmail.com',
+    'APP_ADDRESS'=>'11/7 Opposite Pillar No. 60 Near DS Door, Main Mathura Road, faridabad , Haryana',
+    'MAP_LINK'=>'None',
+    'DOWNLOAD_APP_LINK'=>'',
+    'DB_OPTION'=>'true',
+    'DB_HOST' => 'localhost',
+    'DB_USERNAME' => 'root',
+    'DB_PASSWORD' => '',
+    'DB_NAME' => 'mddevelops',
+    'DB_PORT' => '3306',
+    'WORK_ENV' => 'dev',
+    'APP_STATUS' => 'INSTALLED' 
+}
+
+SystemDetails --> [
+    'DateTime' => 'Fri 30 Apr, 2021 08:04:03 pm',
+    'IpAddress' => '127.0.0.1',
+    'DeviceType' => 'Computer',
+    'Tpv6_P' => 'Windows NT GAURAV-HP 10.0 build 19043 (Windows 10) AMD64',
+    'OS' => 'Windows NT',
+    'OS_RELEASE' => '10.0',
+    'OS_Version' =>'build 19043 (Windows 10)',
+    'SystemType' => 'AMD64',
+    'HostName' =>'GAURAV-HP',
+    'MoreDetails' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36'
+ ]
+
+
+----------------------- Entry At 08:04 PM ---------------------------------
+
+=> APP_INSTALLATION_FAILED --> {
+    App is installed failed whose details are $ENVIRONMENT_VARIABLES 	'APP_NAME'=> 'MD DEVELOP Build',
+    'APP_VERSION' => '1.0',
+    'DOMAIN'=> 'mddevelopbuild.com',
+    'DEV_NAME'=> 'Gaurav Singh',
+    'APP_PHONE'=>'8447572565',
+    'APP_MAIL_ID'=>'info@mddevelopbuild.com',
+    'SENDER_MAIL'=>'notification@mddevelopbuild.com',
+    'RECEIVER_MAIL'=>'gauravsinghigc@gmail.com',
+    'APP_ADDRESS'=>'11/7 Opposite Pillar No. 60 Near DS Door, Main Mathura Road, faridabad , Haryana',
+    'MAP_LINK'=>'None',
+    'DOWNLOAD_APP_LINK'=>'',
+    'DB_OPTION'=>'true',
+    'DB_HOST' => 'localhost',
+    'DB_USERNAME' => 'root',
+    'DB_PASSWORD' => '',
+    'DB_NAME' => 'mddevelops',
+    'DB_PORT' => '3306',
+    'WORK_ENV' => 'dev',
+    'APP_STATUS' => 'INSTALLED' 
+}
+
+SystemDetails --> [
+    'DateTime' => 'Fri 30 Apr, 2021 08:04:33 pm',
+    'IpAddress' => '127.0.0.1',
+    'DeviceType' => 'Computer',
+    'Tpv6_P' => 'Windows NT GAURAV-HP 10.0 build 19043 (Windows 10) AMD64',
+    'OS' => 'Windows NT',
+    'OS_RELEASE' => '10.0',
+    'OS_Version' =>'build 19043 (Windows 10)',
+    'SystemType' => 'AMD64',
+    'HostName' =>'GAURAV-HP',
+    'MoreDetails' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36'
+ ]
+
+
+----------------------- Entry At 08:04 PM ---------------------------------
+
+=> APP_INSTALLATION_FAILED --> {
+    App is installed failed whose details are $ENVIRONMENT_VARIABLES 	'APP_NAME'=> 'MD DEVELOP Build',
+    'APP_VERSION' => '1.0',
+    'DOMAIN'=> 'mddevelopbuild.com',
+    'DEV_NAME'=> 'Gaurav Singh',
+    'APP_PHONE'=>'8447572565',
+    'APP_MAIL_ID'=>'info@mddevelopbuild.com',
+    'SENDER_MAIL'=>'notification@mddevelopbuild.com',
+    'RECEIVER_MAIL'=>'gauravsinghigc@gmail.com',
+    'APP_ADDRESS'=>'11/7 Opposite Pillar No. 60 Near DS Door, Main Mathura Road, faridabad , Haryana',
+    'MAP_LINK'=>'None',
+    'DOWNLOAD_APP_LINK'=>'',
+    'DB_OPTION'=>'true',
+    'DB_HOST' => 'localhost',
+    'DB_USERNAME' => 'root',
+    'DB_PASSWORD' => '',
+    'DB_NAME' => 'mddevelops',
+    'DB_PORT' => '3306',
+    'WORK_ENV' => 'dev',
+    'APP_STATUS' => 'INSTALLED' 
+}
+
+SystemDetails --> [
+    'DateTime' => 'Fri 30 Apr, 2021 08:04:06 pm',
+    'IpAddress' => '127.0.0.1',
+    'DeviceType' => 'Computer',
+    'Tpv6_P' => 'Windows NT GAURAV-HP 10.0 build 19043 (Windows 10) AMD64',
+    'OS' => 'Windows NT',
+    'OS_RELEASE' => '10.0',
+    'OS_Version' =>'build 19043 (Windows 10)',
+    'SystemType' => 'AMD64',
+    'HostName' =>'GAURAV-HP',
+    'MoreDetails' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36'
+ ]
+
+
+----------------------- Entry At 08:04 PM ---------------------------------
+
+=> APP_INSTALLATION_FAILED --> {
+    App is installed failed whose details are $ENVIRONMENT_VARIABLES 	'APP_NAME'=> 'MD DEVELOP Build',
+    'APP_VERSION' => '1.0',
+    'DOMAIN'=> 'mddevelopbuild.com',
+    'DEV_NAME'=> 'Gaurav Singh',
+    'APP_PHONE'=>'8447572565',
+    'APP_MAIL_ID'=>'info@mddevelopbuild.com',
+    'SENDER_MAIL'=>'notification@mddevelopbuild.com',
+    'RECEIVER_MAIL'=>'gauravsinghigc@gmail.com',
+    'APP_ADDRESS'=>'11/7 Opposite Pillar No. 60 Near DS Door, Main Mathura Road, faridabad , Haryana',
+    'MAP_LINK'=>'None',
+    'DOWNLOAD_APP_LINK'=>'',
+    'DB_OPTION'=>'true',
+    'DB_HOST' => 'localhost',
+    'DB_USERNAME' => 'root',
+    'DB_PASSWORD' => '',
+    'DB_NAME' => 'mddevelops',
+    'DB_PORT' => '3306',
+    'WORK_ENV' => 'dev',
+    'APP_STATUS' => 'INSTALLED' 
+}
+
+SystemDetails --> [
+    'DateTime' => 'Fri 30 Apr, 2021 08:04:21 pm',
+    'IpAddress' => '127.0.0.1',
+    'DeviceType' => 'Computer',
+    'Tpv6_P' => 'Windows NT GAURAV-HP 10.0 build 19043 (Windows 10) AMD64',
+    'OS' => 'Windows NT',
+    'OS_RELEASE' => '10.0',
+    'OS_Version' =>'build 19043 (Windows 10)',
+    'SystemType' => 'AMD64',
+    'HostName' =>'GAURAV-HP',
+    'MoreDetails' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36'
+ ]
+
+
+----------------------- Entry At 08:04 PM ---------------------------------
+
+=> APP_INSTALLATION_FAILED --> {
+    App is installed failed whose details are $ENVIRONMENT_VARIABLES 	'APP_NAME'=> 'MD DEVELOP Build',
+    'APP_VERSION' => '1.0',
+    'DOMAIN'=> 'mddevelopbuild.com',
+    'DEV_NAME'=> 'Gaurav Singh',
+    'APP_PHONE'=>'8447572565',
+    'APP_MAIL_ID'=>'info@mddevelopbuild.com',
+    'SENDER_MAIL'=>'notification@mddevelopbuild.com',
+    'RECEIVER_MAIL'=>'gauravsinghigc@gmail.com',
+    'APP_ADDRESS'=>'11/7 Opposite Pillar No. 60 Near DS Door, Main Mathura Road, faridabad , Haryana',
+    'MAP_LINK'=>'None',
+    'DOWNLOAD_APP_LINK'=>'',
+    'DB_OPTION'=>'true',
+    'DB_HOST' => 'localhost',
+    'DB_USERNAME' => 'root',
+    'DB_PASSWORD' => '',
+    'DB_NAME' => 'mddevelops',
+    'DB_PORT' => '3306',
+    'WORK_ENV' => 'dev',
+    'APP_STATUS' => 'INSTALLED' 
+}
+
+SystemDetails --> [
+    'DateTime' => 'Fri 30 Apr, 2021 08:04:37 pm',
+    'IpAddress' => '127.0.0.1',
+    'DeviceType' => 'Computer',
+    'Tpv6_P' => 'Windows NT GAURAV-HP 10.0 build 19043 (Windows 10) AMD64',
+    'OS' => 'Windows NT',
+    'OS_RELEASE' => '10.0',
+    'OS_Version' =>'build 19043 (Windows 10)',
+    'SystemType' => 'AMD64',
+    'HostName' =>'GAURAV-HP',
+    'MoreDetails' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36'
+ ]
+
+
+----------------------- Entry At 08:04 PM ---------------------------------
+
+=> APP_INSTALLATION_FAILED --> {
+    App is installed failed whose details are $ENVIRONMENT_VARIABLES 	'APP_NAME'=> 'MD DEVELOP Build',
+    'APP_VERSION' => '1.0',
+    'DOMAIN'=> 'mddevelopbuild.com',
+    'DEV_NAME'=> 'Gaurav Singh',
+    'APP_PHONE'=>'8447572565',
+    'APP_MAIL_ID'=>'info@mddevelopbuild.com',
+    'SENDER_MAIL'=>'notification@mddevelopbuild.com',
+    'RECEIVER_MAIL'=>'gauravsinghigc@gmail.com',
+    'APP_ADDRESS'=>'11/7 Opposite Pillar No. 60 Near DS Door, Main Mathura Road, faridabad , Haryana',
+    'MAP_LINK'=>'None',
+    'DOWNLOAD_APP_LINK'=>'',
+    'DB_OPTION'=>'true',
+    'DB_HOST' => 'localhost',
+    'DB_USERNAME' => 'root',
+    'DB_PASSWORD' => '',
+    'DB_NAME' => 'mddevelops',
+    'DB_PORT' => '3306',
+    'WORK_ENV' => 'dev',
+    'APP_STATUS' => 'INSTALLED' 
+}
+
+SystemDetails --> [
+    'DateTime' => 'Fri 30 Apr, 2021 08:04:49 pm',
+    'IpAddress' => '127.0.0.1',
+    'DeviceType' => 'Computer',
+    'Tpv6_P' => 'Windows NT GAURAV-HP 10.0 build 19043 (Windows 10) AMD64',
+    'OS' => 'Windows NT',
+    'OS_RELEASE' => '10.0',
+    'OS_Version' =>'build 19043 (Windows 10)',
+    'SystemType' => 'AMD64',
+    'HostName' =>'GAURAV-HP',
+    'MoreDetails' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36'
+ ]
+
+
+----------------------- Entry At 08:04 PM ---------------------------------
+
+=> APP_INSTALLATION_FAILED --> {
+    App is installed failed whose details are $ENVIRONMENT_VARIABLES 	'APP_NAME'=> 'MD DEVELOP Build',
+    'APP_VERSION' => '1.0',
+    'DOMAIN'=> 'mddevelopbuild.com',
+    'DEV_NAME'=> 'Gaurav Singh',
+    'APP_PHONE'=>'8447572565',
+    'APP_MAIL_ID'=>'info@mddevelopbuild.com',
+    'SENDER_MAIL'=>'notification@mddevelopbuild.com',
+    'RECEIVER_MAIL'=>'gauravsinghigc@gmail.com',
+    'APP_ADDRESS'=>'11/7 Opposite Pillar No. 60 Near DS Door, Main Mathura Road, faridabad , Haryana',
+    'MAP_LINK'=>'None',
+    'DOWNLOAD_APP_LINK'=>'',
+    'DB_OPTION'=>'true',
+    'DB_HOST' => 'localhost',
+    'DB_USERNAME' => 'root',
+    'DB_PASSWORD' => '',
+    'DB_NAME' => 'mddevelops',
+    'DB_PORT' => '3306',
+    'WORK_ENV' => 'dev',
+    'APP_STATUS' => 'INSTALLED' 
+}
+
+SystemDetails --> [
+    'DateTime' => 'Fri 30 Apr, 2021 08:04:16 pm',
+    'IpAddress' => '127.0.0.1',
+    'DeviceType' => 'Computer',
+    'Tpv6_P' => 'Windows NT GAURAV-HP 10.0 build 19043 (Windows 10) AMD64',
+    'OS' => 'Windows NT',
+    'OS_RELEASE' => '10.0',
+    'OS_Version' =>'build 19043 (Windows 10)',
+    'SystemType' => 'AMD64',
+    'HostName' =>'GAURAV-HP',
+    'MoreDetails' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36'
+ ]
+
+
+----------------------- Entry At 08:04 PM ---------------------------------
+
+=> APP_INSTALLATION_FAILED --> {
+    App is installed failed whose details are $ENVIRONMENT_VARIABLES 	'APP_NAME'=> 'MD DEVELOP Build',
+    'APP_VERSION' => '1.0',
+    'DOMAIN'=> 'mddevelopbuild.com',
+    'DEV_NAME'=> 'Gaurav Singh',
+    'APP_PHONE'=>'8447572565',
+    'APP_MAIL_ID'=>'info@mddevelopbuild.com',
+    'SENDER_MAIL'=>'notification@mddevelopbuild.com',
+    'RECEIVER_MAIL'=>'gauravsinghigc@gmail.com',
+    'APP_ADDRESS'=>'11/7 Opposite Pillar No. 60 Near DS Door, Main Mathura Road, faridabad , Haryana',
+    'MAP_LINK'=>'None',
+    'DOWNLOAD_APP_LINK'=>'',
+    'DB_OPTION'=>'true',
+    'DB_HOST' => 'localhost',
+    'DB_USERNAME' => 'root',
+    'DB_PASSWORD' => '',
+    'DB_NAME' => 'mddevelops',
+    'DB_PORT' => '3306',
+    'WORK_ENV' => 'dev',
+    'APP_STATUS' => 'INSTALLED' 
+}
+
+SystemDetails --> [
+    'DateTime' => 'Fri 30 Apr, 2021 08:04:31 pm',
+    'IpAddress' => '127.0.0.1',
+    'DeviceType' => 'Computer',
+    'Tpv6_P' => 'Windows NT GAURAV-HP 10.0 build 19043 (Windows 10) AMD64',
+    'OS' => 'Windows NT',
+    'OS_RELEASE' => '10.0',
+    'OS_Version' =>'build 19043 (Windows 10)',
+    'SystemType' => 'AMD64',
+    'HostName' =>'GAURAV-HP',
+    'MoreDetails' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36'
+ ]
+
+
+----------------------- Entry At 08:04 PM ---------------------------------
+
+=> APP_INSTALLATION_FAILED --> {
+    App is installed failed whose details are $ENVIRONMENT_VARIABLES 	'APP_NAME'=> 'MD DEVELOP Build',
+    'APP_VERSION' => '1.0',
+    'DOMAIN'=> 'mddevelopbuild.com',
+    'DEV_NAME'=> 'Gaurav Singh',
+    'APP_PHONE'=>'8447572565',
+    'APP_MAIL_ID'=>'info@mddevelopbuild.com',
+    'SENDER_MAIL'=>'notification@mddevelopbuild.com',
+    'RECEIVER_MAIL'=>'gauravsinghigc@gmail.com',
+    'APP_ADDRESS'=>'11/7 Opposite Pillar No. 60 Near DS Door, Main Mathura Road, faridabad , Haryana',
+    'MAP_LINK'=>'None',
+    'DOWNLOAD_APP_LINK'=>'',
+    'DB_OPTION'=>'true',
+    'DB_HOST' => 'localhost',
+    'DB_USERNAME' => 'root',
+    'DB_PASSWORD' => '',
+    'DB_NAME' => 'mddevelops',
+    'DB_PORT' => '3306',
+    'WORK_ENV' => 'dev',
+    'APP_STATUS' => 'INSTALLED' 
+}
+
+SystemDetails --> [
+    'DateTime' => 'Fri 30 Apr, 2021 08:04:42 pm',
+    'IpAddress' => '127.0.0.1',
+    'DeviceType' => 'Computer',
+    'Tpv6_P' => 'Windows NT GAURAV-HP 10.0 build 19043 (Windows 10) AMD64',
+    'OS' => 'Windows NT',
+    'OS_RELEASE' => '10.0',
+    'OS_Version' =>'build 19043 (Windows 10)',
+    'SystemType' => 'AMD64',
+    'HostName' =>'GAURAV-HP',
+    'MoreDetails' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36'
+ ]
+
+
+----------------------- Entry At 08:04 PM ---------------------------------
+
+=> APP_INSTALLATION_FAILED --> {
+    App is installed failed whose details are $ENVIRONMENT_VARIABLES 	'APP_NAME'=> 'MD DEVELOP Build',
+    'APP_VERSION' => '1.0',
+    'DOMAIN'=> 'mddevelopbuild.com',
+    'DEV_NAME'=> 'Gaurav Singh',
+    'APP_PHONE'=>'8447572565',
+    'APP_MAIL_ID'=>'info@mddevelopbuild.com',
+    'SENDER_MAIL'=>'notification@mddevelopbuild.com',
+    'RECEIVER_MAIL'=>'gauravsinghigc@gmail.com',
+    'APP_ADDRESS'=>'11/7 Opposite Pillar No. 60 Near DS Door, Main Mathura Road, faridabad , Haryana',
+    'MAP_LINK'=>'None',
+    'DOWNLOAD_APP_LINK'=>'',
+    'DB_OPTION'=>'true',
+    'DB_HOST' => 'localhost',
+    'DB_USERNAME' => 'root',
+    'DB_PASSWORD' => '',
+    'DB_NAME' => 'mddevelops',
+    'DB_PORT' => '3306',
+    'WORK_ENV' => 'dev',
+    'APP_STATUS' => 'INSTALLED' 
+}
+
+SystemDetails --> [
+    'DateTime' => 'Fri 30 Apr, 2021 08:04:02 pm',
+    'IpAddress' => '127.0.0.1',
+    'DeviceType' => 'Computer',
+    'Tpv6_P' => 'Windows NT GAURAV-HP 10.0 build 19043 (Windows 10) AMD64',
+    'OS' => 'Windows NT',
+    'OS_RELEASE' => '10.0',
+    'OS_Version' =>'build 19043 (Windows 10)',
+    'SystemType' => 'AMD64',
+    'HostName' =>'GAURAV-HP',
+    'MoreDetails' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36'
+ ]
+
+
+----------------------- Entry At 08:04 PM ---------------------------------
+
+=> APP_INSTALLATION_FAILED --> {
+    App is installed failed whose details are $ENVIRONMENT_VARIABLES 	'APP_NAME'=> 'MD DEVELOP Build',
+    'APP_VERSION' => '1.0',
+    'DOMAIN'=> 'mddevelopbuild.com',
+    'DEV_NAME'=> 'Gaurav Singh',
+    'APP_PHONE'=>'8447572565',
+    'APP_MAIL_ID'=>'info@mddevelopbuild.com',
+    'SENDER_MAIL'=>'notification@mddevelopbuild.com',
+    'RECEIVER_MAIL'=>'gauravsinghigc@gmail.com',
+    'APP_ADDRESS'=>'11/7 Opposite Pillar No. 60 Near DS Door, Main Mathura Road, faridabad , Haryana',
+    'MAP_LINK'=>'None',
+    'DOWNLOAD_APP_LINK'=>'',
+    'DB_OPTION'=>'true',
+    'DB_HOST' => 'localhost',
+    'DB_USERNAME' => 'root',
+    'DB_PASSWORD' => '',
+    'DB_NAME' => 'mddevelops',
+    'DB_PORT' => '3306',
+    'WORK_ENV' => 'dev',
+    'APP_STATUS' => 'INSTALLED' 
+}
+
+SystemDetails --> [
+    'DateTime' => 'Fri 30 Apr, 2021 08:04:18 pm',
+    'IpAddress' => '127.0.0.1',
+    'DeviceType' => 'Computer',
+    'Tpv6_P' => 'Windows NT GAURAV-HP 10.0 build 19043 (Windows 10) AMD64',
+    'OS' => 'Windows NT',
+    'OS_RELEASE' => '10.0',
+    'OS_Version' =>'build 19043 (Windows 10)',
+    'SystemType' => 'AMD64',
+    'HostName' =>'GAURAV-HP',
+    'MoreDetails' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36'
+ ]
+
+
+----------------------- Entry At 08:04 PM ---------------------------------
+
+=> APP_INSTALLATION_FAILED --> {
+    App is installed failed whose details are $ENVIRONMENT_VARIABLES 	'APP_NAME'=> 'MD DEVELOP Build',
+    'APP_VERSION' => '1.0',
+    'DOMAIN'=> 'mddevelopbuild.com',
+    'DEV_NAME'=> 'Gaurav Singh',
+    'APP_PHONE'=>'8447572565',
+    'APP_MAIL_ID'=>'info@mddevelopbuild.com',
+    'SENDER_MAIL'=>'notification@mddevelopbuild.com',
+    'RECEIVER_MAIL'=>'gauravsinghigc@gmail.com',
+    'APP_ADDRESS'=>'11/7 Opposite Pillar No. 60 Near DS Door, Main Mathura Road, faridabad , Haryana',
+    'MAP_LINK'=>'None',
+    'DOWNLOAD_APP_LINK'=>'',
+    'DB_OPTION'=>'true',
+    'DB_HOST' => 'localhost',
+    'DB_USERNAME' => 'root',
+    'DB_PASSWORD' => '',
+    'DB_NAME' => 'mddevelops',
+    'DB_PORT' => '3306',
+    'WORK_ENV' => 'dev',
+    'APP_STATUS' => 'INSTALLED' 
+}
+
+SystemDetails --> [
+    'DateTime' => 'Fri 30 Apr, 2021 08:04:27 pm',
+    'IpAddress' => '127.0.0.1',
+    'DeviceType' => 'Computer',
+    'Tpv6_P' => 'Windows NT GAURAV-HP 10.0 build 19043 (Windows 10) AMD64',
+    'OS' => 'Windows NT',
+    'OS_RELEASE' => '10.0',
+    'OS_Version' =>'build 19043 (Windows 10)',
+    'SystemType' => 'AMD64',
+    'HostName' =>'GAURAV-HP',
+    'MoreDetails' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36'
+ ]
+
+
+----------------------- Entry At 08:04 PM ---------------------------------
+
+=> APP_INSTALLATION_FAILED --> {
+    App is installed failed whose details are $ENVIRONMENT_VARIABLES 	'APP_NAME'=> 'MD DEVELOP Build',
+    'APP_VERSION' => '1.0',
+    'DOMAIN'=> 'mddevelopbuild.com',
+    'DEV_NAME'=> 'Gaurav Singh',
+    'APP_PHONE'=>'8447572565',
+    'APP_MAIL_ID'=>'info@mddevelopbuild.com',
+    'SENDER_MAIL'=>'notification@mddevelopbuild.com',
+    'RECEIVER_MAIL'=>'gauravsinghigc@gmail.com',
+    'APP_ADDRESS'=>'11/7 Opposite Pillar No. 60 Near DS Door, Main Mathura Road, faridabad , Haryana',
+    'MAP_LINK'=>'None',
+    'DOWNLOAD_APP_LINK'=>'',
+    'DB_OPTION'=>'true',
+    'DB_HOST' => 'localhost',
+    'DB_USERNAME' => 'root',
+    'DB_PASSWORD' => '',
+    'DB_NAME' => 'mddevelops',
+    'DB_PORT' => '3306',
+    'WORK_ENV' => 'dev',
+    'APP_STATUS' => 'INSTALLED' 
+}
+
+SystemDetails --> [
+    'DateTime' => 'Fri 30 Apr, 2021 08:04:41 pm',
+    'IpAddress' => '127.0.0.1',
+    'DeviceType' => 'Computer',
+    'Tpv6_P' => 'Windows NT GAURAV-HP 10.0 build 19043 (Windows 10) AMD64',
+    'OS' => 'Windows NT',
+    'OS_RELEASE' => '10.0',
+    'OS_Version' =>'build 19043 (Windows 10)',
+    'SystemType' => 'AMD64',
+    'HostName' =>'GAURAV-HP',
+    'MoreDetails' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36'
+ ]
+
+
+----------------------- Entry At 08:04 PM ---------------------------------
+
+=> APP_INSTALLATION_FAILED --> {
+    App is installed failed whose details are $ENVIRONMENT_VARIABLES 	'APP_NAME'=> 'MD DEVELOP Build',
+    'APP_VERSION' => '1.0',
+    'DOMAIN'=> 'mddevelopbuild.com',
+    'DEV_NAME'=> 'Gaurav Singh',
+    'APP_PHONE'=>'8447572565',
+    'APP_MAIL_ID'=>'info@mddevelopbuild.com',
+    'SENDER_MAIL'=>'notification@mddevelopbuild.com',
+    'RECEIVER_MAIL'=>'gauravsinghigc@gmail.com',
+    'APP_ADDRESS'=>'11/7 Opposite Pillar No. 60 Near DS Door, Main Mathura Road, faridabad , Haryana',
+    'MAP_LINK'=>'None',
+    'DOWNLOAD_APP_LINK'=>'',
+    'DB_OPTION'=>'true',
+    'DB_HOST' => 'localhost',
+    'DB_USERNAME' => 'root',
+    'DB_PASSWORD' => '',
+    'DB_NAME' => 'mddevelops',
+    'DB_PORT' => '3306',
+    'WORK_ENV' => 'dev',
+    'APP_STATUS' => 'INSTALLED' 
+}
+
+SystemDetails --> [
+    'DateTime' => 'Fri 30 Apr, 2021 08:04:23 pm',
+    'IpAddress' => '127.0.0.1',
+    'DeviceType' => 'Computer',
+    'Tpv6_P' => 'Windows NT GAURAV-HP 10.0 build 19043 (Windows 10) AMD64',
+    'OS' => 'Windows NT',
+    'OS_RELEASE' => '10.0',
+    'OS_Version' =>'build 19043 (Windows 10)',
+    'SystemType' => 'AMD64',
+    'HostName' =>'GAURAV-HP',
+    'MoreDetails' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36'
+ ]
+
+
+----------------------- Entry At 08:04 PM ---------------------------------
+
+=> APP_INSTALLATION_FAILED --> {
+    App is installed failed whose details are $ENVIRONMENT_VARIABLES 	'APP_NAME'=> 'MD DEVELOP Build',
+    'APP_VERSION' => '1.0',
+    'DOMAIN'=> 'mddevelopbuild.com',
+    'DEV_NAME'=> 'Gaurav Singh',
+    'APP_PHONE'=>'8447572565',
+    'APP_MAIL_ID'=>'info@mddevelopbuild.com',
+    'SENDER_MAIL'=>'notification@mddevelopbuild.com',
+    'RECEIVER_MAIL'=>'gauravsinghigc@gmail.com',
+    'APP_ADDRESS'=>'11/7 Opposite Pillar No. 60 Near DS Door, Main Mathura Road, faridabad , Haryana',
+    'MAP_LINK'=>'None',
+    'DOWNLOAD_APP_LINK'=>'',
+    'DB_OPTION'=>'true',
+    'DB_HOST' => 'localhost',
+    'DB_USERNAME' => 'root',
+    'DB_PASSWORD' => '',
+    'DB_NAME' => 'mddevelops',
+    'DB_PORT' => '3306',
+    'WORK_ENV' => 'dev',
+    'APP_STATUS' => 'INSTALLED' 
+}
+
+SystemDetails --> [
+    'DateTime' => 'Fri 30 Apr, 2021 08:04:39 pm',
+    'IpAddress' => '127.0.0.1',
+    'DeviceType' => 'Computer',
+    'Tpv6_P' => 'Windows NT GAURAV-HP 10.0 build 19043 (Windows 10) AMD64',
+    'OS' => 'Windows NT',
+    'OS_RELEASE' => '10.0',
+    'OS_Version' =>'build 19043 (Windows 10)',
+    'SystemType' => 'AMD64',
+    'HostName' =>'GAURAV-HP',
+    'MoreDetails' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36'
+ ]
+
+
+----------------------- Entry At 08:04 PM ---------------------------------
+
+=> APP_INSTALLATION_FAILED --> {
+    App is installed failed whose details are $ENVIRONMENT_VARIABLES 	'APP_NAME'=> 'MD DEVELOP Build',
+    'APP_VERSION' => '1.0',
+    'DOMAIN'=> 'mddevelopbuild.com',
+    'DEV_NAME'=> 'Gaurav Singh',
+    'APP_PHONE'=>'8447572565',
+    'APP_MAIL_ID'=>'info@mddevelopbuild.com',
+    'SENDER_MAIL'=>'notification@mddevelopbuild.com',
+    'RECEIVER_MAIL'=>'gauravsinghigc@gmail.com',
+    'APP_ADDRESS'=>'11/7 Opposite Pillar No. 60 Near DS Door, Main Mathura Road, faridabad , Haryana',
+    'MAP_LINK'=>'None',
+    'DOWNLOAD_APP_LINK'=>'',
+    'DB_OPTION'=>'true',
+    'DB_HOST' => 'localhost',
+    'DB_USERNAME' => 'root',
+    'DB_PASSWORD' => '',
+    'DB_NAME' => 'mddevelops',
+    'DB_PORT' => '3306',
+    'WORK_ENV' => 'dev',
+    'APP_STATUS' => 'INSTALLED' 
+}
+
+SystemDetails --> [
+    'DateTime' => 'Fri 30 Apr, 2021 08:04:15 pm',
+    'IpAddress' => '127.0.0.1',
+    'DeviceType' => 'Computer',
+    'Tpv6_P' => 'Windows NT GAURAV-HP 10.0 build 19043 (Windows 10) AMD64',
+    'OS' => 'Windows NT',
+    'OS_RELEASE' => '10.0',
+    'OS_Version' =>'build 19043 (Windows 10)',
+    'SystemType' => 'AMD64',
+    'HostName' =>'GAURAV-HP',
+    'MoreDetails' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36'
+ ]
+
+
+----------------------- Entry At 08:04 PM ---------------------------------
+
+=> APP_INSTALLATION_FAILED --> {
+    App is installed failed whose details are $ENVIRONMENT_VARIABLES 	'APP_NAME'=> 'MD DEVELOP Build',
+    'APP_VERSION' => '1.0',
+    'DOMAIN'=> 'mddevelopbuild.com',
+    'DEV_NAME'=> 'Gaurav Singh',
+    'APP_PHONE'=>'8447572565',
+    'APP_MAIL_ID'=>'info@mddevelopbuild.com',
+    'SENDER_MAIL'=>'notification@mddevelopbuild.com',
+    'RECEIVER_MAIL'=>'gauravsinghigc@gmail.com',
+    'APP_ADDRESS'=>'11/7 Opposite Pillar No. 60 Near DS Door, Main Mathura Road, faridabad , Haryana',
+    'MAP_LINK'=>'None',
+    'DOWNLOAD_APP_LINK'=>'',
+    'DB_OPTION'=>'true',
+    'DB_HOST' => 'localhost',
+    'DB_USERNAME' => 'root',
+    'DB_PASSWORD' => '',
+    'DB_NAME' => 'mddevelops',
+    'DB_PORT' => '3306',
+    'WORK_ENV' => 'dev',
+    'APP_STATUS' => 'INSTALLED' 
+}
+
+SystemDetails --> [
+    'DateTime' => 'Fri 30 Apr, 2021 08:04:00 pm',
+    'IpAddress' => '127.0.0.1',
+    'DeviceType' => 'Computer',
+    'Tpv6_P' => 'Windows NT GAURAV-HP 10.0 build 19043 (Windows 10) AMD64',
+    'OS' => 'Windows NT',
+    'OS_RELEASE' => '10.0',
+    'OS_Version' =>'build 19043 (Windows 10)',
+    'SystemType' => 'AMD64',
+    'HostName' =>'GAURAV-HP',
+    'MoreDetails' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36'
+ ]
+
+
+----------------------- Entry At 08:04 PM ---------------------------------
+
+=> APP_INSTALLATION_FAILED --> {
+    App is installed failed whose details are $ENVIRONMENT_VARIABLES 	'APP_NAME'=> 'MD DEVELOP Build',
+    'APP_VERSION' => '1.0',
+    'DOMAIN'=> 'mddevelopbuild.com',
+    'DEV_NAME'=> 'Gaurav Singh',
+    'APP_PHONE'=>'8447572565',
+    'APP_MAIL_ID'=>'info@mddevelopbuild.com',
+    'SENDER_MAIL'=>'notification@mddevelopbuild.com',
+    'RECEIVER_MAIL'=>'gauravsinghigc@gmail.com',
+    'APP_ADDRESS'=>'11/7 Opposite Pillar No. 60 Near DS Door, Main Mathura Road, faridabad , Haryana',
+    'MAP_LINK'=>'None',
+    'DOWNLOAD_APP_LINK'=>'',
+    'DB_OPTION'=>'true',
+    'DB_HOST' => 'localhost',
+    'DB_USERNAME' => 'root',
+    'DB_PASSWORD' => '',
+    'DB_NAME' => 'mddevelops',
+    'DB_PORT' => '3306',
+    'WORK_ENV' => 'dev',
+    'APP_STATUS' => 'INSTALLED' 
+}
+
+SystemDetails --> [
+    'DateTime' => 'Fri 30 Apr, 2021 08:04:25 pm',
+    'IpAddress' => '127.0.0.1',
+    'DeviceType' => 'Computer',
+    'Tpv6_P' => 'Windows NT GAURAV-HP 10.0 build 19043 (Windows 10) AMD64',
+    'OS' => 'Windows NT',
+    'OS_RELEASE' => '10.0',
+    'OS_Version' =>'build 19043 (Windows 10)',
+    'SystemType' => 'AMD64',
+    'HostName' =>'GAURAV-HP',
+    'MoreDetails' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36'
+ ]
+
+
+----------------------- Entry At 08:04 PM ---------------------------------
+
+=> APP_INSTALLATION_FAILED --> {
+    App is installed failed whose details are $ENVIRONMENT_VARIABLES 	'APP_NAME'=> 'MD DEVELOP Build',
+    'APP_VERSION' => '1.0',
+    'DOMAIN'=> 'mddevelopbuild.com',
+    'DEV_NAME'=> 'Gaurav Singh',
+    'APP_PHONE'=>'8447572565',
+    'APP_MAIL_ID'=>'info@mddevelopbuild.com',
+    'SENDER_MAIL'=>'notification@mddevelopbuild.com',
+    'RECEIVER_MAIL'=>'gauravsinghigc@gmail.com',
+    'APP_ADDRESS'=>'11/7 Opposite Pillar No. 60 Near DS Door, Main Mathura Road, faridabad , Haryana',
+    'MAP_LINK'=>'None',
+    'DOWNLOAD_APP_LINK'=>'',
+    'DB_OPTION'=>'true',
+    'DB_HOST' => 'localhost',
+    'DB_USERNAME' => 'root',
+    'DB_PASSWORD' => '',
+    'DB_NAME' => 'mddevelops',
+    'DB_PORT' => '3306',
+    'WORK_ENV' => 'dev',
+    'APP_STATUS' => 'INSTALLED' 
+}
+
+SystemDetails --> [
+    'DateTime' => 'Fri 30 Apr, 2021 08:04:03 pm',
+    'IpAddress' => '127.0.0.1',
+    'DeviceType' => 'Computer',
+    'Tpv6_P' => 'Windows NT GAURAV-HP 10.0 build 19043 (Windows 10) AMD64',
+    'OS' => 'Windows NT',
+    'OS_RELEASE' => '10.0',
+    'OS_Version' =>'build 19043 (Windows 10)',
+    'SystemType' => 'AMD64',
+    'HostName' =>'GAURAV-HP',
+    'MoreDetails' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36'
+ ]
+
+
+----------------------- Entry At 08:04 PM ---------------------------------
+
+=> APP_INSTALLATION_FAILED --> {
+    App is installed failed whose details are $ENVIRONMENT_VARIABLES 	'APP_NAME'=> 'MD DEVELOP Build',
+    'APP_VERSION' => '1.0',
+    'DOMAIN'=> 'mddevelopbuild.com',
+    'DEV_NAME'=> 'Gaurav Singh',
+    'APP_PHONE'=>'8447572565',
+    'APP_MAIL_ID'=>'info@mddevelopbuild.com',
+    'SENDER_MAIL'=>'notification@mddevelopbuild.com',
+    'RECEIVER_MAIL'=>'gauravsinghigc@gmail.com',
+    'APP_ADDRESS'=>'11/7 Opposite Pillar No. 60 Near DS Door, Main Mathura Road, faridabad , Haryana',
+    'MAP_LINK'=>'None',
+    'DOWNLOAD_APP_LINK'=>'',
+    'DB_OPTION'=>'true',
+    'DB_HOST' => 'localhost',
+    'DB_USERNAME' => 'root',
+    'DB_PASSWORD' => '',
+    'DB_NAME' => 'mddevelops',
+    'DB_PORT' => '3306',
+    'WORK_ENV' => 'dev',
+    'APP_STATUS' => 'INSTALLED' 
+}
+
+SystemDetails --> [
+    'DateTime' => 'Fri 30 Apr, 2021 08:04:23 pm',
+    'IpAddress' => '127.0.0.1',
+    'DeviceType' => 'Computer',
+    'Tpv6_P' => 'Windows NT GAURAV-HP 10.0 build 19043 (Windows 10) AMD64',
+    'OS' => 'Windows NT',
+    'OS_RELEASE' => '10.0',
+    'OS_Version' =>'build 19043 (Windows 10)',
+    'SystemType' => 'AMD64',
+    'HostName' =>'GAURAV-HP',
+    'MoreDetails' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36'
+ ]
+
+
+----------------------- Entry At 08:04 PM ---------------------------------
+
+=> APP_INSTALLATION_FAILED --> {
+    App is installed failed whose details are $ENVIRONMENT_VARIABLES 	'APP_NAME'=> 'MD DEVELOP Build',
+    'APP_VERSION' => '1.0',
+    'DOMAIN'=> 'mddevelopbuild.com',
+    'DEV_NAME'=> 'Gaurav Singh',
+    'APP_PHONE'=>'8447572565',
+    'APP_MAIL_ID'=>'info@mddevelopbuild.com',
+    'SENDER_MAIL'=>'notification@mddevelopbuild.com',
+    'RECEIVER_MAIL'=>'gauravsinghigc@gmail.com',
+    'APP_ADDRESS'=>'11/7 Opposite Pillar No. 60 Near DS Door, Main Mathura Road, faridabad , Haryana',
+    'MAP_LINK'=>'None',
+    'DOWNLOAD_APP_LINK'=>'',
+    'DB_OPTION'=>'true',
+    'DB_HOST' => 'localhost',
+    'DB_USERNAME' => 'root',
+    'DB_PASSWORD' => '',
+    'DB_NAME' => 'mddevelops',
+    'DB_PORT' => '3306',
+    'WORK_ENV' => 'dev',
+    'APP_STATUS' => 'INSTALLED' 
+}
+
+SystemDetails --> [
+    'DateTime' => 'Fri 30 Apr, 2021 08:04:41 pm',
+    'IpAddress' => '127.0.0.1',
+    'DeviceType' => 'Computer',
+    'Tpv6_P' => 'Windows NT GAURAV-HP 10.0 build 19043 (Windows 10) AMD64',
+    'OS' => 'Windows NT',
+    'OS_RELEASE' => '10.0',
+    'OS_Version' =>'build 19043 (Windows 10)',
+    'SystemType' => 'AMD64',
+    'HostName' =>'GAURAV-HP',
+    'MoreDetails' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36'
+ ]
+
+
+----------------------- Entry At 08:04 PM ---------------------------------
+
+=> APP_INSTALLATION_FAILED --> {
+    App is installed failed whose details are $ENVIRONMENT_VARIABLES 	'APP_NAME'=> 'MD DEVELOP Build',
+    'APP_VERSION' => '1.0',
+    'DOMAIN'=> 'mddevelopbuild.com',
+    'DEV_NAME'=> 'Gaurav Singh',
+    'APP_PHONE'=>'8447572565',
+    'APP_MAIL_ID'=>'info@mddevelopbuild.com',
+    'SENDER_MAIL'=>'notification@mddevelopbuild.com',
+    'RECEIVER_MAIL'=>'gauravsinghigc@gmail.com',
+    'APP_ADDRESS'=>'11/7 Opposite Pillar No. 60 Near DS Door, Main Mathura Road, faridabad , Haryana',
+    'MAP_LINK'=>'None',
+    'DOWNLOAD_APP_LINK'=>'',
+    'DB_OPTION'=>'true',
+    'DB_HOST' => 'localhost',
+    'DB_USERNAME' => 'root',
+    'DB_PASSWORD' => '',
+    'DB_NAME' => 'mddevelops',
+    'DB_PORT' => '3306',
+    'WORK_ENV' => 'dev',
+    'APP_STATUS' => 'INSTALLED' 
+}
+
+SystemDetails --> [
+    'DateTime' => 'Fri 30 Apr, 2021 08:04:44 pm',
+    'IpAddress' => '127.0.0.1',
+    'DeviceType' => 'Computer',
+    'Tpv6_P' => 'Windows NT GAURAV-HP 10.0 build 19043 (Windows 10) AMD64',
+    'OS' => 'Windows NT',
+    'OS_RELEASE' => '10.0',
+    'OS_Version' =>'build 19043 (Windows 10)',
+    'SystemType' => 'AMD64',
+    'HostName' =>'GAURAV-HP',
+    'MoreDetails' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36'
+ ]
+
+
+----------------------- Entry At 08:04 PM ---------------------------------
+
+=> APP_INSTALLATION_FAILED --> {
+    App is installed failed whose details are $ENVIRONMENT_VARIABLES 	'APP_NAME'=> 'MD DEVELOP Build',
+    'APP_VERSION' => '1.0',
+    'DOMAIN'=> 'mddevelopbuild.com',
+    'DEV_NAME'=> 'Gaurav Singh',
+    'APP_PHONE'=>'8447572565',
+    'APP_MAIL_ID'=>'info@mddevelopbuild.com',
+    'SENDER_MAIL'=>'notification@mddevelopbuild.com',
+    'RECEIVER_MAIL'=>'gauravsinghigc@gmail.com',
+    'APP_ADDRESS'=>'11/7 Opposite Pillar No. 60 Near DS Door, Main Mathura Road, faridabad , Haryana',
+    'MAP_LINK'=>'None',
+    'DOWNLOAD_APP_LINK'=>'',
+    'DB_OPTION'=>'true',
+    'DB_HOST' => 'localhost',
+    'DB_USERNAME' => 'root',
+    'DB_PASSWORD' => '',
+    'DB_NAME' => 'mddevelops',
+    'DB_PORT' => '3306',
+    'WORK_ENV' => 'dev',
+    'APP_STATUS' => 'INSTALLED' 
+}
+
+SystemDetails --> [
+    'DateTime' => 'Fri 30 Apr, 2021 08:04:27 pm',
+    'IpAddress' => '127.0.0.1',
+    'DeviceType' => 'Computer',
+    'Tpv6_P' => 'Windows NT GAURAV-HP 10.0 build 19043 (Windows 10) AMD64',
+    'OS' => 'Windows NT',
+    'OS_RELEASE' => '10.0',
+    'OS_Version' =>'build 19043 (Windows 10)',
+    'SystemType' => 'AMD64',
+    'HostName' =>'GAURAV-HP',
+    'MoreDetails' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36'
+ ]
+
+
+----------------------- Entry At 08:04 PM ---------------------------------
+
+=> APP_INSTALLATION_FAILED --> {
+    App is installed failed whose details are $ENVIRONMENT_VARIABLES 	'APP_NAME'=> 'MD DEVELOP Build',
+    'APP_VERSION' => '1.0',
+    'DOMAIN'=> 'mddevelopbuild.com',
+    'DEV_NAME'=> 'Gaurav Singh',
+    'APP_PHONE'=>'8447572565',
+    'APP_MAIL_ID'=>'info@mddevelopbuild.com',
+    'SENDER_MAIL'=>'notification@mddevelopbuild.com',
+    'RECEIVER_MAIL'=>'gauravsinghigc@gmail.com',
+    'APP_ADDRESS'=>'11/7 Opposite Pillar No. 60 Near DS Door, Main Mathura Road, faridabad , Haryana',
+    'MAP_LINK'=>'None',
+    'DOWNLOAD_APP_LINK'=>'',
+    'DB_OPTION'=>'true',
+    'DB_HOST' => 'localhost',
+    'DB_USERNAME' => 'root',
+    'DB_PASSWORD' => '',
+    'DB_NAME' => 'mddevelops',
+    'DB_PORT' => '3306',
+    'WORK_ENV' => 'dev',
+    'APP_STATUS' => 'INSTALLED' 
+}
+
+SystemDetails --> [
+    'DateTime' => 'Fri 30 Apr, 2021 08:04:03 pm',
+    'IpAddress' => '127.0.0.1',
+    'DeviceType' => 'Computer',
+    'Tpv6_P' => 'Windows NT GAURAV-HP 10.0 build 19043 (Windows 10) AMD64',
+    'OS' => 'Windows NT',
+    'OS_RELEASE' => '10.0',
+    'OS_Version' =>'build 19043 (Windows 10)',
+    'SystemType' => 'AMD64',
+    'HostName' =>'GAURAV-HP',
+    'MoreDetails' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36'
+ ]
+
+
+----------------------- Entry At 08:04 PM ---------------------------------
+
+=> APP_INSTALLATION_FAILED --> {
+    App is installed failed whose details are $ENVIRONMENT_VARIABLES 	'APP_NAME'=> 'MD DEVELOP Build',
+    'APP_VERSION' => '1.0',
+    'DOMAIN'=> 'mddevelopbuild.com',
+    'DEV_NAME'=> 'Gaurav Singh',
+    'APP_PHONE'=>'8447572565',
+    'APP_MAIL_ID'=>'info@mddevelopbuild.com',
+    'SENDER_MAIL'=>'notification@mddevelopbuild.com',
+    'RECEIVER_MAIL'=>'gauravsinghigc@gmail.com',
+    'APP_ADDRESS'=>'11/7 Opposite Pillar No. 60 Near DS Door, Main Mathura Road, faridabad , Haryana',
+    'MAP_LINK'=>'None',
+    'DOWNLOAD_APP_LINK'=>'',
+    'DB_OPTION'=>'true',
+    'DB_HOST' => 'localhost',
+    'DB_USERNAME' => 'root',
+    'DB_PASSWORD' => '',
+    'DB_NAME' => 'mddevelops',
+    'DB_PORT' => '3306',
+    'WORK_ENV' => 'dev',
+    'APP_STATUS' => 'INSTALLED' 
+}
+
+SystemDetails --> [
+    'DateTime' => 'Fri 30 Apr, 2021 08:04:33 pm',
+    'IpAddress' => '127.0.0.1',
+    'DeviceType' => 'Computer',
+    'Tpv6_P' => 'Windows NT GAURAV-HP 10.0 build 19043 (Windows 10) AMD64',
+    'OS' => 'Windows NT',
+    'OS_RELEASE' => '10.0',
+    'OS_Version' =>'build 19043 (Windows 10)',
+    'SystemType' => 'AMD64',
+    'HostName' =>'GAURAV-HP',
+    'MoreDetails' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36'
+ ]
+
+
+----------------------- Entry At 08:04 PM ---------------------------------
+
+=> APP_INSTALLATION_FAILED --> {
+    App is installed failed whose details are $ENVIRONMENT_VARIABLES 	'APP_NAME'=> 'MD DEVELOP Build',
+    'APP_VERSION' => '1.0',
+    'DOMAIN'=> 'mddevelopbuild.com',
+    'DEV_NAME'=> 'Gaurav Singh',
+    'APP_PHONE'=>'8447572565',
+    'APP_MAIL_ID'=>'info@mddevelopbuild.com',
+    'SENDER_MAIL'=>'notification@mddevelopbuild.com',
+    'RECEIVER_MAIL'=>'gauravsinghigc@gmail.com',
+    'APP_ADDRESS'=>'11/7 Opposite Pillar No. 60 Near DS Door, Main Mathura Road, faridabad , Haryana',
+    'MAP_LINK'=>'None',
+    'DOWNLOAD_APP_LINK'=>'',
+    'DB_OPTION'=>'true',
+    'DB_HOST' => 'localhost',
+    'DB_USERNAME' => 'root',
+    'DB_PASSWORD' => '',
+    'DB_NAME' => 'mddevelops',
+    'DB_PORT' => '3306',
+    'WORK_ENV' => 'dev',
+    'APP_STATUS' => 'INSTALLED' 
+}
+
+SystemDetails --> [
+    'DateTime' => 'Fri 30 Apr, 2021 08:04:44 pm',
+    'IpAddress' => '127.0.0.1',
+    'DeviceType' => 'Computer',
+    'Tpv6_P' => 'Windows NT GAURAV-HP 10.0 build 19043 (Windows 10) AMD64',
+    'OS' => 'Windows NT',
+    'OS_RELEASE' => '10.0',
+    'OS_Version' =>'build 19043 (Windows 10)',
+    'SystemType' => 'AMD64',
+    'HostName' =>'GAURAV-HP',
+    'MoreDetails' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36'
+ ]
+
+
+----------------------- Entry At 08:04 PM ---------------------------------
+
+=> APP_INSTALLATION_SUCCESS --> {
+    App is installed successfully whose details are $ENVIRONMENT_VARIABLES =Details 
+}
+
+SystemDetails --> [
+    'DateTime' => 'Fri 30 Apr, 2021 08:04:51 pm',
+    'IpAddress' => '127.0.0.1',
+    'DeviceType' => 'Computer',
+    'Tpv6_P' => 'Windows NT GAURAV-HP 10.0 build 19043 (Windows 10) AMD64',
+    'OS' => 'Windows NT',
+    'OS_RELEASE' => '10.0',
+    'OS_Version' =>'build 19043 (Windows 10)',
+    'SystemType' => 'AMD64',
+    'HostName' =>'GAURAV-HP',
+    'MoreDetails' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36'
+ ]
+
+
+----------------------- Entry At 08:04 PM ---------------------------------
+
+=> APP_INSTALLATION_SUCCESS --> {
+    App is installed successfully whose details are $ENVIRONMENT_VARIABLES =Details 
+}
+
+SystemDetails --> [
+    'DateTime' => 'Fri 30 Apr, 2021 08:04:28 pm',
+    'IpAddress' => '127.0.0.1',
+    'DeviceType' => 'Computer',
+    'Tpv6_P' => 'Windows NT GAURAV-HP 10.0 build 19043 (Windows 10) AMD64',
+    'OS' => 'Windows NT',
+    'OS_RELEASE' => '10.0',
+    'OS_Version' =>'build 19043 (Windows 10)',
+    'SystemType' => 'AMD64',
+    'HostName' =>'GAURAV-HP',
+    'MoreDetails' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36'
+ ]
+
+
+----------------------- Entry At 08:04 PM ---------------------------------
+
+=> APP_INSTALLATION_SUCCESS --> {
+    App is installed successfully whose details are $ENVIRONMENT_VARIABLES =Details 
+}
+
+SystemDetails --> [
+    'DateTime' => 'Fri 30 Apr, 2021 08:04:37 pm',
+    'IpAddress' => '127.0.0.1',
+    'DeviceType' => 'Computer',
+    'Tpv6_P' => 'Windows NT GAURAV-HP 10.0 build 19043 (Windows 10) AMD64',
+    'OS' => 'Windows NT',
+    'OS_RELEASE' => '10.0',
+    'OS_Version' =>'build 19043 (Windows 10)',
+    'SystemType' => 'AMD64',
+    'HostName' =>'GAURAV-HP',
+    'MoreDetails' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36'
+ ]
+
+
+----------------------- Entry At 08:04 PM ---------------------------------
+
+=> APP_INSTALLATION_SUCCESS --> {
+    App is installed successfully whose details are $ENVIRONMENT_VARIABLES 	'APP_NAME'=> 'MD DEVELOP Build',
+    'APP_VERSION' => '1.0',
+    'DOMAIN'=> 'mddevelopbuild.com',
+    'DEV_NAME'=> 'Gaurav Singh',
+    'APP_PHONE'=>'8447572565',
+    'APP_MAIL_ID'=>'info@mddevelopbuild.com',
+    'SENDER_MAIL'=>'notification@mddevelopbuild.com',
+    'RECEIVER_MAIL'=>'gauravsinghigc@gmail.com',
+    'APP_ADDRESS'=>'11/7 Opposite Pillar No. 60 Near DS Door, Main Mathura Road, faridabad , Haryana',
+    'MAP_LINK'=>'None',
+    'DOWNLOAD_APP_LINK'=>'',
+    'DB_OPTION'=>'true',
+    'DB_HOST' => 'localhost',
+    'DB_USERNAME' => 'root',
+    'DB_PASSWORD' => '',
+    'DB_NAME' => 'mddevelops',
+    'DB_PORT' => '3306',
+    'WORK_ENV' => 'dev',
+    'APP_STATUS' => 'INSTALLED' 
+}
+
+SystemDetails --> [
+    'DateTime' => 'Fri 30 Apr, 2021 08:04:01 pm',
+    'IpAddress' => '127.0.0.1',
+    'DeviceType' => 'Computer',
+    'Tpv6_P' => 'Windows NT GAURAV-HP 10.0 build 19043 (Windows 10) AMD64',
+    'OS' => 'Windows NT',
+    'OS_RELEASE' => '10.0',
+    'OS_Version' =>'build 19043 (Windows 10)',
+    'SystemType' => 'AMD64',
+    'HostName' =>'GAURAV-HP',
+    'MoreDetails' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36'
+ ]
+
+
+----------------------- Entry At 08:04 PM ---------------------------------
+
+=> APP_INSTALLATION_SUCCESS --> {
+    App is installed successfully whose details are $ENVIRONMENT_VARIABLES 	'APP_NAME'=> 'MD DEVELOP Build',
+    'APP_VERSION' => '1.0',
+    'DOMAIN'=> 'mddevelopbuild.com',
+    'DEV_NAME'=> 'Gaurav Singh',
+    'APP_PHONE'=>'8447572565',
+    'APP_MAIL_ID'=>'info@mddevelopbuild.com',
+    'SENDER_MAIL'=>'notification@mddevelopbuild.com',
+    'RECEIVER_MAIL'=>'gauravsinghigc@gmail.com',
+    'APP_ADDRESS'=>'11/7 Opposite Pillar No. 60 Near DS Door, Main Mathura Road, faridabad , Haryana',
+    'MAP_LINK'=>'None',
+    'DOWNLOAD_APP_LINK'=>'',
+    'DB_OPTION'=>'true',
+    'DB_HOST' => 'localhost',
+    'DB_USERNAME' => 'root',
+    'DB_PASSWORD' => '',
+    'DB_NAME' => 'mddevelops',
+    'DB_PORT' => '3306',
+    'WORK_ENV' => 'dev',
+    'APP_STATUS' => 'INSTALLED' 
+}
+
+SystemDetails --> [
+    'DateTime' => 'Fri 30 Apr, 2021 08:04:45 pm',
+    'IpAddress' => '127.0.0.1',
+    'DeviceType' => 'Computer',
+    'Tpv6_P' => 'Windows NT GAURAV-HP 10.0 build 19043 (Windows 10) AMD64',
+    'OS' => 'Windows NT',
+    'OS_RELEASE' => '10.0',
+    'OS_Version' =>'build 19043 (Windows 10)',
+    'SystemType' => 'AMD64',
+    'HostName' =>'GAURAV-HP',
+    'MoreDetails' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36'
+ ]
+
+
+----------------------- Entry At 08:04 PM ---------------------------------
+
+=> APP_INSTALLATION_SUCCESS --> {
+    App is installed successfully whose details are $ENVIRONMENT_VARIABLES 	'APP_NAME'=> 'MD DEVELOP Build',
+    'APP_VERSION' => '1.0',
+    'DOMAIN'=> 'mddevelopbuild.com',
+    'DEV_NAME'=> 'Gaurav Singh',
+    'APP_PHONE'=>'8447572565',
+    'APP_MAIL_ID'=>'info@mddevelopbuild.com',
+    'SENDER_MAIL'=>'notification@mddevelopbuild.com',
+    'RECEIVER_MAIL'=>'gauravsinghigc@gmail.com',
+    'APP_ADDRESS'=>'11/7 Opposite Pillar No. 60 Near DS Door, Main Mathura Road, faridabad , Haryana',
+    'MAP_LINK'=>'None',
+    'DOWNLOAD_APP_LINK'=>'',
+    'DB_OPTION'=>'true',
+    'DB_HOST' => 'localhost',
+    'DB_USERNAME' => 'root',
+    'DB_PASSWORD' => '',
+    'DB_NAME' => 'mddevelops',
+    'DB_PORT' => '3306',
+    'WORK_ENV' => 'dev',
+    'APP_STATUS' => 'INSTALLED' 
+}
+
+SystemDetails --> [
+    'DateTime' => 'Fri 30 Apr, 2021 08:04:12 pm',
+    'IpAddress' => '127.0.0.1',
+    'DeviceType' => 'Computer',
+    'Tpv6_P' => 'Windows NT GAURAV-HP 10.0 build 19043 (Windows 10) AMD64',
+    'OS' => 'Windows NT',
+    'OS_RELEASE' => '10.0',
+    'OS_Version' =>'build 19043 (Windows 10)',
+    'SystemType' => 'AMD64',
+    'HostName' =>'GAURAV-HP',
+    'MoreDetails' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36'
+ ]
+
+
+----------------------- Entry At 08:04 PM ---------------------------------
+
+=> APP_INSTALLATION_SUCCESS --> {
+    App is installed successfully whose details are $ENVIRONMENT_VARIABLES 	'APP_NAME'=> 'MD DEVELOP Build',
+    'APP_VERSION' => '1.0',
+    'DOMAIN'=> 'mddevelopbuild.com',
+    'DEV_NAME'=> 'Gaurav Singh',
+    'APP_PHONE'=>'8447572565',
+    'APP_MAIL_ID'=>'info@mddevelopbuild.com',
+    'SENDER_MAIL'=>'notification@mddevelopbuild.com',
+    'RECEIVER_MAIL'=>'gauravsinghigc@gmail.com',
+    'APP_ADDRESS'=>'11/7 Opposite Pillar No. 60 Near DS Door, Main Mathura Road, faridabad , Haryana',
+    'MAP_LINK'=>'None',
+    'DOWNLOAD_APP_LINK'=>'',
+    'DB_OPTION'=>'true',
+    'DB_HOST' => 'localhost',
+    'DB_USERNAME' => 'root',
+    'DB_PASSWORD' => '',
+    'DB_NAME' => 'mddevelops',
+    'DB_PORT' => '3306',
+    'WORK_ENV' => 'dev',
+    'APP_STATUS' => 'INSTALLED' 
+}
+
+SystemDetails --> [
+    'DateTime' => 'Fri 30 Apr, 2021 08:04:28 pm',
+    'IpAddress' => '127.0.0.1',
+    'DeviceType' => 'Computer',
+    'Tpv6_P' => 'Windows NT GAURAV-HP 10.0 build 19043 (Windows 10) AMD64',
+    'OS' => 'Windows NT',
+    'OS_RELEASE' => '10.0',
+    'OS_Version' =>'build 19043 (Windows 10)',
+    'SystemType' => 'AMD64',
+    'HostName' =>'GAURAV-HP',
+    'MoreDetails' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36'
+ ]
+
+
+----------------------- Entry At 08:04 PM ---------------------------------
+
+=> APP_INSTALLATION_SUCCESS --> {
+    App is installed successfully whose details are $ENVIRONMENT_VARIABLES 	'APP_NAME'=> 'MD DEVELOP Build',
+    'APP_VERSION' => '1.0',
+    'DOMAIN'=> 'mddevelopbuild.com',
+    'DEV_NAME'=> 'Gaurav Singh',
+    'APP_PHONE'=>'8447572565',
+    'APP_MAIL_ID'=>'info@mddevelopbuild.com',
+    'SENDER_MAIL'=>'notification@mddevelopbuild.com',
+    'RECEIVER_MAIL'=>'gauravsinghigc@gmail.com',
+    'APP_ADDRESS'=>'11/7 Opposite Pillar No. 60 Near DS Door, Main Mathura Road, faridabad , Haryana',
+    'MAP_LINK'=>'None',
+    'DOWNLOAD_APP_LINK'=>'',
+    'DB_OPTION'=>'true',
+    'DB_HOST' => 'localhost',
+    'DB_USERNAME' => 'root',
+    'DB_PASSWORD' => '',
+    'DB_NAME' => 'mddevelops',
+    'DB_PORT' => '3306',
+    'WORK_ENV' => 'dev',
+    'APP_STATUS' => 'INSTALLED' 
+}
+
+SystemDetails --> [
+    'DateTime' => 'Fri 30 Apr, 2021 08:04:43 pm',
+    'IpAddress' => '127.0.0.1',
+    'DeviceType' => 'Computer',
+    'Tpv6_P' => 'Windows NT GAURAV-HP 10.0 build 19043 (Windows 10) AMD64',
+    'OS' => 'Windows NT',
+    'OS_RELEASE' => '10.0',
+    'OS_Version' =>'build 19043 (Windows 10)',
+    'SystemType' => 'AMD64',
+    'HostName' =>'GAURAV-HP',
+    'MoreDetails' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36'
+ ]
+
+
+----------------------- Entry At 08:04 PM ---------------------------------
+
+=> APP_INSTALLATION_SUCCESS --> {
+    App is installed successfully whose details are $ENVIRONMENT_VARIABLES 	'APP_NAME'=> 'MD DEVELOP Build',
+    'APP_VERSION' => '1.0',
+    'DOMAIN'=> 'mddevelopbuild.com',
+    'DEV_NAME'=> 'Gaurav Singh',
+    'APP_PHONE'=>'8447572565',
+    'APP_MAIL_ID'=>'info@mddevelopbuild.com',
+    'SENDER_MAIL'=>'notification@mddevelopbuild.com',
+    'RECEIVER_MAIL'=>'gauravsinghigc@gmail.com',
+    'APP_ADDRESS'=>'11/7 Opposite Pillar No. 60 Near DS Door, Main Mathura Road, faridabad , Haryana',
+    'MAP_LINK'=>'None',
+    'DOWNLOAD_APP_LINK'=>'',
+    'DB_OPTION'=>'true',
+    'DB_HOST' => 'localhost',
+    'DB_USERNAME' => 'root',
+    'DB_PASSWORD' => '',
+    'DB_NAME' => 'mddevelops',
+    'DB_PORT' => '3306',
+    'WORK_ENV' => 'dev',
+    'APP_STATUS' => 'INSTALLED' 
+}
+
+SystemDetails --> [
+    'DateTime' => 'Fri 30 Apr, 2021 08:04:13 pm',
+    'IpAddress' => '127.0.0.1',
+    'DeviceType' => 'Computer',
+    'Tpv6_P' => 'Windows NT GAURAV-HP 10.0 build 19043 (Windows 10) AMD64',
+    'OS' => 'Windows NT',
+    'OS_RELEASE' => '10.0',
+    'OS_Version' =>'build 19043 (Windows 10)',
+    'SystemType' => 'AMD64',
+    'HostName' =>'GAURAV-HP',
+    'MoreDetails' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36'
+ ]
+
+
+----------------------- Entry At 08:04 PM ---------------------------------
+
+=> APP_INSTALLATION_SUCCESS --> {
+    App is installed successfully whose details are $ENVIRONMENT_VARIABLES 	'APP_NAME'=> 'MD DEVELOP Build',
+    'APP_VERSION' => '1.0',
+    'DOMAIN'=> 'mddevelopbuild.com',
+    'DEV_NAME'=> 'Gaurav Singh',
+    'APP_PHONE'=>'8447572565',
+    'APP_MAIL_ID'=>'info@mddevelopbuild.com',
+    'SENDER_MAIL'=>'notification@mddevelopbuild.com',
+    'RECEIVER_MAIL'=>'gauravsinghigc@gmail.com',
+    'APP_ADDRESS'=>'11/7 Opposite Pillar No. 60 Near DS Door, Main Mathura Road, faridabad , Haryana',
+    'MAP_LINK'=>'None',
+    'DOWNLOAD_APP_LINK'=>'',
+    'DB_OPTION'=>'true',
+    'DB_HOST' => 'localhost',
+    'DB_USERNAME' => 'root',
+    'DB_PASSWORD' => '',
+    'DB_NAME' => 'mddevelops',
+    'DB_PORT' => '3306',
+    'WORK_ENV' => 'dev',
+    'APP_STATUS' => 'INSTALLED' 
+}
+
+SystemDetails --> [
+    'DateTime' => 'Fri 30 Apr, 2021 08:04:26 pm',
+    'IpAddress' => '127.0.0.1',
+    'DeviceType' => 'Computer',
+    'Tpv6_P' => 'Windows NT GAURAV-HP 10.0 build 19043 (Windows 10) AMD64',
+    'OS' => 'Windows NT',
+    'OS_RELEASE' => '10.0',
+    'OS_Version' =>'build 19043 (Windows 10)',
+    'SystemType' => 'AMD64',
+    'HostName' =>'GAURAV-HP',
+    'MoreDetails' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36'
+ ]
+
+
+----------------------- Entry At 08:04 PM ---------------------------------
+
+=> APP_INSTALLATION_SUCCESS --> {
+    App is installed successfully whose details are $ENVIRONMENT_VARIABLES 	'APP_NAME'=> 'MD DEVELOP Build',
+    'APP_VERSION' => '1.0',
+    'DOMAIN'=> 'mddevelopbuild.com',
+    'DEV_NAME'=> 'Gaurav Singh',
+    'APP_PHONE'=>'8447572565',
+    'APP_MAIL_ID'=>'info@mddevelopbuild.com',
+    'SENDER_MAIL'=>'notification@mddevelopbuild.com',
+    'RECEIVER_MAIL'=>'gauravsinghigc@gmail.com',
+    'APP_ADDRESS'=>'11/7 Opposite Pillar No. 60 Near DS Door, Main Mathura Road, faridabad , Haryana',
+    'MAP_LINK'=>'None',
+    'DOWNLOAD_APP_LINK'=>'',
+    'DB_OPTION'=>'true',
+    'DB_HOST' => 'localhost',
+    'DB_USERNAME' => 'root',
+    'DB_PASSWORD' => '',
+    'DB_NAME' => 'mddevelops',
+    'DB_PORT' => '3306',
+    'WORK_ENV' => 'dev',
+    'APP_STATUS' => 'INSTALLED' 
+}
+
+SystemDetails --> [
+    'DateTime' => 'Fri 30 Apr, 2021 08:04:44 pm',
+    'IpAddress' => '127.0.0.1',
+    'DeviceType' => 'Computer',
+    'Tpv6_P' => 'Windows NT GAURAV-HP 10.0 build 19043 (Windows 10) AMD64',
+    'OS' => 'Windows NT',
+    'OS_RELEASE' => '10.0',
+    'OS_Version' =>'build 19043 (Windows 10)',
+    'SystemType' => 'AMD64',
+    'HostName' =>'GAURAV-HP',
+    'MoreDetails' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36'
+ ]
+
+
+----------------------- Entry At 08:04 PM ---------------------------------
+
+=> APP_INSTALLATION_SUCCESS --> {
+    App is installed successfully whose details are $ENVIRONMENT_VARIABLES 	'APP_NAME'=> 'MD DEVELOP Build',
+    'APP_VERSION' => '1.0',
+    'DOMAIN'=> 'mddevelopbuild.com',
+    'DEV_NAME'=> 'Gaurav Singh',
+    'APP_PHONE'=>'8447572565',
+    'APP_MAIL_ID'=>'info@mddevelopbuild.com',
+    'SENDER_MAIL'=>'notification@mddevelopbuild.com',
+    'RECEIVER_MAIL'=>'gauravsinghigc@gmail.com',
+    'APP_ADDRESS'=>'11/7 Opposite Pillar No. 60 Near DS Door, Main Mathura Road, faridabad , Haryana',
+    'MAP_LINK'=>'None',
+    'DOWNLOAD_APP_LINK'=>'',
+    'DB_OPTION'=>'true',
+    'DB_HOST' => 'localhost',
+    'DB_USERNAME' => 'root',
+    'DB_PASSWORD' => '',
+    'DB_NAME' => 'mddevelops',
+    'DB_PORT' => '3306',
+    'WORK_ENV' => 'dev',
+    'APP_STATUS' => 'INSTALLED' 
+}
+
+SystemDetails --> [
+    'DateTime' => 'Fri 30 Apr, 2021 08:04:11 pm',
+    'IpAddress' => '127.0.0.1',
+    'DeviceType' => 'Computer',
+    'Tpv6_P' => 'Windows NT GAURAV-HP 10.0 build 19043 (Windows 10) AMD64',
+    'OS' => 'Windows NT',
+    'OS_RELEASE' => '10.0',
+    'OS_Version' =>'build 19043 (Windows 10)',
+    'SystemType' => 'AMD64',
+    'HostName' =>'GAURAV-HP',
+    'MoreDetails' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36'
+ ]
+
+
+----------------------- Entry At 08:04 PM ---------------------------------
+
+=> APP_INSTALLATION_SUCCESS --> {
+    App is installed successfully whose details are $ENVIRONMENT_VARIABLES 	'APP_NAME'=> 'MD DEVELOP Build',
+    'APP_VERSION' => '1.0',
+    'DOMAIN'=> 'mddevelopbuild.com',
+    'DEV_NAME'=> 'Gaurav Singh',
+    'APP_PHONE'=>'8447572565',
+    'APP_MAIL_ID'=>'info@mddevelopbuild.com',
+    'SENDER_MAIL'=>'notification@mddevelopbuild.com',
+    'RECEIVER_MAIL'=>'gauravsinghigc@gmail.com',
+    'APP_ADDRESS'=>'11/7 Opposite Pillar No. 60 Near DS Door, Main Mathura Road, faridabad , Haryana',
+    'MAP_LINK'=>'None',
+    'DOWNLOAD_APP_LINK'=>'',
+    'DB_OPTION'=>'true',
+    'DB_HOST' => 'localhost',
+    'DB_USERNAME' => 'root',
+    'DB_PASSWORD' => '',
+    'DB_NAME' => 'mddevelops',
+    'DB_PORT' => '3306',
+    'WORK_ENV' => 'dev',
+    'APP_STATUS' => 'INSTALLED' 
+}
+
+SystemDetails --> [
+    'DateTime' => 'Fri 30 Apr, 2021 08:04:22 pm',
+    'IpAddress' => '127.0.0.1',
+    'DeviceType' => 'Computer',
+    'Tpv6_P' => 'Windows NT GAURAV-HP 10.0 build 19043 (Windows 10) AMD64',
+    'OS' => 'Windows NT',
+    'OS_RELEASE' => '10.0',
+    'OS_Version' =>'build 19043 (Windows 10)',
+    'SystemType' => 'AMD64',
+    'HostName' =>'GAURAV-HP',
+    'MoreDetails' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36'
+ ]
+
+
+----------------------- Entry At 08:04 PM ---------------------------------
+
+=> APP_INSTALLATION_SUCCESS --> {
+    App is installed successfully whose details are $ENVIRONMENT_VARIABLES 	'APP_NAME'=> 'MD DEVELOP Build',
+    'APP_VERSION' => '1.0',
+    'DOMAIN'=> 'mddevelopbuild.com',
+    'DEV_NAME'=> 'Gaurav Singh',
+    'APP_PHONE'=>'8447572565',
+    'APP_MAIL_ID'=>'info@mddevelopbuild.com',
+    'SENDER_MAIL'=>'notification@mddevelopbuild.com',
+    'RECEIVER_MAIL'=>'gauravsinghigc@gmail.com',
+    'APP_ADDRESS'=>'11/7 Opposite Pillar No. 60 Near DS Door, Main Mathura Road, faridabad , Haryana',
+    'MAP_LINK'=>'None',
+    'DOWNLOAD_APP_LINK'=>'',
+    'DB_OPTION'=>'true',
+    'DB_HOST' => 'localhost',
+    'DB_USERNAME' => 'root',
+    'DB_PASSWORD' => '',
+    'DB_NAME' => 'mddevelops',
+    'DB_PORT' => '3306',
+    'WORK_ENV' => 'dev',
+    'APP_STATUS' => 'INSTALLED' 
+}
+
+SystemDetails --> [
+    'DateTime' => 'Fri 30 Apr, 2021 08:04:25 pm',
+    'IpAddress' => '127.0.0.1',
+    'DeviceType' => 'Computer',
+    'Tpv6_P' => 'Windows NT GAURAV-HP 10.0 build 19043 (Windows 10) AMD64',
+    'OS' => 'Windows NT',
+    'OS_RELEASE' => '10.0',
+    'OS_Version' =>'build 19043 (Windows 10)',
+    'SystemType' => 'AMD64',
+    'HostName' =>'GAURAV-HP',
+    'MoreDetails' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36'
+ ]
+
+
+----------------------- Entry At 08:04 PM ---------------------------------
+
+=> APP_INSTALLATION_SUCCESS --> {
+    App is installed successfully whose details are $ENVIRONMENT_VARIABLES 	'APP_NAME'=> 'MD DEVELOP Build',
+    'APP_VERSION' => '1.0',
+    'DOMAIN'=> 'mddevelopbuild.com',
+    'DEV_NAME'=> 'Gaurav Singh',
+    'APP_PHONE'=>'8447572565',
+    'APP_MAIL_ID'=>'info@mddevelopbuild.com',
+    'SENDER_MAIL'=>'notification@mddevelopbuild.com',
+    'RECEIVER_MAIL'=>'gauravsinghigc@gmail.com',
+    'APP_ADDRESS'=>'11/7 Opposite Pillar No. 60 Near DS Door, Main Mathura Road, faridabad , Haryana',
+    'MAP_LINK'=>'None',
+    'DOWNLOAD_APP_LINK'=>'',
+    'DB_OPTION'=>'true',
+    'DB_HOST' => 'localhost',
+    'DB_USERNAME' => 'root',
+    'DB_PASSWORD' => '',
+    'DB_NAME' => 'mddevelops',
+    'DB_PORT' => '3306',
+    'WORK_ENV' => 'dev',
+    'APP_STATUS' => 'INSTALLED' 
+}
+
+SystemDetails --> [
+    'DateTime' => 'Fri 30 Apr, 2021 08:04:40 pm',
+    'IpAddress' => '127.0.0.1',
+    'DeviceType' => 'Computer',
+    'Tpv6_P' => 'Windows NT GAURAV-HP 10.0 build 19043 (Windows 10) AMD64',
+    'OS' => 'Windows NT',
+    'OS_RELEASE' => '10.0',
+    'OS_Version' =>'build 19043 (Windows 10)',
+    'SystemType' => 'AMD64',
+    'HostName' =>'GAURAV-HP',
+    'MoreDetails' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36'
+ ]
+
+
+----------------------- Entry At 08:04 PM ---------------------------------
+
+=> APP_INSTALLATION_SUCCESS --> {
+    App is installed successfully whose details are $ENVIRONMENT_VARIABLES 	'APP_NAME'=> 'MD DEVELOP Build',
+    'APP_VERSION' => '1.0',
+    'DOMAIN'=> 'mddevelopbuild.com',
+    'DEV_NAME'=> 'Gaurav Singh',
+    'APP_PHONE'=>'8447572565',
+    'APP_MAIL_ID'=>'info@mddevelopbuild.com',
+    'SENDER_MAIL'=>'notification@mddevelopbuild.com',
+    'RECEIVER_MAIL'=>'gauravsinghigc@gmail.com',
+    'APP_ADDRESS'=>'11/7 Opposite Pillar No. 60 Near DS Door, Main Mathura Road, faridabad , Haryana',
+    'MAP_LINK'=>'None',
+    'DOWNLOAD_APP_LINK'=>'',
+    'DB_OPTION'=>'true',
+    'DB_HOST' => 'localhost',
+    'DB_USERNAME' => 'root',
+    'DB_PASSWORD' => '',
+    'DB_NAME' => 'mddevelops',
+    'DB_PORT' => '3306',
+    'WORK_ENV' => 'dev',
+    'APP_STATUS' => 'INSTALLED' 
+}
+
+SystemDetails --> [
+    'DateTime' => 'Fri 30 Apr, 2021 08:04:00 pm',
+    'IpAddress' => '127.0.0.1',
+    'DeviceType' => 'Computer',
+    'Tpv6_P' => 'Windows NT GAURAV-HP 10.0 build 19043 (Windows 10) AMD64',
+    'OS' => 'Windows NT',
+    'OS_RELEASE' => '10.0',
+    'OS_Version' =>'build 19043 (Windows 10)',
+    'SystemType' => 'AMD64',
+    'HostName' =>'GAURAV-HP',
+    'MoreDetails' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36'
+ ]
+
+
+----------------------- Entry At 08:04 PM ---------------------------------
+
+=> APP_INSTALLATION_SUCCESS --> {
+    App is installed successfully whose details are $ENVIRONMENT_VARIABLES 	'APP_NAME'=> 'MD DEVELOP Build',
+    'APP_VERSION' => '1.0',
+    'DOMAIN'=> 'mddevelopbuild.com',
+    'DEV_NAME'=> 'Gaurav Singh',
+    'APP_PHONE'=>'8447572565',
+    'APP_MAIL_ID'=>'info@mddevelopbuild.com',
+    'SENDER_MAIL'=>'notification@mddevelopbuild.com',
+    'RECEIVER_MAIL'=>'gauravsinghigc@gmail.com',
+    'APP_ADDRESS'=>'11/7 Opposite Pillar No. 60 Near DS Door, Main Mathura Road, faridabad , Haryana',
+    'MAP_LINK'=>'None',
+    'DOWNLOAD_APP_LINK'=>'',
+    'DB_OPTION'=>'true',
+    'DB_HOST' => 'localhost',
+    'DB_USERNAME' => 'root',
+    'DB_PASSWORD' => '',
+    'DB_NAME' => 'mddevelops',
+    'DB_PORT' => '3306',
+    'WORK_ENV' => 'dev',
+    'APP_STATUS' => 'INSTALLED' 
+}
+
+SystemDetails --> [
+    'DateTime' => 'Fri 30 Apr, 2021 08:04:28 pm',
+    'IpAddress' => '127.0.0.1',
+    'DeviceType' => 'Computer',
+    'Tpv6_P' => 'Windows NT GAURAV-HP 10.0 build 19043 (Windows 10) AMD64',
+    'OS' => 'Windows NT',
+    'OS_RELEASE' => '10.0',
+    'OS_Version' =>'build 19043 (Windows 10)',
+    'SystemType' => 'AMD64',
+    'HostName' =>'GAURAV-HP',
+    'MoreDetails' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36'
+ ]
+
+
+----------------------- Entry At 08:04 PM ---------------------------------
+
+=> APP_INSTALLATION_SUCCESS --> {
+    App is installed successfully whose details are $ENVIRONMENT_VARIABLES 	'APP_NAME'=> 'MD DEVELOP Build',
+    'APP_VERSION' => '1.0',
+    'DOMAIN'=> 'mddevelopbuild.com',
+    'DEV_NAME'=> 'Gaurav Singh',
+    'APP_PHONE'=>'8447572565',
+    'APP_MAIL_ID'=>'info@mddevelopbuild.com',
+    'SENDER_MAIL'=>'notification@mddevelopbuild.com',
+    'RECEIVER_MAIL'=>'gauravsinghigc@gmail.com',
+    'APP_ADDRESS'=>'11/7 Opposite Pillar No. 60 Near DS Door, Main Mathura Road, faridabad , Haryana',
+    'MAP_LINK'=>'None',
+    'DOWNLOAD_APP_LINK'=>'',
+    'DB_OPTION'=>'true',
+    'DB_HOST' => 'localhost',
+    'DB_USERNAME' => 'root',
+    'DB_PASSWORD' => '',
+    'DB_NAME' => 'mddevelops',
+    'DB_PORT' => '3306',
+    'WORK_ENV' => 'dev',
+    'APP_STATUS' => 'INSTALLED' 
+}
+
+SystemDetails --> [
+    'DateTime' => 'Fri 30 Apr, 2021 08:04:42 pm',
+    'IpAddress' => '127.0.0.1',
+    'DeviceType' => 'Computer',
+    'Tpv6_P' => 'Windows NT GAURAV-HP 10.0 build 19043 (Windows 10) AMD64',
+    'OS' => 'Windows NT',
+    'OS_RELEASE' => '10.0',
+    'OS_Version' =>'build 19043 (Windows 10)',
+    'SystemType' => 'AMD64',
+    'HostName' =>'GAURAV-HP',
+    'MoreDetails' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36'
+ ]
+
+
+----------------------- Entry At 08:04 PM ---------------------------------
+
+=> APP_INSTALLATION_SUCCESS --> {
+    App is installed successfully whose details are $ENVIRONMENT_VARIABLES 	'APP_NAME'=> 'MD DEVELOP Build',
+    'APP_VERSION' => '1.0',
+    'DOMAIN'=> 'mddevelopbuild.com',
+    'DEV_NAME'=> 'Gaurav Singh',
+    'APP_PHONE'=>'8447572565',
+    'APP_MAIL_ID'=>'info@mddevelopbuild.com',
+    'SENDER_MAIL'=>'notification@mddevelopbuild.com',
+    'RECEIVER_MAIL'=>'gauravsinghigc@gmail.com',
+    'APP_ADDRESS'=>'11/7 Opposite Pillar No. 60 Near DS Door, Main Mathura Road, faridabad , Haryana',
+    'MAP_LINK'=>'None',
+    'DOWNLOAD_APP_LINK'=>'',
+    'DB_OPTION'=>'true',
+    'DB_HOST' => 'localhost',
+    'DB_USERNAME' => 'root',
+    'DB_PASSWORD' => '',
+    'DB_NAME' => 'mddevelops',
+    'DB_PORT' => '3306',
+    'WORK_ENV' => 'dev',
+    'APP_STATUS' => 'INSTALLED' 
+}
+
+SystemDetails --> [
+    'DateTime' => 'Fri 30 Apr, 2021 08:04:29 pm',
+    'IpAddress' => '127.0.0.1',
+    'DeviceType' => 'Computer',
+    'Tpv6_P' => 'Windows NT GAURAV-HP 10.0 build 19043 (Windows 10) AMD64',
+    'OS' => 'Windows NT',
+    'OS_RELEASE' => '10.0',
+    'OS_Version' =>'build 19043 (Windows 10)',
+    'SystemType' => 'AMD64',
+    'HostName' =>'GAURAV-HP',
+    'MoreDetails' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36'
+ ]
+
+
+----------------------- Entry At 08:04 PM ---------------------------------
+
+=> APP_INSTALLATION_SUCCESS --> {
+    App is installed successfully whose details are $ENVIRONMENT_VARIABLES 	'APP_NAME'=> 'MD DEVELOP Build',
+    'APP_VERSION' => '1.0',
+    'DOMAIN'=> 'mddevelopbuild.com',
+    'DEV_NAME'=> 'Gaurav Singh',
+    'APP_PHONE'=>'8447572565',
+    'APP_MAIL_ID'=>'info@mddevelopbuild.com',
+    'SENDER_MAIL'=>'notification@mddevelopbuild.com',
+    'RECEIVER_MAIL'=>'gauravsinghigc@gmail.com',
+    'APP_ADDRESS'=>'11/7 Opposite Pillar No. 60 Near DS Door, Main Mathura Road, faridabad , Haryana',
+    'MAP_LINK'=>'None',
+    'DOWNLOAD_APP_LINK'=>'',
+    'DB_OPTION'=>'true',
+    'DB_HOST' => 'localhost',
+    'DB_USERNAME' => 'root',
+    'DB_PASSWORD' => '',
+    'DB_NAME' => 'mddevelops',
+    'DB_PORT' => '3306',
+    'WORK_ENV' => 'dev',
+    'APP_STATUS' => 'INSTALLED' 
+}
+
+SystemDetails --> [
+    'DateTime' => 'Fri 30 Apr, 2021 08:04:40 pm',
+    'IpAddress' => '127.0.0.1',
+    'DeviceType' => 'Computer',
+    'Tpv6_P' => 'Windows NT GAURAV-HP 10.0 build 19043 (Windows 10) AMD64',
+    'OS' => 'Windows NT',
+    'OS_RELEASE' => '10.0',
+    'OS_Version' =>'build 19043 (Windows 10)',
+    'SystemType' => 'AMD64',
+    'HostName' =>'GAURAV-HP',
+    'MoreDetails' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36'
+ ]
+
+
+----------------------- Entry At 08:04 PM ---------------------------------
+
+=> APP_INSTALLATION_SUCCESS --> {
+    App is installed successfully whose details are $ENVIRONMENT_VARIABLES 	'APP_NAME'=> 'MD DEVELOP Build',
+    'APP_VERSION' => '1.0',
+    'DOMAIN'=> 'mddevelopbuild.com',
+    'DEV_NAME'=> 'Gaurav Singh',
+    'APP_PHONE'=>'8447572565',
+    'APP_MAIL_ID'=>'info@mddevelopbuild.com',
+    'SENDER_MAIL'=>'notification@mddevelopbuild.com',
+    'RECEIVER_MAIL'=>'gauravsinghigc@gmail.com',
+    'APP_ADDRESS'=>'11/7 Opposite Pillar No. 60 Near DS Door, Main Mathura Road, faridabad , Haryana',
+    'MAP_LINK'=>'None',
+    'DOWNLOAD_APP_LINK'=>'',
+    'DB_OPTION'=>'true',
+    'DB_HOST' => 'localhost',
+    'DB_USERNAME' => 'root',
+    'DB_PASSWORD' => '',
+    'DB_NAME' => 'mddevelops',
+    'DB_PORT' => '3306',
+    'WORK_ENV' => 'dev',
+    'APP_STATUS' => 'INSTALLED' 
+}
+
+SystemDetails --> [
+    'DateTime' => 'Fri 30 Apr, 2021 08:04:17 pm',
+    'IpAddress' => '127.0.0.1',
+    'DeviceType' => 'Computer',
+    'Tpv6_P' => 'Windows NT GAURAV-HP 10.0 build 19043 (Windows 10) AMD64',
+    'OS' => 'Windows NT',
+    'OS_RELEASE' => '10.0',
+    'OS_Version' =>'build 19043 (Windows 10)',
+    'SystemType' => 'AMD64',
+    'HostName' =>'GAURAV-HP',
+    'MoreDetails' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36'
+ ]
+

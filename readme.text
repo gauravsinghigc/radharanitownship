@@ -1,0 +1,16 @@
+////////////////
+Intsallation 
+///////////////
+
+-> Just open the folder or root directory at server
+-> Follow the Intsallation process.
+-> On complete installation just open project in your code IDE,
+-> First thing is to be done that is mention your work environment that is prod or dev under environment variable
+-> if work environment is prod then logs files are generated for prod dir and if work environment is dev then log fills will be generated in dev dir.
+-> if you require more environment variable then mention in the env.php file
+
+/////////////////////////
+Does and Doesn't Do
+/////////////////////////
+--> Never Delete default.env.php file
+--> don't edit config.php file

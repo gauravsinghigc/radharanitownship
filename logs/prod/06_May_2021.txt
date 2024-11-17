@@ -1,0 +1,550 @@
+
+--------------------Acitivity Logs for Thu 06 May, 2021 Used in prod Environment-------------------------------
+
+=> Log File created for Thu 06 May, 2021 which is start at 09:05 AM from 162.158.22.35
+=> File Creation System Details (It should be same for all the log entry.
+=> If any log is not same then maybe that entry/action is not from a authorised/know device.
+=> Default System Configuration at Entry Time
+
+SystemDetails --> [
+    'DateTime' => 'Thu 06 May, 2021 09:05:43 am',
+    'IpAddress' => '162.158.22.35',
+    'DeviceType' => 'Computer',
+    'Tpv6_P' => 'Linux freeweb5.byetcluster.com 2.6.32-896.16.1.lve1.4.54.el6.x86_64 #1 SMP Wed May 2 07:43:19 EDT 2018 x86_64',
+    'OS' => 'Linux',
+    'OS_RELEASE' => '2.6.32-896.16.1.lve1.4.54.el6.x86_64',
+    'OS_Version' =>'#1 SMP Wed May 2 07:43:19 EDT 2018',
+    'SystemType' => 'x86_64',
+    'HostName' =>'freeweb5.byetcluster.com',
+    'MoreDetails' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36'
+ ]
+
+
+----------------------- Entry At 09:05 AM ---------------------------------
+
+=> LOG_FILE_CREATED --> {
+    Log File Generated
+}
+
+=> LOGIN_REQUEST_SUCCESS --> {
+    SUCCESS -> Username : admin and Password : 123456
+ USER_INVOLVED --> [
+   FullName --> vikas Arya
+   UserName --> admin
+   UserType --> ADMINISTRATOR
+ ]
+}
+
+=> SystemDetails --> [
+    'DateTime' => 'Thu 06 May, 2021 09:05:43 am',
+    'IpAddress' => '162.158.22.35',
+    'DeviceType' => 'Computer',
+    'Tpv6_P' => 'Linux freeweb5.byetcluster.com 2.6.32-896.16.1.lve1.4.54.el6.x86_64 #1 SMP Wed May 2 07:43:19 EDT 2018 x86_64',
+    'OS' => 'Linux',
+    'OS_RELEASE' => '2.6.32-896.16.1.lve1.4.54.el6.x86_64',
+    'OS_Version' =>'#1 SMP Wed May 2 07:43:19 EDT 2018',
+    'SystemType' => 'x86_64',
+    'HostName' =>'freeweb5.byetcluster.com',
+    'MoreDetails' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36'
+ ]
+
+
+----------------------- Entry At 09:05 AM ---------------------------------
+
+=> CONFIGURATION_UPDATED --> {
+    DOMAIN-> http://mdproperty.in is updated.
+ USER_INVOLVED --> [
+   FullName --> vikas Arya
+   UserName --> admin
+   UserType --> ADMINISTRATOR
+ ]
+}
+
+SystemDetails --> [
+    'DateTime' => 'Thu 06 May, 2021 09:05:26 am',
+    'IpAddress' => '162.158.22.35',
+    'DeviceType' => 'Computer',
+    'Tpv6_P' => 'Linux freeweb5.byetcluster.com 2.6.32-896.16.1.lve1.4.54.el6.x86_64 #1 SMP Wed May 2 07:43:19 EDT 2018 x86_64',
+    'OS' => 'Linux',
+    'OS_RELEASE' => '2.6.32-896.16.1.lve1.4.54.el6.x86_64',
+    'OS_Version' =>'#1 SMP Wed May 2 07:43:19 EDT 2018',
+    'SystemType' => 'x86_64',
+    'HostName' =>'freeweb5.byetcluster.com',
+    'MoreDetails' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36'
+ ]
+
+
+----------------------- Entry At 09:05 AM ---------------------------------
+
+=> CONFIGURATION_UPDATED --> {
+    SENDER_MAIL-> notification@mdproperty.in is updated.
+ USER_INVOLVED --> [
+   FullName --> vikas Arya
+   UserName --> admin
+   UserType --> ADMINISTRATOR
+ ]
+}
+
+SystemDetails --> [
+    'DateTime' => 'Thu 06 May, 2021 09:05:52 am',
+    'IpAddress' => '162.158.22.35',
+    'DeviceType' => 'Computer',
+    'Tpv6_P' => 'Linux freeweb5.byetcluster.com 2.6.32-896.16.1.lve1.4.54.el6.x86_64 #1 SMP Wed May 2 07:43:19 EDT 2018 x86_64',
+    'OS' => 'Linux',
+    'OS_RELEASE' => '2.6.32-896.16.1.lve1.4.54.el6.x86_64',
+    'OS_Version' =>'#1 SMP Wed May 2 07:43:19 EDT 2018',
+    'SystemType' => 'x86_64',
+    'HostName' =>'freeweb5.byetcluster.com',
+    'MoreDetails' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36'
+ ]
+
+
+----------------------- Entry At 09:05 AM ---------------------------------
+
+=> USER_LOGOUT --> {
+    Logout Successfully!
+ USER_INVOLVED --> [
+   FullName --> vikas Arya
+   UserName --> admin
+   UserType --> ADMINISTRATOR
+ ]
+}
+
+SystemDetails --> [
+    'DateTime' => 'Thu 06 May, 2021 09:05:04 am',
+    'IpAddress' => '162.158.22.35',
+    'DeviceType' => 'Computer',
+    'Tpv6_P' => 'Linux freeweb5.byetcluster.com 2.6.32-896.16.1.lve1.4.54.el6.x86_64 #1 SMP Wed May 2 07:43:19 EDT 2018 x86_64',
+    'OS' => 'Linux',
+    'OS_RELEASE' => '2.6.32-896.16.1.lve1.4.54.el6.x86_64',
+    'OS_Version' =>'#1 SMP Wed May 2 07:43:19 EDT 2018',
+    'SystemType' => 'x86_64',
+    'HostName' =>'freeweb5.byetcluster.com',
+    'MoreDetails' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36'
+ ]
+
+
+----------------------- Entry At 09:05 AM ---------------------------------
+
+=> LOGIN_REQUEST_SUCCESS --> {
+    SUCCESS -> Username : admin and Password : 123456
+ USER_INVOLVED --> [
+   FullName --> vikas Arya
+   UserName --> admin
+   UserType --> ADMINISTRATOR
+ ]
+}
+
+SystemDetails --> [
+    'DateTime' => 'Thu 06 May, 2021 09:05:01 am',
+    'IpAddress' => '162.158.22.141',
+    'DeviceType' => 'Computer',
+    'Tpv6_P' => 'Linux freeweb5.byetcluster.com 2.6.32-896.16.1.lve1.4.54.el6.x86_64 #1 SMP Wed May 2 07:43:19 EDT 2018 x86_64',
+    'OS' => 'Linux',
+    'OS_RELEASE' => '2.6.32-896.16.1.lve1.4.54.el6.x86_64',
+    'OS_Version' =>'#1 SMP Wed May 2 07:43:19 EDT 2018',
+    'SystemType' => 'x86_64',
+    'HostName' =>'freeweb5.byetcluster.com',
+    'MoreDetails' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36'
+ ]
+
+
+----------------------- Entry At 10:05 AM ---------------------------------
+
+=> LOGIN_REQUEST_SUCCESS --> {
+    SUCCESS -> Username : admin and Password : 123456
+ USER_INVOLVED --> [
+   FullName --> vikas Arya
+   UserName --> admin
+   UserType --> ADMINISTRATOR
+ ]
+}
+
+SystemDetails --> [
+    'DateTime' => 'Thu 06 May, 2021 10:05:44 am',
+    'IpAddress' => '162.158.22.141',
+    'DeviceType' => 'Computer',
+    'Tpv6_P' => 'Linux freeweb5.byetcluster.com 2.6.32-896.16.1.lve1.4.54.el6.x86_64 #1 SMP Wed May 2 07:43:19 EDT 2018 x86_64',
+    'OS' => 'Linux',
+    'OS_RELEASE' => '2.6.32-896.16.1.lve1.4.54.el6.x86_64',
+    'OS_Version' =>'#1 SMP Wed May 2 07:43:19 EDT 2018',
+    'SystemType' => 'x86_64',
+    'HostName' =>'freeweb5.byetcluster.com',
+    'MoreDetails' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36'
+ ]
+
+
+----------------------- Entry At 10:05 AM ---------------------------------
+
+=> SLIDER_DETAILS_UPDATED --> {
+    Updated
+ USER_INVOLVED --> [
+   FullName --> vikas Arya
+   UserName --> admin
+   UserType --> ADMINISTRATOR
+ ]
+}
+
+SystemDetails --> [
+    'DateTime' => 'Thu 06 May, 2021 10:05:48 am',
+    'IpAddress' => '162.158.22.141',
+    'DeviceType' => 'Computer',
+    'Tpv6_P' => 'Linux freeweb5.byetcluster.com 2.6.32-896.16.1.lve1.4.54.el6.x86_64 #1 SMP Wed May 2 07:43:19 EDT 2018 x86_64',
+    'OS' => 'Linux',
+    'OS_RELEASE' => '2.6.32-896.16.1.lve1.4.54.el6.x86_64',
+    'OS_Version' =>'#1 SMP Wed May 2 07:43:19 EDT 2018',
+    'SystemType' => 'x86_64',
+    'HostName' =>'freeweb5.byetcluster.com',
+    'MoreDetails' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36'
+ ]
+
+
+----------------------- Entry At 10:05 AM ---------------------------------
+
+=> SLIDER_DETAILS_UPDATED --> {
+    Updated
+ USER_INVOLVED --> [
+   FullName --> vikas Arya
+   UserName --> admin
+   UserType --> ADMINISTRATOR
+ ]
+}
+
+SystemDetails --> [
+    'DateTime' => 'Thu 06 May, 2021 10:05:48 am',
+    'IpAddress' => '162.158.22.35',
+    'DeviceType' => 'Computer',
+    'Tpv6_P' => 'Linux freeweb5.byetcluster.com 2.6.32-896.16.1.lve1.4.54.el6.x86_64 #1 SMP Wed May 2 07:43:19 EDT 2018 x86_64',
+    'OS' => 'Linux',
+    'OS_RELEASE' => '2.6.32-896.16.1.lve1.4.54.el6.x86_64',
+    'OS_Version' =>'#1 SMP Wed May 2 07:43:19 EDT 2018',
+    'SystemType' => 'x86_64',
+    'HostName' =>'freeweb5.byetcluster.com',
+    'MoreDetails' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36'
+ ]
+
+
+----------------------- Entry At 10:05 AM ---------------------------------
+
+=> SLIDER_DETAILS_UPDATED --> {
+    Updated
+ USER_INVOLVED --> [
+   FullName --> vikas Arya
+   UserName --> admin
+   UserType --> ADMINISTRATOR
+ ]
+}
+
+SystemDetails --> [
+    'DateTime' => 'Thu 06 May, 2021 10:05:55 am',
+    'IpAddress' => '162.158.22.141',
+    'DeviceType' => 'Computer',
+    'Tpv6_P' => 'Linux freeweb5.byetcluster.com 2.6.32-896.16.1.lve1.4.54.el6.x86_64 #1 SMP Wed May 2 07:43:19 EDT 2018 x86_64',
+    'OS' => 'Linux',
+    'OS_RELEASE' => '2.6.32-896.16.1.lve1.4.54.el6.x86_64',
+    'OS_Version' =>'#1 SMP Wed May 2 07:43:19 EDT 2018',
+    'SystemType' => 'x86_64',
+    'HostName' =>'freeweb5.byetcluster.com',
+    'MoreDetails' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36'
+ ]
+
+
+----------------------- Entry At 10:05 AM ---------------------------------
+
+=> PAGE_DETAILS_UPDATED --> {
+    V25lVWhSMkV3VHdIcG93S3doMHFiQkpzeWlIMzNnR2Z5RlRwNkhjREdPWEZCUHlCa3FHeGhGb3ppLy9uQVBIajlDYmhKNkkwQVhyRTF1UkZoN24wOFNDeDJaSTBQVlRCNDhERkNsRjdyeThzNDZxY1hYMTNxaWNaa3BRekdLc1liaXVyazYyaW1XR0k1VGdoc3k0UWMvZGgrY1lsZVhjcURkdkJncTNwd2swWWlzUzZkWWZST2xnSUlHL0d3Wm51M1RYWkl0b3d1czRZU2t0cjNKSWpCTGVjM3BhS1E5ZkhWajZxY2ZtS1kwRWpnQnhvZFN3bVhTRjZxSlRQaDI2UXl1cEdtSC9PWGRUbVF3MXZJMG4vclBHYklwZUN6azhWTnNqK3RhLy9QUjBoUXB4Y2l6YnF4Y0VUdm0vbXNDaS9JTWhVS0dVbENKZzY5Nm80MzlqQ1VCN1JweWpIQlhta3hBMEFEMWcrSnpsc001UXZ5UWd4amZiOXoyaS9BZTI3eXJGbXZ2RlZxWHBnQ0Y2RWhSeFJNSHJuQXJnbkxubkd5ck15UXJWL1RTYmpTeWp3Q2c5c0JJM3VXYk9YSGRHTFJSZU1EdmZ5RW5qUkxFSlZqYWhhZjJtUCs3VWtESDdiNGhsWU9Ra0dJNlNBSDQvVFFZVWpxTnkxSXRrUHZBNlR0c05vV09lRVA3WVJsenNoZyszT3g3a01RZENUOWZHQUdUNk12UUdsZjRmM0NxREhQNHhsMUVvSENuMU5JTWROYXB1RStuZVNFdUM0YnhoSVBpa3VvN09DZysvMjEzUkExRTZFdEVLV0lOST0=
+ USER_INVOLVED --> [
+   FullName --> vikas Arya
+   UserName --> admin
+   UserType --> ADMINISTRATOR
+ ]
+}
+
+SystemDetails --> [
+    'DateTime' => 'Thu 06 May, 2021 10:05:53 am',
+    'IpAddress' => '162.158.22.35',
+    'DeviceType' => 'Computer',
+    'Tpv6_P' => 'Linux freeweb5.byetcluster.com 2.6.32-896.16.1.lve1.4.54.el6.x86_64 #1 SMP Wed May 2 07:43:19 EDT 2018 x86_64',
+    'OS' => 'Linux',
+    'OS_RELEASE' => '2.6.32-896.16.1.lve1.4.54.el6.x86_64',
+    'OS_Version' =>'#1 SMP Wed May 2 07:43:19 EDT 2018',
+    'SystemType' => 'x86_64',
+    'HostName' =>'freeweb5.byetcluster.com',
+    'MoreDetails' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36'
+ ]
+
+
+----------------------- Entry At 10:05 AM ---------------------------------
+
+=> PAGE_DETAILS_UPDATED --> {
+    V25lVWhSMkV3VHdIcG93S3doMHFiQkpzeWlIMzNnR2Z5RlRwNkhjREdPWEZCUHlCa3FHeGhGb3ppLy9uQVBIajlDYmhKNkkwQVhyRTF1UkZoN24wOFNDeDJaSTBQVlRCNDhERkNsRjdyeThzNDZxY1hYMTNxaWNaa3BRekdLc1liaXVyazYyaW1XR0k1VGdoc3k0UWN4bk56WDB3M08vSUZ2WVcvcGtXaXFrRXhTbmVoSTlkZXdkQTVkd3I0RWxiSDhEWW5sRklRM3JqRjRSSjNNRXhnSGcyckVDOGs2WngyUURQbkdwbXAwQlUzQkdIUXRoMHlWbmxZYTRldWtuYUV0dTRCNlRCOTNoc1NQaTlxY2NOYkx2Tjg3ZjhiMmlJb1ZidEpuNVkrRHJIRXA0bENObFRmK3dBM25NZzdBZFNrZDBiMHc1LzQzSllMVG03K1h6anEyMUMrN0c0MnI1Y25JeTJ6b1VFb3BiLzFtWXJVTnRNd1ByMUxYSmo2bGNMYUZUUENWa0lHdFNrM1hUVzBzZDlJd0lBMlJYdnVvS1ZSaWYzak5GTy8wc3l2RGVScklrbmdUVkVQOURMR21aTmRrV2RzbDJGazFrbllKdHo3TWpNM3ZBWUNkNmYzcndnajdzaURRdUV5aEx0RGluUkt2eVJRRjlKQnpDdUxXZVZoeUVDUjJ1aTFiUEU2ZHVEQ0I2UEY3MDNjdXJiSEdFaWVSQkxtZnpIU0p1OFRaQnhCb1pkZHlYM052d0RzZktmc1lQajZaZFplZ0RmV3FpdlNsUmdPblBZV09VVzFTU1lVMThqaHJoRUtmRkJvdU1HVkt4eVkvTVA2bXhpdE9QR1FhdnUydXhkZVJyNUpJb0UzU0pNV2NFekd0cHlwL05GeDhZUzJla3VQeHRmczBhT1NJWlA2eTZpS1NZbWRXZS8wNFNOcnhiYlA4UEQ3bzJtSEs1a09tbGRUTi8rYm1sVWJLdWlnV0tkZERwZnFrdnR3aDA1d2tHQ240K2VYN0hXZmYydEw3aVN0Q2dHUmZWZHNmc3ZURW9EME41R2NsWGlOUjFWMUM1ZHpxOWlGNU95YkJlcm51OThqSDBaUHJ1a29HWCtBU1F2ZmtjUG1HVmRrL0xCLzlHVlBNTVFubDhFRVdtM2xDcjNtZHJRU2w2RlR3NzkzQ1hlSmRQTWRQc3BGbm05OC9mK3M3WVpKSXpwQU5nMVV2aXE2dE42T3Vub0VJMTA1bTJjNHNwTFM4bysxTFpQSVhiZmFEWldDYksrMTVXMVNXeGphNlBhOFZzbGM5NGYyc3VBc1BOK2NJUHA2bW1ZZ3B4T2dJcExNTW9DdGJjd0xwS01iSmVITjJKWm5yQmtDS1VoQ3ZrZ05PaGJwdU53V0EyZjBRRk1zM1M3ZUFmSGh4VGFtSmdtZGx1YXRibzlhM0xqN2NaQmVxQ0lyVzNKN3JIbzZ1NUdSNDc0eTZObVhtUmJqcDNSWHU5d1VrZy9za3d1b0FXMmtvT3M1emUwQWJSaUVkSEs1Q0huR1B2a3R2eE5jcjdvcG1tSFM3K2orK29xMWFISkJDdi9qODRxNC8xQkx0YmhFOGJtNVA4clh4akI1V3kweUJhUkVFbVJYR2ZHckFPc1dsVjlsRGdhd2luVGVUVmxBeGV4TmQ2T01qODJBem5FdDYxNXZzSTFSWmFlWWlhQVBrY1R4c3hrMEhGRkxER0RpT2hNcThMWGdiUk5Vb2tQc1ZkdEtOQ01TNmFDN2FWYXhsdUFGOURKNmcyVkMrWmRIZnRwbDVZNFVuNUJyaUhBM3dRcGtKTDhSYTBueUZNcHRTVDlYVGV4M2lJbWppNm1kck5yLzVVU1gzbFFhYTl4OVgvNTF4bFhyV3Rxbmxydm8xbUR1S2phTlJxcU9jdlNHaTl4NVVCSjlwUU4vU1MvdFNJT09PMm1zVnl4WkxtWmdKRkwraUlUT2xXSnJtUlc2WTExUEFVcmtJZVlXbnNTaE1VWGs3YlpQanFyT3ArUnNLUlR2Nmc2WnZSQUwzbFRiQTFublFGSDNyS3NrUWFVc0p2Zng1bXIzOWloZVJiV2pHNUg0a3Vpa1M1WWdvUGthSmVvcUtvdnJPOVFKS0Fha2lWaU9lbTZrMnBDZlgvamE0SHB0YkZiV3MwV3o2Y0JhK2RUelVSckxSMFQ0cWlsODA0ZXQ1bUhCa1hGN3N1OVFEcmt2aDBrUmxZSU1teUcyQUpVZmZLeWUrYjlaeHozS2xtV3ZVY3NKSDZycDhLVklZQlRWN3hiYTJvUDFtN3doc1IvQXhmbzJLRjgwd2xNU1FxUVhqaFZoOXRvWUUyb05jQ2EvQXhWOWlFeFNvZ0kwaE94akFia0NTdGlOci9JMlJXbmpXdDRPdmkyanMzNVVYZUI4b1FsU0orcjVscExpV2M4c3RNdnpUMThnYS9YaHFaalViZjFVUERORGtxaWdHWlpqcEhHTFE0NDNiSEdFb0NvaGxRZWN1RHE0SUNaZXhEeE0zaEtCck40eDF1YU4vWlZHVTJhdzZmeXRmd2lLZVRsMUE0R1NYWVJNTWZldmhMZVQ2ZFRZRlZzKzhYNktkWVJBSlNXZGtHODQ2dzVyY052Q1NQckgxalNmNTE1S05hRVBCVXpGQ3JHK1lDSUhoUHNDVUVXRngrY0RoMHZwa3FvOERwVElxZGxoUk0xSUpMYTM1Y2ZpNG96bHQraDd6OWxuRUNodndGV1VOSzVTdXdSbXpsZzA4MFk1dUtrSGR4MnhJSEtYLzFTZFVzSjU3N3JaMFlsUXZ1ZUJvTmFBZ3U0aFpVcVBra29XeXE5cmpVN3I3akcrM1FNOE82aGQ0M3pPb2RqRnY4b0prdHdlR2FlTDRjcmYwU0ZmTXN3SUp6bS8wZVhTUFJDNTQ0SGV1NGdFQUJqTHBCVVB4UmRrRjlTcU1DUDBhS3NGa2NyVklzTGoySXArMmFGbXRPZ1RXdWRRMEY0U1VHUi80d0VIZUhwZ2t6S0dXRDhRWmZmeTZjSUZtT0xzajFmVE9GZGdSMHMvUFcyTHJSV2dqYzlkRHdI
+ USER_INVOLVED --> [
+   FullName --> vikas Arya
+   UserName --> admin
+   UserType --> ADMINISTRATOR
+ ]
+}
+
+SystemDetails --> [
+    'DateTime' => 'Thu 06 May, 2021 10:05:00 am',
+    'IpAddress' => '162.158.22.35',
+    'DeviceType' => 'Computer',
+    'Tpv6_P' => 'Linux freeweb5.byetcluster.com 2.6.32-896.16.1.lve1.4.54.el6.x86_64 #1 SMP Wed May 2 07:43:19 EDT 2018 x86_64',
+    'OS' => 'Linux',
+    'OS_RELEASE' => '2.6.32-896.16.1.lve1.4.54.el6.x86_64',
+    'OS_Version' =>'#1 SMP Wed May 2 07:43:19 EDT 2018',
+    'SystemType' => 'x86_64',
+    'HostName' =>'freeweb5.byetcluster.com',
+    'MoreDetails' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36'
+ ]
+
+
+----------------------- Entry At 10:05 AM ---------------------------------
+
+=> PROJECTS_DETAILS_UPDATED --> {
+    Updated
+ USER_INVOLVED --> [
+   FullName --> vikas Arya
+   UserName --> admin
+   UserType --> ADMINISTRATOR
+ ]
+}
+
+SystemDetails --> [
+    'DateTime' => 'Thu 06 May, 2021 10:05:52 am',
+    'IpAddress' => '162.158.22.35',
+    'DeviceType' => 'Computer',
+    'Tpv6_P' => 'Linux freeweb5.byetcluster.com 2.6.32-896.16.1.lve1.4.54.el6.x86_64 #1 SMP Wed May 2 07:43:19 EDT 2018 x86_64',
+    'OS' => 'Linux',
+    'OS_RELEASE' => '2.6.32-896.16.1.lve1.4.54.el6.x86_64',
+    'OS_Version' =>'#1 SMP Wed May 2 07:43:19 EDT 2018',
+    'SystemType' => 'x86_64',
+    'HostName' =>'freeweb5.byetcluster.com',
+    'MoreDetails' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36'
+ ]
+
+
+----------------------- Entry At 10:05 AM ---------------------------------
+
+=> CONFIGURATION_UPDATED --> {
+    DOMAIN-> https://mdproperty.in is updated.
+ USER_INVOLVED --> [
+   FullName --> vikas Arya
+   UserName --> admin
+   UserType --> ADMINISTRATOR
+ ]
+}
+
+SystemDetails --> [
+    'DateTime' => 'Thu 06 May, 2021 10:05:03 am',
+    'IpAddress' => '162.158.22.34',
+    'DeviceType' => 'Computer',
+    'Tpv6_P' => 'Linux freeweb5.byetcluster.com 2.6.32-896.16.1.lve1.4.54.el6.x86_64 #1 SMP Wed May 2 07:43:19 EDT 2018 x86_64',
+    'OS' => 'Linux',
+    'OS_RELEASE' => '2.6.32-896.16.1.lve1.4.54.el6.x86_64',
+    'OS_Version' =>'#1 SMP Wed May 2 07:43:19 EDT 2018',
+    'SystemType' => 'x86_64',
+    'HostName' =>'freeweb5.byetcluster.com',
+    'MoreDetails' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36'
+ ]
+
+
+----------------------- Entry At 10:05 AM ---------------------------------
+
+=> CONFIGURATION_UPDATED --> {
+    DOMAIN-> http://mdproperty.in is updated.
+ USER_INVOLVED --> [
+   FullName --> vikas Arya
+   UserName --> admin
+   UserType --> ADMINISTRATOR
+ ]
+}
+
+SystemDetails --> [
+    'DateTime' => 'Thu 06 May, 2021 10:05:19 am',
+    'IpAddress' => '162.158.22.35',
+    'DeviceType' => 'Computer',
+    'Tpv6_P' => 'Linux freeweb5.byetcluster.com 2.6.32-896.16.1.lve1.4.54.el6.x86_64 #1 SMP Wed May 2 07:43:19 EDT 2018 x86_64',
+    'OS' => 'Linux',
+    'OS_RELEASE' => '2.6.32-896.16.1.lve1.4.54.el6.x86_64',
+    'OS_Version' =>'#1 SMP Wed May 2 07:43:19 EDT 2018',
+    'SystemType' => 'x86_64',
+    'HostName' =>'freeweb5.byetcluster.com',
+    'MoreDetails' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36'
+ ]
+
+
+----------------------- Entry At 11:05 AM ---------------------------------
+
+=> NEW_SLIDER_ENTRY --> {
+    SAVED -> 1
+ USER_INVOLVED --> [
+   FullName --> vikas Arya
+   UserName --> admin
+   UserType --> ADMINISTRATOR
+ ]
+}
+
+SystemDetails --> [
+    'DateTime' => 'Thu 06 May, 2021 11:05:43 am',
+    'IpAddress' => '162.158.22.141',
+    'DeviceType' => 'Computer',
+    'Tpv6_P' => 'Linux freeweb5.byetcluster.com 2.6.32-896.16.1.lve1.4.54.el6.x86_64 #1 SMP Wed May 2 07:43:19 EDT 2018 x86_64',
+    'OS' => 'Linux',
+    'OS_RELEASE' => '2.6.32-896.16.1.lve1.4.54.el6.x86_64',
+    'OS_Version' =>'#1 SMP Wed May 2 07:43:19 EDT 2018',
+    'SystemType' => 'x86_64',
+    'HostName' =>'freeweb5.byetcluster.com',
+    'MoreDetails' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36'
+ ]
+
+
+----------------------- Entry At 11:05 AM ---------------------------------
+
+=> NEW_SLIDER_ENTRY --> {
+    SAVED -> 1
+ USER_INVOLVED --> [
+   FullName --> vikas Arya
+   UserName --> admin
+   UserType --> ADMINISTRATOR
+ ]
+}
+
+SystemDetails --> [
+    'DateTime' => 'Thu 06 May, 2021 11:05:32 am',
+    'IpAddress' => '162.158.22.141',
+    'DeviceType' => 'Computer',
+    'Tpv6_P' => 'Linux freeweb5.byetcluster.com 2.6.32-896.16.1.lve1.4.54.el6.x86_64 #1 SMP Wed May 2 07:43:19 EDT 2018 x86_64',
+    'OS' => 'Linux',
+    'OS_RELEASE' => '2.6.32-896.16.1.lve1.4.54.el6.x86_64',
+    'OS_Version' =>'#1 SMP Wed May 2 07:43:19 EDT 2018',
+    'SystemType' => 'x86_64',
+    'HostName' =>'freeweb5.byetcluster.com',
+    'MoreDetails' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36'
+ ]
+
+
+----------------------- Entry At 11:05 AM ---------------------------------
+
+=> SLIDER_DETAILS_UPDATED --> {
+    Updated
+ USER_INVOLVED --> [
+   FullName --> vikas Arya
+   UserName --> admin
+   UserType --> ADMINISTRATOR
+ ]
+}
+
+SystemDetails --> [
+    'DateTime' => 'Thu 06 May, 2021 11:05:40 am',
+    'IpAddress' => '162.158.22.45',
+    'DeviceType' => 'Computer',
+    'Tpv6_P' => 'Linux freeweb5.byetcluster.com 2.6.32-896.16.1.lve1.4.54.el6.x86_64 #1 SMP Wed May 2 07:43:19 EDT 2018 x86_64',
+    'OS' => 'Linux',
+    'OS_RELEASE' => '2.6.32-896.16.1.lve1.4.54.el6.x86_64',
+    'OS_Version' =>'#1 SMP Wed May 2 07:43:19 EDT 2018',
+    'SystemType' => 'x86_64',
+    'HostName' =>'freeweb5.byetcluster.com',
+    'MoreDetails' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36'
+ ]
+
+
+----------------------- Entry At 11:05 AM ---------------------------------
+
+=> SLIDER_DETAILS_UPDATED --> {
+    Updated
+ USER_INVOLVED --> [
+   FullName --> vikas Arya
+   UserName --> admin
+   UserType --> ADMINISTRATOR
+ ]
+}
+
+SystemDetails --> [
+    'DateTime' => 'Thu 06 May, 2021 11:05:27 am',
+    'IpAddress' => '162.158.22.35',
+    'DeviceType' => 'Computer',
+    'Tpv6_P' => 'Linux freeweb5.byetcluster.com 2.6.32-896.16.1.lve1.4.54.el6.x86_64 #1 SMP Wed May 2 07:43:19 EDT 2018 x86_64',
+    'OS' => 'Linux',
+    'OS_RELEASE' => '2.6.32-896.16.1.lve1.4.54.el6.x86_64',
+    'OS_Version' =>'#1 SMP Wed May 2 07:43:19 EDT 2018',
+    'SystemType' => 'x86_64',
+    'HostName' =>'freeweb5.byetcluster.com',
+    'MoreDetails' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36'
+ ]
+
+
+----------------------- Entry At 11:05 AM ---------------------------------
+
+=> SLIDER_DETAILS_UPDATED --> {
+    Updated
+ USER_INVOLVED --> [
+   FullName --> vikas Arya
+   UserName --> admin
+   UserType --> ADMINISTRATOR
+ ]
+}
+
+SystemDetails --> [
+    'DateTime' => 'Thu 06 May, 2021 11:05:48 am',
+    'IpAddress' => '162.158.22.35',
+    'DeviceType' => 'Computer',
+    'Tpv6_P' => 'Linux freeweb5.byetcluster.com 2.6.32-896.16.1.lve1.4.54.el6.x86_64 #1 SMP Wed May 2 07:43:19 EDT 2018 x86_64',
+    'OS' => 'Linux',
+    'OS_RELEASE' => '2.6.32-896.16.1.lve1.4.54.el6.x86_64',
+    'OS_Version' =>'#1 SMP Wed May 2 07:43:19 EDT 2018',
+    'SystemType' => 'x86_64',
+    'HostName' =>'freeweb5.byetcluster.com',
+    'MoreDetails' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36'
+ ]
+
+
+----------------------- Entry At 11:05 AM ---------------------------------
+
+=> SLIDER_DETAILS_UPDATED --> {
+    Updated
+ USER_INVOLVED --> [
+   FullName --> vikas Arya
+   UserName --> admin
+   UserType --> ADMINISTRATOR
+ ]
+}
+
+SystemDetails --> [
+    'DateTime' => 'Thu 06 May, 2021 11:05:11 am',
+    'IpAddress' => '162.158.22.141',
+    'DeviceType' => 'Computer',
+    'Tpv6_P' => 'Linux freeweb5.byetcluster.com 2.6.32-896.16.1.lve1.4.54.el6.x86_64 #1 SMP Wed May 2 07:43:19 EDT 2018 x86_64',
+    'OS' => 'Linux',
+    'OS_RELEASE' => '2.6.32-896.16.1.lve1.4.54.el6.x86_64',
+    'OS_Version' =>'#1 SMP Wed May 2 07:43:19 EDT 2018',
+    'SystemType' => 'x86_64',
+    'HostName' =>'freeweb5.byetcluster.com',
+    'MoreDetails' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36'
+ ]
+
+
+----------------------- Entry At 11:05 AM ---------------------------------
+
+=> NEW_SLIDER_ENTRY --> {
+    SAVED -> 1
+ USER_INVOLVED --> [
+   FullName --> vikas Arya
+   UserName --> admin
+   UserType --> ADMINISTRATOR
+ ]
+}
+
+SystemDetails --> [
+    'DateTime' => 'Thu 06 May, 2021 11:05:50 am',
+    'IpAddress' => '162.158.22.141',
+    'DeviceType' => 'Computer',
+    'Tpv6_P' => 'Linux freeweb5.byetcluster.com 2.6.32-896.16.1.lve1.4.54.el6.x86_64 #1 SMP Wed May 2 07:43:19 EDT 2018 x86_64',
+    'OS' => 'Linux',
+    'OS_RELEASE' => '2.6.32-896.16.1.lve1.4.54.el6.x86_64',
+    'OS_Version' =>'#1 SMP Wed May 2 07:43:19 EDT 2018',
+    'SystemType' => 'x86_64',
+    'HostName' =>'freeweb5.byetcluster.com',
+    'MoreDetails' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36'
+ ]
+

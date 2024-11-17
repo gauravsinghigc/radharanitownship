@@ -1,0 +1,175 @@
+
+--------------------Acitivity Logs for Mon 10 May, 2021 Used in prod Environment-------------------------------
+
+=> Log File created for Mon 10 May, 2021 which is start at 01:05 PM from 162.158.235.46
+=> File Creation System Details (It should be same for all the log entry.
+=> If any log is not same then maybe that entry/action is not from a authorised/know device.
+=> Default System Configuration at Entry Time
+
+SystemDetails --> [
+    'DateTime' => 'Mon 10 May, 2021 01:05:53 pm',
+    'IpAddress' => '162.158.235.46',
+    'DeviceType' => 'Computer',
+    'Tpv6_P' => 'Linux freeweb5.byetcluster.com 2.6.32-896.16.1.lve1.4.54.el6.x86_64 #1 SMP Wed May 2 07:43:19 EDT 2018 x86_64',
+    'OS' => 'Linux',
+    'OS_RELEASE' => '2.6.32-896.16.1.lve1.4.54.el6.x86_64',
+    'OS_Version' =>'#1 SMP Wed May 2 07:43:19 EDT 2018',
+    'SystemType' => 'x86_64',
+    'HostName' =>'freeweb5.byetcluster.com',
+    'MoreDetails' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36'
+ ]
+
+
+----------------------- Entry At 01:05 PM ---------------------------------
+
+=> LOG_FILE_CREATED --> {
+    Log File Generated
+}
+
+=> LOGIN_REQUEST_FAILED --> {
+    FAILED ->Incorrect Username and Password. Username : gauravsinghigc and Password : gauravsinghigc
+ USER_INVOLVED --> [
+   FullName --> Unknown
+   UserName --> Unknown
+   UserType --> Unknown
+ ]
+}
+
+=> SystemDetails --> [
+    'DateTime' => 'Mon 10 May, 2021 01:05:53 pm',
+    'IpAddress' => '162.158.235.46',
+    'DeviceType' => 'Computer',
+    'Tpv6_P' => 'Linux freeweb5.byetcluster.com 2.6.32-896.16.1.lve1.4.54.el6.x86_64 #1 SMP Wed May 2 07:43:19 EDT 2018 x86_64',
+    'OS' => 'Linux',
+    'OS_RELEASE' => '2.6.32-896.16.1.lve1.4.54.el6.x86_64',
+    'OS_Version' =>'#1 SMP Wed May 2 07:43:19 EDT 2018',
+    'SystemType' => 'x86_64',
+    'HostName' =>'freeweb5.byetcluster.com',
+    'MoreDetails' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36'
+ ]
+
+
+----------------------- Entry At 01:05 PM ---------------------------------
+
+=> LOGIN_REQUEST_SUCCESS --> {
+    SUCCESS -> Username : admin and Password : 123456
+ USER_INVOLVED --> [
+   FullName --> vikas Arya
+   UserName --> admin
+   UserType --> ADMINISTRATOR
+ ]
+}
+
+SystemDetails --> [
+    'DateTime' => 'Mon 10 May, 2021 01:05:19 pm',
+    'IpAddress' => '162.158.235.46',
+    'DeviceType' => 'Computer',
+    'Tpv6_P' => 'Linux freeweb5.byetcluster.com 2.6.32-896.16.1.lve1.4.54.el6.x86_64 #1 SMP Wed May 2 07:43:19 EDT 2018 x86_64',
+    'OS' => 'Linux',
+    'OS_RELEASE' => '2.6.32-896.16.1.lve1.4.54.el6.x86_64',
+    'OS_Version' =>'#1 SMP Wed May 2 07:43:19 EDT 2018',
+    'SystemType' => 'x86_64',
+    'HostName' =>'freeweb5.byetcluster.com',
+    'MoreDetails' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36'
+ ]
+
+
+----------------------- Entry At 01:05 PM ---------------------------------
+
+=> CONFIGURATION_UPDATED --> {
+    RECEIVER_MAIL-> noreply@mdpropert.in is updated.
+ USER_INVOLVED --> [
+   FullName --> vikas Arya
+   UserName --> admin
+   UserType --> ADMINISTRATOR
+ ]
+}
+
+SystemDetails --> [
+    'DateTime' => 'Mon 10 May, 2021 01:05:48 pm',
+    'IpAddress' => '162.158.235.6',
+    'DeviceType' => 'Computer',
+    'Tpv6_P' => 'Linux freeweb5.byetcluster.com 2.6.32-896.16.1.lve1.4.54.el6.x86_64 #1 SMP Wed May 2 07:43:19 EDT 2018 x86_64',
+    'OS' => 'Linux',
+    'OS_RELEASE' => '2.6.32-896.16.1.lve1.4.54.el6.x86_64',
+    'OS_Version' =>'#1 SMP Wed May 2 07:43:19 EDT 2018',
+    'SystemType' => 'x86_64',
+    'HostName' =>'freeweb5.byetcluster.com',
+    'MoreDetails' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36'
+ ]
+
+
+----------------------- Entry At 01:05 PM ---------------------------------
+
+=> CONFIGURATION_UPDATED --> {
+    APP_PHONE-> 8010055558 is updated.
+ USER_INVOLVED --> [
+   FullName --> vikas Arya
+   UserName --> admin
+   UserType --> ADMINISTRATOR
+ ]
+}
+
+SystemDetails --> [
+    'DateTime' => 'Mon 10 May, 2021 01:05:05 pm',
+    'IpAddress' => '162.158.235.6',
+    'DeviceType' => 'Computer',
+    'Tpv6_P' => 'Linux freeweb5.byetcluster.com 2.6.32-896.16.1.lve1.4.54.el6.x86_64 #1 SMP Wed May 2 07:43:19 EDT 2018 x86_64',
+    'OS' => 'Linux',
+    'OS_RELEASE' => '2.6.32-896.16.1.lve1.4.54.el6.x86_64',
+    'OS_Version' =>'#1 SMP Wed May 2 07:43:19 EDT 2018',
+    'SystemType' => 'x86_64',
+    'HostName' =>'freeweb5.byetcluster.com',
+    'MoreDetails' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36'
+ ]
+
+
+----------------------- Entry At 01:05 PM ---------------------------------
+
+=> CONFIGURATION_UPDATED --> {
+    APP_PHONE-> 8010055558 is updated.
+ USER_INVOLVED --> [
+   FullName --> vikas Arya
+   UserName --> admin
+   UserType --> ADMINISTRATOR
+ ]
+}
+
+SystemDetails --> [
+    'DateTime' => 'Mon 10 May, 2021 01:05:16 pm',
+    'IpAddress' => '162.158.235.6',
+    'DeviceType' => 'Computer',
+    'Tpv6_P' => 'Linux freeweb5.byetcluster.com 2.6.32-896.16.1.lve1.4.54.el6.x86_64 #1 SMP Wed May 2 07:43:19 EDT 2018 x86_64',
+    'OS' => 'Linux',
+    'OS_RELEASE' => '2.6.32-896.16.1.lve1.4.54.el6.x86_64',
+    'OS_Version' =>'#1 SMP Wed May 2 07:43:19 EDT 2018',
+    'SystemType' => 'x86_64',
+    'HostName' =>'freeweb5.byetcluster.com',
+    'MoreDetails' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36'
+ ]
+
+
+----------------------- Entry At 01:05 PM ---------------------------------
+
+=> CONFIGURATION_UPDATED --> {
+    DEV_NAME-> Jagbir Sharma is updated.
+ USER_INVOLVED --> [
+   FullName --> vikas Arya
+   UserName --> admin
+   UserType --> ADMINISTRATOR
+ ]
+}
+
+SystemDetails --> [
+    'DateTime' => 'Mon 10 May, 2021 01:05:42 pm',
+    'IpAddress' => '162.158.235.6',
+    'DeviceType' => 'Computer',
+    'Tpv6_P' => 'Linux freeweb5.byetcluster.com 2.6.32-896.16.1.lve1.4.54.el6.x86_64 #1 SMP Wed May 2 07:43:19 EDT 2018 x86_64',
+    'OS' => 'Linux',
+    'OS_RELEASE' => '2.6.32-896.16.1.lve1.4.54.el6.x86_64',
+    'OS_Version' =>'#1 SMP Wed May 2 07:43:19 EDT 2018',
+    'SystemType' => 'x86_64',
+    'HostName' =>'freeweb5.byetcluster.com',
+    'MoreDetails' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36'
+ ]
+

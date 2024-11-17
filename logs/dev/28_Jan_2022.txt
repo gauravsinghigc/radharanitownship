@@ -1,0 +1,675 @@
+
+--------------------Acitivity Logs for Fri 28 Jan, 2022 Used in dev Environment-------------------------------
+
+=> Log File created for Fri 28 Jan, 2022 which is start at 06:01 AM from 127.0.0.1
+=> File Creation System Details (It should be same for all the log entry.
+=> If any log is not same then maybe that entry/action is not from a authorised/know device.
+=> Default System Configuration at Entry Time
+
+SystemDetails --> [
+    'DateTime' => 'Fri 28 Jan, 2022 06:01:31 am',
+    'IpAddress' => '127.0.0.1',
+    'DeviceType' => 'Computer',
+    'Tpv6_P' => 'Windows NT GAURAV-HP-2016 10.0 build 19044 (Windows 10) AMD64',
+    'OS' => 'Windows NT',
+    'OS_RELEASE' => '10.0',
+    'OS_Version' =>'build 19044 (Windows 10)',
+    'SystemType' => 'AMD64',
+    'HostName' =>'GAURAV-HP-2016',
+    'MoreDetails' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36'
+ ]
+
+
+----------------------- Entry At 06:01 AM ---------------------------------
+
+=> LOG_FILE_CREATED --> {
+    Log File Generated
+}
+
+=> USER_LOGOUT --> {
+    Logout Successfully!
+ USER_INVOLVED --> [
+   FullName --> Gaurav Singh
+   UserName --> gauravsinghigc
+   UserType --> ADMINISTRATOR
+ ]
+}
+
+=> SystemDetails --> [
+    'DateTime' => 'Fri 28 Jan, 2022 06:01:31 am',
+    'IpAddress' => '127.0.0.1',
+    'DeviceType' => 'Computer',
+    'Tpv6_P' => 'Windows NT GAURAV-HP-2016 10.0 build 19044 (Windows 10) AMD64',
+    'OS' => 'Windows NT',
+    'OS_RELEASE' => '10.0',
+    'OS_Version' =>'build 19044 (Windows 10)',
+    'SystemType' => 'AMD64',
+    'HostName' =>'GAURAV-HP-2016',
+    'MoreDetails' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36'
+ ]
+
+
+----------------------- Entry At 06:01 AM ---------------------------------
+
+=> PASSWORD_RECOVER_REQUEST --> {
+    USER_FOUND -> EmailId : admin@navix.in
+ USER_INVOLVED --> [
+   FullName --> Gaurav Singh
+   UserName --> admin@navix.in
+   UserType --> ADMINISTRATOR
+ ]
+}
+
+SystemDetails --> [
+    'DateTime' => 'Fri 28 Jan, 2022 06:01:55 am',
+    'IpAddress' => '127.0.0.1',
+    'DeviceType' => 'Computer',
+    'Tpv6_P' => 'Windows NT GAURAV-HP-2016 10.0 build 19044 (Windows 10) AMD64',
+    'OS' => 'Windows NT',
+    'OS_RELEASE' => '10.0',
+    'OS_Version' =>'build 19044 (Windows 10)',
+    'SystemType' => 'AMD64',
+    'HostName' =>'GAURAV-HP-2016',
+    'MoreDetails' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36'
+ ]
+
+
+----------------------- Entry At 06:01 AM ---------------------------------
+
+=> LOGIN_REQUEST_SUCCESS --> {
+    SUCCESS -> Username : admin@navix.in and Password : Golardh@2022
+ USER_INVOLVED --> [
+   FullName --> Gaurav Singh
+   UserName --> admin@navix.in
+   UserType --> ADMINISTRATOR
+ ]
+}
+
+SystemDetails --> [
+    'DateTime' => 'Fri 28 Jan, 2022 06:01:25 am',
+    'IpAddress' => '127.0.0.1',
+    'DeviceType' => 'Computer',
+    'Tpv6_P' => 'Windows NT GAURAV-HP-2016 10.0 build 19044 (Windows 10) AMD64',
+    'OS' => 'Windows NT',
+    'OS_RELEASE' => '10.0',
+    'OS_Version' =>'build 19044 (Windows 10)',
+    'SystemType' => 'AMD64',
+    'HostName' =>'GAURAV-HP-2016',
+    'MoreDetails' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36'
+ ]
+
+
+----------------------- Entry At 06:01 AM ---------------------------------
+
+=> NEW_CV_SUBMITED --> {
+    FAILED->
+ USER_INVOLVED --> [
+   FullName --> Gaurav Singh
+   UserName --> admin@navix.in
+   UserType --> ADMINISTRATOR
+ ]
+}
+
+SystemDetails --> [
+    'DateTime' => 'Fri 28 Jan, 2022 06:01:13 am',
+    'IpAddress' => '127.0.0.1',
+    'DeviceType' => 'Computer',
+    'Tpv6_P' => 'Windows NT GAURAV-HP-2016 10.0 build 19044 (Windows 10) AMD64',
+    'OS' => 'Windows NT',
+    'OS_RELEASE' => '10.0',
+    'OS_Version' =>'build 19044 (Windows 10)',
+    'SystemType' => 'AMD64',
+    'HostName' =>'GAURAV-HP-2016',
+    'MoreDetails' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36'
+ ]
+
+
+----------------------- Entry At 06:01 AM ---------------------------------
+
+=> NEW_CV_SUBMITED --> {
+    FAILED->
+ USER_INVOLVED --> [
+   FullName --> Gaurav Singh
+   UserName --> admin@navix.in
+   UserType --> ADMINISTRATOR
+ ]
+}
+
+SystemDetails --> [
+    'DateTime' => 'Fri 28 Jan, 2022 06:01:56 am',
+    'IpAddress' => '127.0.0.1',
+    'DeviceType' => 'Computer',
+    'Tpv6_P' => 'Windows NT GAURAV-HP-2016 10.0 build 19044 (Windows 10) AMD64',
+    'OS' => 'Windows NT',
+    'OS_RELEASE' => '10.0',
+    'OS_Version' =>'build 19044 (Windows 10)',
+    'SystemType' => 'AMD64',
+    'HostName' =>'GAURAV-HP-2016',
+    'MoreDetails' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36'
+ ]
+
+
+----------------------- Entry At 06:01 AM ---------------------------------
+
+=> NEW_CV_SUBMITED --> {
+    SENT->1
+ USER_INVOLVED --> [
+   FullName --> Gaurav Singh
+   UserName --> admin@navix.in
+   UserType --> ADMINISTRATOR
+ ]
+}
+
+SystemDetails --> [
+    'DateTime' => 'Fri 28 Jan, 2022 06:01:34 am',
+    'IpAddress' => '127.0.0.1',
+    'DeviceType' => 'Computer',
+    'Tpv6_P' => 'Windows NT GAURAV-HP-2016 10.0 build 19044 (Windows 10) AMD64',
+    'OS' => 'Windows NT',
+    'OS_RELEASE' => '10.0',
+    'OS_Version' =>'build 19044 (Windows 10)',
+    'SystemType' => 'AMD64',
+    'HostName' =>'GAURAV-HP-2016',
+    'MoreDetails' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36'
+ ]
+
+
+----------------------- Entry At 07:01 AM ---------------------------------
+
+=> NEW_CV_SUBMITED --> {
+    SENT->1
+ USER_INVOLVED --> [
+   FullName --> Gaurav Singh
+   UserName --> admin@navix.in
+   UserType --> ADMINISTRATOR
+ ]
+}
+
+SystemDetails --> [
+    'DateTime' => 'Fri 28 Jan, 2022 07:01:41 am',
+    'IpAddress' => '127.0.0.1',
+    'DeviceType' => 'Computer',
+    'Tpv6_P' => 'Windows NT GAURAV-HP-2016 10.0 build 19044 (Windows 10) AMD64',
+    'OS' => 'Windows NT',
+    'OS_RELEASE' => '10.0',
+    'OS_Version' =>'build 19044 (Windows 10)',
+    'SystemType' => 'AMD64',
+    'HostName' =>'GAURAV-HP-2016',
+    'MoreDetails' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36'
+ ]
+
+
+----------------------- Entry At 07:01 AM ---------------------------------
+
+=> NEW_CV_SUBMITED --> {
+    SENT->1
+ USER_INVOLVED --> [
+   FullName --> Gaurav Singh
+   UserName --> admin@navix.in
+   UserType --> ADMINISTRATOR
+ ]
+}
+
+SystemDetails --> [
+    'DateTime' => 'Fri 28 Jan, 2022 07:01:35 am',
+    'IpAddress' => '127.0.0.1',
+    'DeviceType' => 'Computer',
+    'Tpv6_P' => 'Windows NT GAURAV-HP-2016 10.0 build 19044 (Windows 10) AMD64',
+    'OS' => 'Windows NT',
+    'OS_RELEASE' => '10.0',
+    'OS_Version' =>'build 19044 (Windows 10)',
+    'SystemType' => 'AMD64',
+    'HostName' =>'GAURAV-HP-2016',
+    'MoreDetails' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36'
+ ]
+
+
+----------------------- Entry At 07:01 AM ---------------------------------
+
+=> NEW_CV_SUBMITED --> {
+    SENT->1
+ USER_INVOLVED --> [
+   FullName --> Gaurav Singh
+   UserName --> admin@navix.in
+   UserType --> ADMINISTRATOR
+ ]
+}
+
+SystemDetails --> [
+    'DateTime' => 'Fri 28 Jan, 2022 07:01:29 am',
+    'IpAddress' => '127.0.0.1',
+    'DeviceType' => 'Computer',
+    'Tpv6_P' => 'Windows NT GAURAV-HP-2016 10.0 build 19044 (Windows 10) AMD64',
+    'OS' => 'Windows NT',
+    'OS_RELEASE' => '10.0',
+    'OS_Version' =>'build 19044 (Windows 10)',
+    'SystemType' => 'AMD64',
+    'HostName' =>'GAURAV-HP-2016',
+    'MoreDetails' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36'
+ ]
+
+
+----------------------- Entry At 07:01 AM ---------------------------------
+
+=> NEW_CV_SUBMITED --> {
+    SENT->1
+ USER_INVOLVED --> [
+   FullName --> Gaurav Singh
+   UserName --> admin@navix.in
+   UserType --> ADMINISTRATOR
+ ]
+}
+
+SystemDetails --> [
+    'DateTime' => 'Fri 28 Jan, 2022 07:01:59 am',
+    'IpAddress' => '127.0.0.1',
+    'DeviceType' => 'Computer',
+    'Tpv6_P' => 'Windows NT GAURAV-HP-2016 10.0 build 19044 (Windows 10) AMD64',
+    'OS' => 'Windows NT',
+    'OS_RELEASE' => '10.0',
+    'OS_Version' =>'build 19044 (Windows 10)',
+    'SystemType' => 'AMD64',
+    'HostName' =>'GAURAV-HP-2016',
+    'MoreDetails' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36'
+ ]
+
+
+----------------------- Entry At 07:01 AM ---------------------------------
+
+=> NEW_CV_SUBMITED --> {
+    SENT->1
+ USER_INVOLVED --> [
+   FullName --> Gaurav Singh
+   UserName --> admin@navix.in
+   UserType --> ADMINISTRATOR
+ ]
+}
+
+SystemDetails --> [
+    'DateTime' => 'Fri 28 Jan, 2022 07:01:12 am',
+    'IpAddress' => '127.0.0.1',
+    'DeviceType' => 'Computer',
+    'Tpv6_P' => 'Windows NT GAURAV-HP-2016 10.0 build 19044 (Windows 10) AMD64',
+    'OS' => 'Windows NT',
+    'OS_RELEASE' => '10.0',
+    'OS_Version' =>'build 19044 (Windows 10)',
+    'SystemType' => 'AMD64',
+    'HostName' =>'GAURAV-HP-2016',
+    'MoreDetails' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36'
+ ]
+
+
+----------------------- Entry At 07:01 AM ---------------------------------
+
+=> NEW_CV_SUBMITED --> {
+    SENT->1
+ USER_INVOLVED --> [
+   FullName --> Gaurav Singh
+   UserName --> admin@navix.in
+   UserType --> ADMINISTRATOR
+ ]
+}
+
+SystemDetails --> [
+    'DateTime' => 'Fri 28 Jan, 2022 07:01:05 am',
+    'IpAddress' => '127.0.0.1',
+    'DeviceType' => 'Computer',
+    'Tpv6_P' => 'Windows NT GAURAV-HP-2016 10.0 build 19044 (Windows 10) AMD64',
+    'OS' => 'Windows NT',
+    'OS_RELEASE' => '10.0',
+    'OS_Version' =>'build 19044 (Windows 10)',
+    'SystemType' => 'AMD64',
+    'HostName' =>'GAURAV-HP-2016',
+    'MoreDetails' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36'
+ ]
+
+
+----------------------- Entry At 07:01 AM ---------------------------------
+
+=> NEW_CV_SUBMITED --> {
+    SENT->1
+ USER_INVOLVED --> [
+   FullName --> Gaurav Singh
+   UserName --> admin@navix.in
+   UserType --> ADMINISTRATOR
+ ]
+}
+
+SystemDetails --> [
+    'DateTime' => 'Fri 28 Jan, 2022 07:01:38 am',
+    'IpAddress' => '127.0.0.1',
+    'DeviceType' => 'Computer',
+    'Tpv6_P' => 'Windows NT GAURAV-HP-2016 10.0 build 19044 (Windows 10) AMD64',
+    'OS' => 'Windows NT',
+    'OS_RELEASE' => '10.0',
+    'OS_Version' =>'build 19044 (Windows 10)',
+    'SystemType' => 'AMD64',
+    'HostName' =>'GAURAV-HP-2016',
+    'MoreDetails' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36'
+ ]
+
+
+----------------------- Entry At 07:01 AM ---------------------------------
+
+=> NEW_CV_SUBMITED --> {
+    SENT->1
+ USER_INVOLVED --> [
+   FullName --> Gaurav Singh
+   UserName --> admin@navix.in
+   UserType --> ADMINISTRATOR
+ ]
+}
+
+SystemDetails --> [
+    'DateTime' => 'Fri 28 Jan, 2022 07:01:07 am',
+    'IpAddress' => '127.0.0.1',
+    'DeviceType' => 'Computer',
+    'Tpv6_P' => 'Windows NT GAURAV-HP-2016 10.0 build 19044 (Windows 10) AMD64',
+    'OS' => 'Windows NT',
+    'OS_RELEASE' => '10.0',
+    'OS_Version' =>'build 19044 (Windows 10)',
+    'SystemType' => 'AMD64',
+    'HostName' =>'GAURAV-HP-2016',
+    'MoreDetails' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36'
+ ]
+
+
+----------------------- Entry At 07:01 AM ---------------------------------
+
+=> NEW_CV_SUBMITED --> {
+    SENT->1
+ USER_INVOLVED --> [
+   FullName --> Gaurav Singh
+   UserName --> admin@navix.in
+   UserType --> ADMINISTRATOR
+ ]
+}
+
+SystemDetails --> [
+    'DateTime' => 'Fri 28 Jan, 2022 07:01:16 am',
+    'IpAddress' => '127.0.0.1',
+    'DeviceType' => 'Computer',
+    'Tpv6_P' => 'Windows NT GAURAV-HP-2016 10.0 build 19044 (Windows 10) AMD64',
+    'OS' => 'Windows NT',
+    'OS_RELEASE' => '10.0',
+    'OS_Version' =>'build 19044 (Windows 10)',
+    'SystemType' => 'AMD64',
+    'HostName' =>'GAURAV-HP-2016',
+    'MoreDetails' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36'
+ ]
+
+
+----------------------- Entry At 07:01 AM ---------------------------------
+
+=> NEW_CV_SUBMITED --> {
+    SENT->1
+ USER_INVOLVED --> [
+   FullName --> Gaurav Singh
+   UserName --> admin@navix.in
+   UserType --> ADMINISTRATOR
+ ]
+}
+
+SystemDetails --> [
+    'DateTime' => 'Fri 28 Jan, 2022 07:01:43 am',
+    'IpAddress' => '127.0.0.1',
+    'DeviceType' => 'Computer',
+    'Tpv6_P' => 'Windows NT GAURAV-HP-2016 10.0 build 19044 (Windows 10) AMD64',
+    'OS' => 'Windows NT',
+    'OS_RELEASE' => '10.0',
+    'OS_Version' =>'build 19044 (Windows 10)',
+    'SystemType' => 'AMD64',
+    'HostName' =>'GAURAV-HP-2016',
+    'MoreDetails' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36'
+ ]
+
+
+----------------------- Entry At 07:01 AM ---------------------------------
+
+=> NEW_CV_SUBMITED --> {
+    SENT->1
+ USER_INVOLVED --> [
+   FullName --> Gaurav Singh
+   UserName --> admin@navix.in
+   UserType --> ADMINISTRATOR
+ ]
+}
+
+SystemDetails --> [
+    'DateTime' => 'Fri 28 Jan, 2022 07:01:28 am',
+    'IpAddress' => '127.0.0.1',
+    'DeviceType' => 'Computer',
+    'Tpv6_P' => 'Windows NT GAURAV-HP-2016 10.0 build 19044 (Windows 10) AMD64',
+    'OS' => 'Windows NT',
+    'OS_RELEASE' => '10.0',
+    'OS_Version' =>'build 19044 (Windows 10)',
+    'SystemType' => 'AMD64',
+    'HostName' =>'GAURAV-HP-2016',
+    'MoreDetails' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36'
+ ]
+
+
+----------------------- Entry At 07:01 AM ---------------------------------
+
+=> NEW_CV_SUBMITED --> {
+    SENT->1
+ USER_INVOLVED --> [
+   FullName --> Gaurav Singh
+   UserName --> admin@navix.in
+   UserType --> ADMINISTRATOR
+ ]
+}
+
+SystemDetails --> [
+    'DateTime' => 'Fri 28 Jan, 2022 07:01:42 am',
+    'IpAddress' => '127.0.0.1',
+    'DeviceType' => 'Computer',
+    'Tpv6_P' => 'Windows NT GAURAV-HP-2016 10.0 build 19044 (Windows 10) AMD64',
+    'OS' => 'Windows NT',
+    'OS_RELEASE' => '10.0',
+    'OS_Version' =>'build 19044 (Windows 10)',
+    'SystemType' => 'AMD64',
+    'HostName' =>'GAURAV-HP-2016',
+    'MoreDetails' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36'
+ ]
+
+
+----------------------- Entry At 07:01 AM ---------------------------------
+
+=> NEW_CV_SUBMITED --> {
+    SENT->1
+ USER_INVOLVED --> [
+   FullName --> Gaurav Singh
+   UserName --> admin@navix.in
+   UserType --> ADMINISTRATOR
+ ]
+}
+
+SystemDetails --> [
+    'DateTime' => 'Fri 28 Jan, 2022 07:01:33 am',
+    'IpAddress' => '127.0.0.1',
+    'DeviceType' => 'Computer',
+    'Tpv6_P' => 'Windows NT GAURAV-HP-2016 10.0 build 19044 (Windows 10) AMD64',
+    'OS' => 'Windows NT',
+    'OS_RELEASE' => '10.0',
+    'OS_Version' =>'build 19044 (Windows 10)',
+    'SystemType' => 'AMD64',
+    'HostName' =>'GAURAV-HP-2016',
+    'MoreDetails' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36'
+ ]
+
+
+----------------------- Entry At 07:01 AM ---------------------------------
+
+=> NEW_CV_SUBMITED --> {
+    SENT->1
+ USER_INVOLVED --> [
+   FullName --> Gaurav Singh
+   UserName --> admin@navix.in
+   UserType --> ADMINISTRATOR
+ ]
+}
+
+SystemDetails --> [
+    'DateTime' => 'Fri 28 Jan, 2022 07:01:38 am',
+    'IpAddress' => '127.0.0.1',
+    'DeviceType' => 'Computer',
+    'Tpv6_P' => 'Windows NT GAURAV-HP-2016 10.0 build 19044 (Windows 10) AMD64',
+    'OS' => 'Windows NT',
+    'OS_RELEASE' => '10.0',
+    'OS_Version' =>'build 19044 (Windows 10)',
+    'SystemType' => 'AMD64',
+    'HostName' =>'GAURAV-HP-2016',
+    'MoreDetails' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36'
+ ]
+
+
+----------------------- Entry At 08:01 AM ---------------------------------
+
+=> NEW_CV_SUBMITED --> {
+    SENT->1
+ USER_INVOLVED --> [
+   FullName --> Gaurav Singh
+   UserName --> admin@navix.in
+   UserType --> ADMINISTRATOR
+ ]
+}
+
+SystemDetails --> [
+    'DateTime' => 'Fri 28 Jan, 2022 08:01:33 am',
+    'IpAddress' => '127.0.0.1',
+    'DeviceType' => 'Computer',
+    'Tpv6_P' => 'Windows NT GAURAV-HP-2016 10.0 build 19044 (Windows 10) AMD64',
+    'OS' => 'Windows NT',
+    'OS_RELEASE' => '10.0',
+    'OS_Version' =>'build 19044 (Windows 10)',
+    'SystemType' => 'AMD64',
+    'HostName' =>'GAURAV-HP-2016',
+    'MoreDetails' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36'
+ ]
+
+
+----------------------- Entry At 08:01 AM ---------------------------------
+
+=> NEW_CV_SUBMITED --> {
+    SENT->1
+ USER_INVOLVED --> [
+   FullName --> Gaurav Singh
+   UserName --> admin@navix.in
+   UserType --> ADMINISTRATOR
+ ]
+}
+
+SystemDetails --> [
+    'DateTime' => 'Fri 28 Jan, 2022 08:01:27 am',
+    'IpAddress' => '127.0.0.1',
+    'DeviceType' => 'Computer',
+    'Tpv6_P' => 'Windows NT GAURAV-HP-2016 10.0 build 19044 (Windows 10) AMD64',
+    'OS' => 'Windows NT',
+    'OS_RELEASE' => '10.0',
+    'OS_Version' =>'build 19044 (Windows 10)',
+    'SystemType' => 'AMD64',
+    'HostName' =>'GAURAV-HP-2016',
+    'MoreDetails' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36'
+ ]
+
+
+----------------------- Entry At 08:01 AM ---------------------------------
+
+=> NEW_CV_SUBMITED --> {
+    SENT->1
+ USER_INVOLVED --> [
+   FullName --> Gaurav Singh
+   UserName --> admin@navix.in
+   UserType --> ADMINISTRATOR
+ ]
+}
+
+SystemDetails --> [
+    'DateTime' => 'Fri 28 Jan, 2022 08:01:39 am',
+    'IpAddress' => '127.0.0.1',
+    'DeviceType' => 'Computer',
+    'Tpv6_P' => 'Windows NT GAURAV-HP-2016 10.0 build 19044 (Windows 10) AMD64',
+    'OS' => 'Windows NT',
+    'OS_RELEASE' => '10.0',
+    'OS_Version' =>'build 19044 (Windows 10)',
+    'SystemType' => 'AMD64',
+    'HostName' =>'GAURAV-HP-2016',
+    'MoreDetails' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36'
+ ]
+
+
+----------------------- Entry At 08:01 AM ---------------------------------
+
+=> NEW_CV_SUBMITED --> {
+    SENT->1
+ USER_INVOLVED --> [
+   FullName --> Gaurav Singh
+   UserName --> admin@navix.in
+   UserType --> ADMINISTRATOR
+ ]
+}
+
+SystemDetails --> [
+    'DateTime' => 'Fri 28 Jan, 2022 08:01:13 am',
+    'IpAddress' => '127.0.0.1',
+    'DeviceType' => 'Computer',
+    'Tpv6_P' => 'Windows NT GAURAV-HP-2016 10.0 build 19044 (Windows 10) AMD64',
+    'OS' => 'Windows NT',
+    'OS_RELEASE' => '10.0',
+    'OS_Version' =>'build 19044 (Windows 10)',
+    'SystemType' => 'AMD64',
+    'HostName' =>'GAURAV-HP-2016',
+    'MoreDetails' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36'
+ ]
+
+
+----------------------- Entry At 08:01 AM ---------------------------------
+
+=> NEW_CV_SUBMITED --> {
+    SENT->1
+ USER_INVOLVED --> [
+   FullName --> Gaurav Singh
+   UserName --> admin@navix.in
+   UserType --> ADMINISTRATOR
+ ]
+}
+
+SystemDetails --> [
+    'DateTime' => 'Fri 28 Jan, 2022 08:01:23 am',
+    'IpAddress' => '127.0.0.1',
+    'DeviceType' => 'Computer',
+    'Tpv6_P' => 'Windows NT GAURAV-HP-2016 10.0 build 19044 (Windows 10) AMD64',
+    'OS' => 'Windows NT',
+    'OS_RELEASE' => '10.0',
+    'OS_Version' =>'build 19044 (Windows 10)',
+    'SystemType' => 'AMD64',
+    'HostName' =>'GAURAV-HP-2016',
+    'MoreDetails' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36'
+ ]
+
+
+----------------------- Entry At 08:01 AM ---------------------------------
+
+=> NEW_CV_SUBMITED --> {
+    SENT->1
+ USER_INVOLVED --> [
+   FullName --> Gaurav Singh
+   UserName --> admin@navix.in
+   UserType --> ADMINISTRATOR
+ ]
+}
+
+SystemDetails --> [
+    'DateTime' => 'Fri 28 Jan, 2022 08:01:28 am',
+    'IpAddress' => '127.0.0.1',
+    'DeviceType' => 'Computer',
+    'Tpv6_P' => 'Windows NT GAURAV-HP-2016 10.0 build 19044 (Windows 10) AMD64',
+    'OS' => 'Windows NT',
+    'OS_RELEASE' => '10.0',
+    'OS_Version' =>'build 19044 (Windows 10)',
+    'SystemType' => 'AMD64',
+    'HostName' =>'GAURAV-HP-2016',
+    'MoreDetails' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36'
+ ]
+

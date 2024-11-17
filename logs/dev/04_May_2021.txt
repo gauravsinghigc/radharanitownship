@@ -1,0 +1,775 @@
+
+--------------------Acitivity Logs for Tue 04 May, 2021 Used in dev Environment-------------------------------
+
+=> Log File created for Tue 04 May, 2021 which is start at 07:05 AM from 127.0.0.1
+=> File Creation System Details (It should be same for all the log entry.
+=> If any log is not same then maybe that entry/action is not from a authorised/know device.
+=> Default System Configuration at Entry Time
+
+SystemDetails --> [
+    'DateTime' => 'Tue 04 May, 2021 07:05:46 am',
+    'IpAddress' => '127.0.0.1',
+    'DeviceType' => 'Computer',
+    'Tpv6_P' => 'Windows NT GAURAV-HP 10.0 build 19043 (Windows 10) AMD64',
+    'OS' => 'Windows NT',
+    'OS_RELEASE' => '10.0',
+    'OS_Version' =>'build 19043 (Windows 10)',
+    'SystemType' => 'AMD64',
+    'HostName' =>'GAURAV-HP',
+    'MoreDetails' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36'
+ ]
+
+
+----------------------- Entry At 07:05 AM ---------------------------------
+
+=> LOG_FILE_CREATED --> {
+    Log File Generated
+}
+
+=> LOGIN_REQUEST_SUCCESS --> {
+    SUCCESS -> Username : gauravsinghigc and Password : gauravsinghigc
+ USER_INVOLVED --> [
+   FullName --> Gaurav Singh
+   UserName --> gauravsinghigc
+   UserType --> ADMINISTRATOR
+ ]
+}
+
+=> SystemDetails --> [
+    'DateTime' => 'Tue 04 May, 2021 07:05:46 am',
+    'IpAddress' => '127.0.0.1',
+    'DeviceType' => 'Computer',
+    'Tpv6_P' => 'Windows NT GAURAV-HP 10.0 build 19043 (Windows 10) AMD64',
+    'OS' => 'Windows NT',
+    'OS_RELEASE' => '10.0',
+    'OS_Version' =>'build 19043 (Windows 10)',
+    'SystemType' => 'AMD64',
+    'HostName' =>'GAURAV-HP',
+    'MoreDetails' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36'
+ ]
+
+
+----------------------- Entry At 07:05 AM ---------------------------------
+
+=> CONFIGURATION_UPDATED --> {
+    MAP_LINK-> https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d14035.962147747603!2d77.329219!3d28.4195424!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xe5e8508a6f57c413!2sGaurav%20Singh!5e0!3m2!1sen!2sin!4v1620094192448!5m2!1sen!2sin is updated.
+ USER_INVOLVED --> [
+   FullName --> Gaurav Singh
+   UserName --> gauravsinghigc
+   UserType --> ADMINISTRATOR
+ ]
+}
+
+SystemDetails --> [
+    'DateTime' => 'Tue 04 May, 2021 07:05:24 am',
+    'IpAddress' => '127.0.0.1',
+    'DeviceType' => 'Computer',
+    'Tpv6_P' => 'Windows NT GAURAV-HP 10.0 build 19043 (Windows 10) AMD64',
+    'OS' => 'Windows NT',
+    'OS_RELEASE' => '10.0',
+    'OS_Version' =>'build 19043 (Windows 10)',
+    'SystemType' => 'AMD64',
+    'HostName' =>'GAURAV-HP',
+    'MoreDetails' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36'
+ ]
+
+
+----------------------- Entry At 07:05 AM ---------------------------------
+
+=> PAGE_DETAILS_UPDATED --> {
+    RWJVVlhiekFHaXhhamt5Um9KZHR1Wkx4VWVaa2pqSFErYlpBZTBSd2NjanFER0JUUEVBcld2dFdYd1lkRkF6SHUydGViZS9BdmkrdmRpSXFUYnRkR2VNM0haZjdTSEdndVF2eGVRTDRvc2UzSFljUDJlTUhXTXI4QURXSkQyUHNSZWU0U0t0MUs3bnhqWE5lUFhpZTRxTXRZeHgwN09pUjMyMHREM3A1YUtRR1kvQ0ZQZk9QOWUzWmd0c1NlNzYrNkhrbjhVU2VjNnVEQndldDEwR09ZTkFXcTV0U0w1U3QwK3lCWVJIUm1iRWlPMjZIeThyV1FjcWZVSlhXU3doYTJkSlhGbktkWm9FVlBBOURqeWtIYmNiWEYwc3llamtBMlArT1YvNDQ2UUhUZTA0c1ErSE4vWDkxaDRkNXUzQUxib3V0NVVYTXBPU3ljUUZrMmNjL0g2dEl5ZGFVUEdOaXJZMVNYTFNlOVNUSDlUWU1WRytEYlJyb09wdDA3d3hXNFppTU9kUExKc29oaWJZeXRvcWYwME9XL3FrNFA0cUt5K2U0K21sOUFTMExrckkzbk00NzBidm94NTRaL3hqcVBLR0s4UVNXc3VtUHNkRmk4YnQvdSt2anBsbE55MCt4ZTFja3A2dVcyQ0FiL1dkakMwOEVSNGV0ZHAxS2l2dngzcm5MRUp0T0pXUk1CZGsyTkE5anFjSGdLUjk2NmNzY2JyNnQ4bnovbllrUG1rejhxWjBCUGN6TFA3SjAvcU8yRGZ6Q2xMaEZQVTFYb2ptb1NJS2dWdno2QzZaeTFETlZjR2gvaWVTTzR6ZVMzcENGa2lOZWN5UHZDdUc2TjZ2Q3RNK3JnR1lzcVV1Ujg5dG5vQ1VZVitPZy8vVnRIaEtvUDJPVm9rNjVZMkRvY2swOWJreFB2SWh2N0VOaFNyU0QvMEgzbTNHeUtyVi9kaWd2QzBPckFrUitsc3NJdkpCZk5NcEVCN1FFOFNnNGY0ZFNLN3hoc2ZvZDN3ajBtR2REZnZBeWw1RnZ3TGtwaGZwNjVyUU1QWkNvWTN5b0FPcGp6SWRTZm94RlE3czFMWTZ6T3pYaFZia2JDMUQ1eWozM2FITGVGVmFSSWl2aFBZakx1TkZhOEVrL0cxUnk2RjRyUmx3ZzZ5bzRpaFptS0hmRXhQM29aVmIrZ2pDVFZKUTVOUjJHRkY3c1dyOE1UZzNwb29rcWdoZDFMVlVyN1FYU2ZuUVdmMmRIV1JpU1I3N2VDMk5iQ0ZRcmliblBHbGlTQmxJTzNsaVRWZ1djUjVyMTMveEU2ZzlIUTRuQzhpSmY5UGZKcnUvcmw0LysvSzNrMXB5MFNsRWFYeUwvWlN6TWM1YkM1K1lpZWdjVCtVV1F0eDErTTVaT29kb0dnYmZRM3lRbkE2OUVHTk5VZjh5d3lwbTJrTnFUbURrQkhLYzhaRnMwa004VmVzTWpocjZLK3FNN2dRPT0=
+ USER_INVOLVED --> [
+   FullName --> Gaurav Singh
+   UserName --> gauravsinghigc
+   UserType --> ADMINISTRATOR
+ ]
+}
+
+SystemDetails --> [
+    'DateTime' => 'Tue 04 May, 2021 07:05:15 am',
+    'IpAddress' => '127.0.0.1',
+    'DeviceType' => 'Computer',
+    'Tpv6_P' => 'Windows NT GAURAV-HP 10.0 build 19043 (Windows 10) AMD64',
+    'OS' => 'Windows NT',
+    'OS_RELEASE' => '10.0',
+    'OS_Version' =>'build 19043 (Windows 10)',
+    'SystemType' => 'AMD64',
+    'HostName' =>'GAURAV-HP',
+    'MoreDetails' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36'
+ ]
+
+
+----------------------- Entry At 07:05 AM ---------------------------------
+
+=> PAGE_DETAILS_UPDATED --> {
+    cFdQRTI2R1lUbSsrME9lazREaVNUR0RPZ092a1JKdzVBTFFxTTRVM2h3RTJaTDlpRlVTVmhhSjEwNTdHbHlkZkRac2RsVXBMV3UxSE5yU0xWamJ3K1N4M2RNYy8yREZISVhkWisvTGZkUmY0cDR3ZmNjSFdiS0pRbGJlV0llaVZObUdYVGZxTjlLaFprWnRpRVIveTdxUlA1bkJEdmdoaDY2djJzRGFSS05USHhkZHphbDZrbkp0YTExd3IydUh0Q0s2QTNhb2NuUVN6bVhNamhvZmZvWFBISm5DTENHVDNuOGdNcWpENWxIUGZRMjcwWnkvWWQ2ZUhYM2RvMGNjeHFXYTlDL0RHZTFwdDZoelhMY3pkN3hIVWxUS2xyYno4YjBnSjYzdThGZWM4cU55M0ZDSEdyL3FHK2ppR0JlUlV4alVUdmUwU1JNQi80MUdPb2YvQm1LcnZjNHZydnBucnhsZG85Snk4aEZPTkwxUC9DY2daSk1IU3RWMUFnaWhMQXJHSW1qQnpLRm1FL2ZQSmRoLy9aeTVsSXZRKzhwWlBFMGo2TW8xWW80amE0UmdTdkVZdHg0dnNlcHlDbUh0eGhtT3I1YS9GQmZXTVRtM0J4OEF0MXdpb2FiSHkvZ05aN1BTejZLK3V4RVJ1NENJNVBkQ1I4UlBQQ21wcDdTcERIMkJDTEYzbTkyd2Y4SkFuTUxDeGhpS24vemhKOENwYVZEUUpORE1rSlVvemVhYXpUMkZsL1h3SHFYa0lwc000bG85a0lMd2hYN0U4bXVickVUaWwyYktxNVJ6NnVvcVlhWEdtOS9JaUJoLzdsa3Y0Umd5Q1RBYkZGZVJSWWlaZitXMTBXVTYrb0x4aUhPZExGSEhFN0l1eENBRkVXR0xkaTlvcXZ5VThhRWYxTFU5WTZLUlJHZjcrVU52WmtYbnpTaWllVkJwd1U1Vnl4ODhidFAwYkZyV0l0SnFMN1hxVVVsTlhSN2RIYldPT2UzeTFhV1FqM05HeXFwL1VrOGh0ZUhKSVZqZmlxRHZrVWhML2toZk9tSTJPTUhzbGJyQUpITG9rNEhSVFNmbVJlcXhzNmtBNnh4WFJFNWRXTm8wdU1uQjRHWUUrRDRTWTdMU2FMUFFTQ3owUFdOUzd5aDR2TEQwSW83TGttUzVraTVZb1BBRGJCSTVpMGtxakZSN1BwU1cveThJcWdHM05JNEZObUI5Y0Y4TEwwQkJ3cFJoUTdRNWRyZE9BRmk5TFl1R3kzTm9FWUQwcmtGUHNwQ2JaaXFDV3p2andyRUpqWU5Gbkh2ZVlvWGFlV29DeVZZUTFmVVpOWmgyUUU3V3VJUDVwZWxPUk9Ia29CNUw2OWFka25MUExsc0F4endTV1ZBM2dUbDBFVFpwczc5dUoyT3cvTjloNjR0eDVkT2xNckFlcEZjM2dNZnpQcnlRbVRsaVhDRENQa29aQm44NzVwWWY1Q1JGL0Zub2tvdVZlNTJFeXFUVG5KSk9vZ2ZPRnk4d2JBS2tzdVdudVhPdlk5aWRuNDJLVUFRQXJJSEp4elkrQVRCWDlUOWVtMG43RTVxald2dkJ5MEh3TkJPZEZNeGFGeUt0ak16OE01b3g2QTVodXY5bWpWWmd4UTlMTlBpakQwT1pmdEgxUTdvZnJwRUh6dEZDU0NpWnhEd3p1RDZpQjQ3WFdKS3c3V0c1eStlV3RibDdLUDNxcm9FN0pMUlh3TjVsblZGUG13dzc2b3ZwV1Iwd283VnY5aFVwczE2QTRWaWk0WDhyMHlkaS8xZUp5dTVieDFkQ2tFdHJQV2xqQnVFdjhwdVJpVmJsdUs1MWI5VWlVdG9CL280blFOeHV2M2pHSjhJejNVTXNiQkxNK09zejRPL25MYVd4cEs4QkpHVEhhbklaaXg4dnM2YnBzSWp2UVNTMmdLZ3BGYU94Nm1Vby9XeUhrNGxKSm81aDRaZWt6UEhCVTl6c3lXbEd2Q0RNenJGOS9HdlZsQ0ovNk9TakNmSHBqeStyK2JwUCtjUG8rK1Q5bGtzOWpRWGJLSjNNcmg1aGgwMmtpc0c4Zjl6c1dGa2xPVUY2akh3UXk5T0JiUS9UWERoQjhNc05NV01yN3NGb3NPdFNqV1RwcnFUNHl5OFF6NU5iWFdoUXlTRk1NQmxuT1Y3RlpneDV1R1lEbWdyaDN4cTFLamw1T0FmWDRveEtuVnZ6c0JmTUJSbmNOeGttM05aRDRkaUNxZGd6NEpuUVczaHRsUEd1eHRnSk1hSkZSbThYWi80dVd4QmxDYXBMMDhGUWNSNU9MeVR2OHZVSkNleXlEK3d5Vmo0S2EyeStWbFZZeVIvNE9tcVAzVnJ5RFg3WHhRZVZEc1ZETDV0Z0hOZTlUK3ljVjJPdUlJb211bmtrY1RmRE5uYWhwbkV3UFdXcjF6eTBTRmw0Wm10QXBPcC9aNFVMcVI5cXRzNWlkVTVZN1JvZ3lMMm9qVDR6bStZeHp0cmtZWWltcVc1ZE9udURTcFRHNGJ3NnNLcjYyczhOTXFVeTdjNVVId2NBSHdaWmdQb01yVVVnZFh4ejlnYzV4Rk04MFRjSWFtYW4zU2NWUFgwT2c3UDZtZ0svTno0b3N3SjhCRzlTejZjQmk5TFAxMW10b2NkVUs3WHV4dGJ1S0xCK0d1SFlqOFlJNmI4TUlQTTh1eXNKZXEyeDF5Tk5rb1Zqd3p1ZXNRODEybE41K1V3YnpaeGx6L0UreCtSeW1qWlphRU90MjlkNkoweTZEWXZuQWRoY1N3eWgrOUVZdUhzTlBnZWpoRFlxcC9tbXY4aDJvcUJ2SVZLM3NLZ1paQ0dtQXZZUnNzM1ZHVklMcElLd1NydE5IWmlWWkJJV2VJdVVYOVFIRTFHL0lYYXA4L1NRQVBhMGRvSTdkWGJHNGc3OC9MTTJWdStuRXV0bU0vR0tNTTdoeVNEV282d1U1cGliMkt2cjdzR1VkZ1FYMTRjbXJHWU9sVGhkZW0wTXJFV3JkMEEzVTJBNEJhdGFOTmJVMVJPWGNFRXlIK3hETFBiVlQ4eG0vZGR4NWd1TmdIS2hkcVVCM3lNcDZSRzVreUJQK0lGN0ZTZz09
+ USER_INVOLVED --> [
+   FullName --> Gaurav Singh
+   UserName --> gauravsinghigc
+   UserType --> ADMINISTRATOR
+ ]
+}
+
+SystemDetails --> [
+    'DateTime' => 'Tue 04 May, 2021 07:05:39 am',
+    'IpAddress' => '127.0.0.1',
+    'DeviceType' => 'Computer',
+    'Tpv6_P' => 'Windows NT GAURAV-HP 10.0 build 19043 (Windows 10) AMD64',
+    'OS' => 'Windows NT',
+    'OS_RELEASE' => '10.0',
+    'OS_Version' =>'build 19043 (Windows 10)',
+    'SystemType' => 'AMD64',
+    'HostName' =>'GAURAV-HP',
+    'MoreDetails' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36'
+ ]
+
+
+----------------------- Entry At 08:05 AM ---------------------------------
+
+=> NEW_PROJECT_ENTRY --> {
+    SAVED -> 1
+ USER_INVOLVED --> [
+   FullName --> Unknown
+   UserName --> Unknown
+   UserType --> Unknown
+ ]
+}
+
+SystemDetails --> [
+    'DateTime' => 'Tue 04 May, 2021 08:05:34 am',
+    'IpAddress' => '127.0.0.1',
+    'DeviceType' => 'Computer',
+    'Tpv6_P' => 'Windows NT GAURAV-HP 10.0 build 19043 (Windows 10) AMD64',
+    'OS' => 'Windows NT',
+    'OS_RELEASE' => '10.0',
+    'OS_Version' =>'build 19043 (Windows 10)',
+    'SystemType' => 'AMD64',
+    'HostName' =>'GAURAV-HP',
+    'MoreDetails' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36'
+ ]
+
+
+----------------------- Entry At 09:05 AM ---------------------------------
+
+=> NEW_FORM_SUBMITED --> {
+    SENT->1
+ USER_INVOLVED --> [
+   FullName --> Gaurav Singh
+   UserName --> gauravsinghigc
+   UserType --> ADMINISTRATOR
+ ]
+}
+
+SystemDetails --> [
+    'DateTime' => 'Tue 04 May, 2021 09:05:09 am',
+    'IpAddress' => '127.0.0.1',
+    'DeviceType' => 'Computer',
+    'Tpv6_P' => 'Windows NT GAURAV-HP 10.0 build 19043 (Windows 10) AMD64',
+    'OS' => 'Windows NT',
+    'OS_RELEASE' => '10.0',
+    'OS_Version' =>'build 19043 (Windows 10)',
+    'SystemType' => 'AMD64',
+    'HostName' =>'GAURAV-HP',
+    'MoreDetails' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36'
+ ]
+
+
+----------------------- Entry At 09:05 AM ---------------------------------
+
+=> NEW_FORM_SUBMITED --> {
+    SENT->1
+ USER_INVOLVED --> [
+   FullName --> Gaurav Singh
+   UserName --> gauravsinghigc
+   UserType --> ADMINISTRATOR
+ ]
+}
+
+SystemDetails --> [
+    'DateTime' => 'Tue 04 May, 2021 09:05:37 am',
+    'IpAddress' => '127.0.0.1',
+    'DeviceType' => 'Computer',
+    'Tpv6_P' => 'Windows NT GAURAV-HP 10.0 build 19043 (Windows 10) AMD64',
+    'OS' => 'Windows NT',
+    'OS_RELEASE' => '10.0',
+    'OS_Version' =>'build 19043 (Windows 10)',
+    'SystemType' => 'AMD64',
+    'HostName' =>'GAURAV-HP',
+    'MoreDetails' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36'
+ ]
+
+
+----------------------- Entry At 09:05 AM ---------------------------------
+
+=> NEW_FORM_SUBMITED --> {
+    SENT->1
+ USER_INVOLVED --> [
+   FullName --> Gaurav Singh
+   UserName --> gauravsinghigc
+   UserType --> ADMINISTRATOR
+ ]
+}
+
+SystemDetails --> [
+    'DateTime' => 'Tue 04 May, 2021 09:05:47 am',
+    'IpAddress' => '127.0.0.1',
+    'DeviceType' => 'Computer',
+    'Tpv6_P' => 'Windows NT GAURAV-HP 10.0 build 19043 (Windows 10) AMD64',
+    'OS' => 'Windows NT',
+    'OS_RELEASE' => '10.0',
+    'OS_Version' =>'build 19043 (Windows 10)',
+    'SystemType' => 'AMD64',
+    'HostName' =>'GAURAV-HP',
+    'MoreDetails' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36'
+ ]
+
+
+----------------------- Entry At 09:05 AM ---------------------------------
+
+=> NEW_FORM_SUBMITED --> {
+    SENT->1
+ USER_INVOLVED --> [
+   FullName --> Gaurav Singh
+   UserName --> gauravsinghigc
+   UserType --> ADMINISTRATOR
+ ]
+}
+
+SystemDetails --> [
+    'DateTime' => 'Tue 04 May, 2021 09:05:23 am',
+    'IpAddress' => '127.0.0.1',
+    'DeviceType' => 'Computer',
+    'Tpv6_P' => 'Windows NT GAURAV-HP 10.0 build 19043 (Windows 10) AMD64',
+    'OS' => 'Windows NT',
+    'OS_RELEASE' => '10.0',
+    'OS_Version' =>'build 19043 (Windows 10)',
+    'SystemType' => 'AMD64',
+    'HostName' =>'GAURAV-HP',
+    'MoreDetails' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36'
+ ]
+
+
+----------------------- Entry At 09:05 AM ---------------------------------
+
+=> NEW_FORM_SUBMITED --> {
+    SENT->1
+ USER_INVOLVED --> [
+   FullName --> Gaurav Singh
+   UserName --> gauravsinghigc
+   UserType --> ADMINISTRATOR
+ ]
+}
+
+SystemDetails --> [
+    'DateTime' => 'Tue 04 May, 2021 09:05:11 am',
+    'IpAddress' => '127.0.0.1',
+    'DeviceType' => 'Computer',
+    'Tpv6_P' => 'Windows NT GAURAV-HP 10.0 build 19043 (Windows 10) AMD64',
+    'OS' => 'Windows NT',
+    'OS_RELEASE' => '10.0',
+    'OS_Version' =>'build 19043 (Windows 10)',
+    'SystemType' => 'AMD64',
+    'HostName' =>'GAURAV-HP',
+    'MoreDetails' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36'
+ ]
+
+
+----------------------- Entry At 09:05 AM ---------------------------------
+
+=> NEW_FORM_SUBMITED --> {
+    SENT->1
+ USER_INVOLVED --> [
+   FullName --> Gaurav Singh
+   UserName --> gauravsinghigc
+   UserType --> ADMINISTRATOR
+ ]
+}
+
+SystemDetails --> [
+    'DateTime' => 'Tue 04 May, 2021 09:05:23 am',
+    'IpAddress' => '127.0.0.1',
+    'DeviceType' => 'Computer',
+    'Tpv6_P' => 'Windows NT GAURAV-HP 10.0 build 19043 (Windows 10) AMD64',
+    'OS' => 'Windows NT',
+    'OS_RELEASE' => '10.0',
+    'OS_Version' =>'build 19043 (Windows 10)',
+    'SystemType' => 'AMD64',
+    'HostName' =>'GAURAV-HP',
+    'MoreDetails' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36'
+ ]
+
+
+----------------------- Entry At 09:05 AM ---------------------------------
+
+=> NEW_FORM_SUBMITED --> {
+    SENT->1
+ USER_INVOLVED --> [
+   FullName --> Gaurav Singh
+   UserName --> gauravsinghigc
+   UserType --> ADMINISTRATOR
+ ]
+}
+
+SystemDetails --> [
+    'DateTime' => 'Tue 04 May, 2021 09:05:32 am',
+    'IpAddress' => '127.0.0.1',
+    'DeviceType' => 'Computer',
+    'Tpv6_P' => 'Windows NT GAURAV-HP 10.0 build 19043 (Windows 10) AMD64',
+    'OS' => 'Windows NT',
+    'OS_RELEASE' => '10.0',
+    'OS_Version' =>'build 19043 (Windows 10)',
+    'SystemType' => 'AMD64',
+    'HostName' =>'GAURAV-HP',
+    'MoreDetails' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36'
+ ]
+
+
+----------------------- Entry At 09:05 AM ---------------------------------
+
+=> NEW_FORM_SUBMITED --> {
+    SENT->1
+ USER_INVOLVED --> [
+   FullName --> Gaurav Singh
+   UserName --> gauravsinghigc
+   UserType --> ADMINISTRATOR
+ ]
+}
+
+SystemDetails --> [
+    'DateTime' => 'Tue 04 May, 2021 09:05:10 am',
+    'IpAddress' => '127.0.0.1',
+    'DeviceType' => 'Computer',
+    'Tpv6_P' => 'Windows NT GAURAV-HP 10.0 build 19043 (Windows 10) AMD64',
+    'OS' => 'Windows NT',
+    'OS_RELEASE' => '10.0',
+    'OS_Version' =>'build 19043 (Windows 10)',
+    'SystemType' => 'AMD64',
+    'HostName' =>'GAURAV-HP',
+    'MoreDetails' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36'
+ ]
+
+
+----------------------- Entry At 09:05 AM ---------------------------------
+
+=> NEW_FORM_SUBMITED --> {
+    SENT->1
+ USER_INVOLVED --> [
+   FullName --> Gaurav Singh
+   UserName --> gauravsinghigc
+   UserType --> ADMINISTRATOR
+ ]
+}
+
+SystemDetails --> [
+    'DateTime' => 'Tue 04 May, 2021 09:05:27 am',
+    'IpAddress' => '127.0.0.1',
+    'DeviceType' => 'Computer',
+    'Tpv6_P' => 'Windows NT GAURAV-HP 10.0 build 19043 (Windows 10) AMD64',
+    'OS' => 'Windows NT',
+    'OS_RELEASE' => '10.0',
+    'OS_Version' =>'build 19043 (Windows 10)',
+    'SystemType' => 'AMD64',
+    'HostName' =>'GAURAV-HP',
+    'MoreDetails' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36'
+ ]
+
+
+----------------------- Entry At 09:05 AM ---------------------------------
+
+=> LOGIN_REQUEST_SUCCESS --> {
+    SUCCESS -> Username : gauravsinghigc and Password : gauravsinghigc
+ USER_INVOLVED --> [
+   FullName --> Gaurav Singh
+   UserName --> gauravsinghigc
+   UserType --> ADMINISTRATOR
+ ]
+}
+
+SystemDetails --> [
+    'DateTime' => 'Tue 04 May, 2021 09:05:58 am',
+    'IpAddress' => '127.0.0.1',
+    'DeviceType' => 'Computer',
+    'Tpv6_P' => 'Windows NT GAURAV-HP 10.0 build 19043 (Windows 10) AMD64',
+    'OS' => 'Windows NT',
+    'OS_RELEASE' => '10.0',
+    'OS_Version' =>'build 19043 (Windows 10)',
+    'SystemType' => 'AMD64',
+    'HostName' =>'GAURAV-HP',
+    'MoreDetails' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36'
+ ]
+
+
+----------------------- Entry At 09:05 AM ---------------------------------
+
+=> NEW_FORM_SUBMITED --> {
+    SENT->1
+ USER_INVOLVED --> [
+   FullName --> Gaurav Singh
+   UserName --> gauravsinghigc
+   UserType --> ADMINISTRATOR
+ ]
+}
+
+SystemDetails --> [
+    'DateTime' => 'Tue 04 May, 2021 09:05:47 am',
+    'IpAddress' => '127.0.0.1',
+    'DeviceType' => 'Computer',
+    'Tpv6_P' => 'Windows NT GAURAV-HP 10.0 build 19043 (Windows 10) AMD64',
+    'OS' => 'Windows NT',
+    'OS_RELEASE' => '10.0',
+    'OS_Version' =>'build 19043 (Windows 10)',
+    'SystemType' => 'AMD64',
+    'HostName' =>'GAURAV-HP',
+    'MoreDetails' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36'
+ ]
+
+
+----------------------- Entry At 09:05 AM ---------------------------------
+
+=> NEW_FORM_SUBMITED --> {
+    SENT->1
+ USER_INVOLVED --> [
+   FullName --> Gaurav Singh
+   UserName --> gauravsinghigc
+   UserType --> ADMINISTRATOR
+ ]
+}
+
+SystemDetails --> [
+    'DateTime' => 'Tue 04 May, 2021 09:05:10 am',
+    'IpAddress' => '127.0.0.1',
+    'DeviceType' => 'Computer',
+    'Tpv6_P' => 'Windows NT GAURAV-HP 10.0 build 19043 (Windows 10) AMD64',
+    'OS' => 'Windows NT',
+    'OS_RELEASE' => '10.0',
+    'OS_Version' =>'build 19043 (Windows 10)',
+    'SystemType' => 'AMD64',
+    'HostName' =>'GAURAV-HP',
+    'MoreDetails' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36'
+ ]
+
+
+----------------------- Entry At 03:05 PM ---------------------------------
+
+=> LOGIN_REQUEST_SUCCESS --> {
+    SUCCESS -> Username : gauravsinghigc and Password : gauravsinghigc
+ USER_INVOLVED --> [
+   FullName --> Gaurav Singh
+   UserName --> gauravsinghigc
+   UserType --> ADMINISTRATOR
+ ]
+}
+
+SystemDetails --> [
+    'DateTime' => 'Tue 04 May, 2021 03:05:35 pm',
+    'IpAddress' => '127.0.0.1',
+    'DeviceType' => 'Computer',
+    'Tpv6_P' => 'Windows NT GAURAV-HP 10.0 build 19043 (Windows 10) AMD64',
+    'OS' => 'Windows NT',
+    'OS_RELEASE' => '10.0',
+    'OS_Version' =>'build 19043 (Windows 10)',
+    'SystemType' => 'AMD64',
+    'HostName' =>'GAURAV-HP',
+    'MoreDetails' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36'
+ ]
+
+
+----------------------- Entry At 03:05 PM ---------------------------------
+
+=> CONFIGURATION_UPDATED --> {
+    APP_ADDRESS-> 11/7 Opposite Pillar No. 60 Near DS Door, Main Mathura Road, faridabad , Haryana is updated.
+ USER_INVOLVED --> [
+   FullName --> Gaurav Singh
+   UserName --> gauravsinghigc
+   UserType --> ADMINISTRATOR
+ ]
+}
+
+SystemDetails --> [
+    'DateTime' => 'Tue 04 May, 2021 03:05:55 pm',
+    'IpAddress' => '127.0.0.1',
+    'DeviceType' => 'Computer',
+    'Tpv6_P' => 'Windows NT GAURAV-HP 10.0 build 19043 (Windows 10) AMD64',
+    'OS' => 'Windows NT',
+    'OS_RELEASE' => '10.0',
+    'OS_Version' =>'build 19043 (Windows 10)',
+    'SystemType' => 'AMD64',
+    'HostName' =>'GAURAV-HP',
+    'MoreDetails' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36'
+ ]
+
+
+----------------------- Entry At 03:05 PM ---------------------------------
+
+=> CONFIGURATION_UPDATED --> {
+    DOMAIN-> http://192.168.43.14/projects/mddevelop is updated.
+ USER_INVOLVED --> [
+   FullName --> Gaurav Singh
+   UserName --> gauravsinghigc
+   UserType --> ADMINISTRATOR
+ ]
+}
+
+SystemDetails --> [
+    'DateTime' => 'Tue 04 May, 2021 03:05:25 pm',
+    'IpAddress' => '127.0.0.1',
+    'DeviceType' => 'Computer',
+    'Tpv6_P' => 'Windows NT GAURAV-HP 10.0 build 19043 (Windows 10) AMD64',
+    'OS' => 'Windows NT',
+    'OS_RELEASE' => '10.0',
+    'OS_Version' =>'build 19043 (Windows 10)',
+    'SystemType' => 'AMD64',
+    'HostName' =>'GAURAV-HP',
+    'MoreDetails' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36'
+ ]
+
+
+----------------------- Entry At 04:05 PM ---------------------------------
+
+=> NEW_FORM_SUBMITED --> {
+    SENT->1
+ USER_INVOLVED --> [
+   FullName --> Gaurav Singh
+   UserName --> gauravsinghigc
+   UserType --> ADMINISTRATOR
+ ]
+}
+
+SystemDetails --> [
+    'DateTime' => 'Tue 04 May, 2021 04:05:51 pm',
+    'IpAddress' => '127.0.0.1',
+    'DeviceType' => 'Computer',
+    'Tpv6_P' => 'Windows NT GAURAV-HP 10.0 build 19043 (Windows 10) AMD64',
+    'OS' => 'Windows NT',
+    'OS_RELEASE' => '10.0',
+    'OS_Version' =>'build 19043 (Windows 10)',
+    'SystemType' => 'AMD64',
+    'HostName' =>'GAURAV-HP',
+    'MoreDetails' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36'
+ ]
+
+
+----------------------- Entry At 04:05 PM ---------------------------------
+
+=> NEW_FORM_SUBMITED --> {
+    SENT->1
+ USER_INVOLVED --> [
+   FullName --> Gaurav Singh
+   UserName --> gauravsinghigc
+   UserType --> ADMINISTRATOR
+ ]
+}
+
+SystemDetails --> [
+    'DateTime' => 'Tue 04 May, 2021 04:05:13 pm',
+    'IpAddress' => '192.168.43.1',
+    'DeviceType' => 'Mobile',
+    'Tpv6_P' => 'Windows NT GAURAV-HP 10.0 build 19043 (Windows 10) AMD64',
+    'OS' => 'Windows NT',
+    'OS_RELEASE' => '10.0',
+    'OS_Version' =>'build 19043 (Windows 10)',
+    'SystemType' => 'AMD64',
+    'HostName' =>'GAURAV-HP',
+    'MoreDetails' => 'Mozilla/5.0 (Linux; Android 9; Redmi Note 6 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.91 Mobile Safari/537.36'
+ ]
+
+
+----------------------- Entry At 04:05 PM ---------------------------------
+
+=> NEW_FORM_SUBMITED --> {
+    SENT->1
+ USER_INVOLVED --> [
+   FullName --> Gaurav Singh
+   UserName --> gauravsinghigc
+   UserType --> ADMINISTRATOR
+ ]
+}
+
+SystemDetails --> [
+    'DateTime' => 'Tue 04 May, 2021 04:05:11 pm',
+    'IpAddress' => '192.168.43.1',
+    'DeviceType' => 'Mobile',
+    'Tpv6_P' => 'Windows NT GAURAV-HP 10.0 build 19043 (Windows 10) AMD64',
+    'OS' => 'Windows NT',
+    'OS_RELEASE' => '10.0',
+    'OS_Version' =>'build 19043 (Windows 10)',
+    'SystemType' => 'AMD64',
+    'HostName' =>'GAURAV-HP',
+    'MoreDetails' => 'Mozilla/5.0 (Linux; Android 9; Redmi Note 6 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.91 Mobile Safari/537.36'
+ ]
+
+
+----------------------- Entry At 04:05 PM ---------------------------------
+
+=> NEW_FORM_SUBMITED --> {
+    SENT->1
+ USER_INVOLVED --> [
+   FullName --> Gaurav Singh
+   UserName --> gauravsinghigc
+   UserType --> ADMINISTRATOR
+ ]
+}
+
+SystemDetails --> [
+    'DateTime' => 'Tue 04 May, 2021 04:05:46 pm',
+    'IpAddress' => '192.168.43.1',
+    'DeviceType' => 'Mobile',
+    'Tpv6_P' => 'Windows NT GAURAV-HP 10.0 build 19043 (Windows 10) AMD64',
+    'OS' => 'Windows NT',
+    'OS_RELEASE' => '10.0',
+    'OS_Version' =>'build 19043 (Windows 10)',
+    'SystemType' => 'AMD64',
+    'HostName' =>'GAURAV-HP',
+    'MoreDetails' => 'Mozilla/5.0 (Linux; Android 9; Redmi Note 6 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.91 Mobile Safari/537.36'
+ ]
+
+
+----------------------- Entry At 04:05 PM ---------------------------------
+
+=> NEW_FORM_SUBMITED --> {
+    SENT->1
+ USER_INVOLVED --> [
+   FullName --> Gaurav Singh
+   UserName --> gauravsinghigc
+   UserType --> ADMINISTRATOR
+ ]
+}
+
+SystemDetails --> [
+    'DateTime' => 'Tue 04 May, 2021 04:05:11 pm',
+    'IpAddress' => '192.168.43.1',
+    'DeviceType' => 'Mobile',
+    'Tpv6_P' => 'Windows NT GAURAV-HP 10.0 build 19043 (Windows 10) AMD64',
+    'OS' => 'Windows NT',
+    'OS_RELEASE' => '10.0',
+    'OS_Version' =>'build 19043 (Windows 10)',
+    'SystemType' => 'AMD64',
+    'HostName' =>'GAURAV-HP',
+    'MoreDetails' => 'Mozilla/5.0 (Linux; Android 9; Redmi Note 6 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.91 Mobile Safari/537.36'
+ ]
+
+
+----------------------- Entry At 04:05 PM ---------------------------------
+
+=> NEW_FORM_SUBMITED --> {
+    SENT->1
+ USER_INVOLVED --> [
+   FullName --> Gaurav Singh
+   UserName --> gauravsinghigc
+   UserType --> ADMINISTRATOR
+ ]
+}
+
+SystemDetails --> [
+    'DateTime' => 'Tue 04 May, 2021 04:05:34 pm',
+    'IpAddress' => '192.168.43.1',
+    'DeviceType' => 'Mobile',
+    'Tpv6_P' => 'Windows NT GAURAV-HP 10.0 build 19043 (Windows 10) AMD64',
+    'OS' => 'Windows NT',
+    'OS_RELEASE' => '10.0',
+    'OS_Version' =>'build 19043 (Windows 10)',
+    'SystemType' => 'AMD64',
+    'HostName' =>'GAURAV-HP',
+    'MoreDetails' => 'Mozilla/5.0 (Linux; Android 9; Redmi Note 6 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.91 Mobile Safari/537.36'
+ ]
+
+
+----------------------- Entry At 04:05 PM ---------------------------------
+
+=> NEW_FORM_SUBMITED --> {
+    SENT->1
+ USER_INVOLVED --> [
+   FullName --> Gaurav Singh
+   UserName --> gauravsinghigc
+   UserType --> ADMINISTRATOR
+ ]
+}
+
+SystemDetails --> [
+    'DateTime' => 'Tue 04 May, 2021 04:05:14 pm',
+    'IpAddress' => '127.0.0.1',
+    'DeviceType' => 'Computer',
+    'Tpv6_P' => 'Windows NT GAURAV-HP 10.0 build 19043 (Windows 10) AMD64',
+    'OS' => 'Windows NT',
+    'OS_RELEASE' => '10.0',
+    'OS_Version' =>'build 19043 (Windows 10)',
+    'SystemType' => 'AMD64',
+    'HostName' =>'GAURAV-HP',
+    'MoreDetails' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36'
+ ]
+
+
+----------------------- Entry At 04:05 PM ---------------------------------
+
+=> NEW_FORM_SUBMITED --> {
+    SENT->1
+ USER_INVOLVED --> [
+   FullName --> Gaurav Singh
+   UserName --> gauravsinghigc
+   UserType --> ADMINISTRATOR
+ ]
+}
+
+SystemDetails --> [
+    'DateTime' => 'Tue 04 May, 2021 04:05:17 pm',
+    'IpAddress' => '192.168.43.1',
+    'DeviceType' => 'Mobile',
+    'Tpv6_P' => 'Windows NT GAURAV-HP 10.0 build 19043 (Windows 10) AMD64',
+    'OS' => 'Windows NT',
+    'OS_RELEASE' => '10.0',
+    'OS_Version' =>'build 19043 (Windows 10)',
+    'SystemType' => 'AMD64',
+    'HostName' =>'GAURAV-HP',
+    'MoreDetails' => 'Mozilla/5.0 (Linux; Android 9; Redmi Note 6 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.91 Mobile Safari/537.36'
+ ]
+
+
+----------------------- Entry At 04:05 PM ---------------------------------
+
+=> NEW_FORM_SUBMITED --> {
+    SENT->1
+ USER_INVOLVED --> [
+   FullName --> Gaurav Singh
+   UserName --> gauravsinghigc
+   UserType --> ADMINISTRATOR
+ ]
+}
+
+SystemDetails --> [
+    'DateTime' => 'Tue 04 May, 2021 04:05:39 pm',
+    'IpAddress' => '127.0.0.1',
+    'DeviceType' => 'Computer',
+    'Tpv6_P' => 'Windows NT GAURAV-HP 10.0 build 19043 (Windows 10) AMD64',
+    'OS' => 'Windows NT',
+    'OS_RELEASE' => '10.0',
+    'OS_Version' =>'build 19043 (Windows 10)',
+    'SystemType' => 'AMD64',
+    'HostName' =>'GAURAV-HP',
+    'MoreDetails' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36'
+ ]
+
+
+----------------------- Entry At 06:05 PM ---------------------------------
+
+=> LOGIN_REQUEST_SUCCESS --> {
+    SUCCESS -> Username : gauravsinghigc and Password : gauravsinghigc
+ USER_INVOLVED --> [
+   FullName --> Gaurav Singh
+   UserName --> gauravsinghigc
+   UserType --> ADMINISTRATOR
+ ]
+}
+
+SystemDetails --> [
+    'DateTime' => 'Tue 04 May, 2021 06:05:43 pm',
+    'IpAddress' => '127.0.0.1',
+    'DeviceType' => 'Computer',
+    'Tpv6_P' => 'Windows NT GAURAV-HP 10.0 build 19043 (Windows 10) AMD64',
+    'OS' => 'Windows NT',
+    'OS_RELEASE' => '10.0',
+    'OS_Version' =>'build 19043 (Windows 10)',
+    'SystemType' => 'AMD64',
+    'HostName' =>'GAURAV-HP',
+    'MoreDetails' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36'
+ ]
+

@@ -1,0 +1,300 @@
+
+--------------------Acitivity Logs for Sat 29 Jan, 2022 Used in dev Environment-------------------------------
+
+=> Log File created for Sat 29 Jan, 2022 which is start at 11:01 AM from 127.0.0.1
+=> File Creation System Details (It should be same for all the log entry.
+=> If any log is not same then maybe that entry/action is not from a authorised/know device.
+=> Default System Configuration at Entry Time
+
+SystemDetails --> [
+    'DateTime' => 'Sat 29 Jan, 2022 11:01:38 am',
+    'IpAddress' => '127.0.0.1',
+    'DeviceType' => 'Computer',
+    'Tpv6_P' => 'Windows NT GAURAV-HP-2016 10.0 build 19044 (Windows 10) AMD64',
+    'OS' => 'Windows NT',
+    'OS_RELEASE' => '10.0',
+    'OS_Version' =>'build 19044 (Windows 10)',
+    'SystemType' => 'AMD64',
+    'HostName' =>'GAURAV-HP-2016',
+    'MoreDetails' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36'
+ ]
+
+
+----------------------- Entry At 11:01 AM ---------------------------------
+
+=> LOG_FILE_CREATED --> {
+    Log File Generated
+}
+
+=> LOGIN_REQUEST_SUCCESS --> {
+    SUCCESS -> Username : admin@navix.in and Password : Golardh@2022
+ USER_INVOLVED --> [
+   FullName --> Gaurav Singh
+   UserName --> admin@navix.in
+   UserType --> ADMINISTRATOR
+ ]
+}
+
+=> SystemDetails --> [
+    'DateTime' => 'Sat 29 Jan, 2022 11:01:38 am',
+    'IpAddress' => '127.0.0.1',
+    'DeviceType' => 'Computer',
+    'Tpv6_P' => 'Windows NT GAURAV-HP-2016 10.0 build 19044 (Windows 10) AMD64',
+    'OS' => 'Windows NT',
+    'OS_RELEASE' => '10.0',
+    'OS_Version' =>'build 19044 (Windows 10)',
+    'SystemType' => 'AMD64',
+    'HostName' =>'GAURAV-HP-2016',
+    'MoreDetails' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36'
+ ]
+
+
+----------------------- Entry At 11:01 AM ---------------------------------
+
+=> PROFILE_UPDATE --> {
+    SUCCESS -> FullName:Gaurav Singh, EmailId: admin@navix.in, PhoneNumber: 8447572565, Username : admin@golardhhousing.in and Password : Golardh@2022
+ USER_INVOLVED --> [
+   FullName --> Gaurav Singh
+   UserName --> admin@navix.in
+   UserType --> ADMINISTRATOR
+ ]
+}
+
+SystemDetails --> [
+    'DateTime' => 'Sat 29 Jan, 2022 11:01:11 am',
+    'IpAddress' => '127.0.0.1',
+    'DeviceType' => 'Computer',
+    'Tpv6_P' => 'Windows NT GAURAV-HP-2016 10.0 build 19044 (Windows 10) AMD64',
+    'OS' => 'Windows NT',
+    'OS_RELEASE' => '10.0',
+    'OS_Version' =>'build 19044 (Windows 10)',
+    'SystemType' => 'AMD64',
+    'HostName' =>'GAURAV-HP-2016',
+    'MoreDetails' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36'
+ ]
+
+
+----------------------- Entry At 11:01 AM ---------------------------------
+
+=> PROFILE_UPDATE --> {
+    SUCCESS -> FullName:Gaurav Singh, EmailId: admin@golardhhousing.in, PhoneNumber: 8447572565, Username : admin@golardhhousing.in and Password : Golardh@2022
+ USER_INVOLVED --> [
+   FullName --> Gaurav Singh
+   UserName --> admin@golardhhousing.in
+   UserType --> ADMINISTRATOR
+ ]
+}
+
+SystemDetails --> [
+    'DateTime' => 'Sat 29 Jan, 2022 11:01:29 am',
+    'IpAddress' => '127.0.0.1',
+    'DeviceType' => 'Computer',
+    'Tpv6_P' => 'Windows NT GAURAV-HP-2016 10.0 build 19044 (Windows 10) AMD64',
+    'OS' => 'Windows NT',
+    'OS_RELEASE' => '10.0',
+    'OS_Version' =>'build 19044 (Windows 10)',
+    'SystemType' => 'AMD64',
+    'HostName' =>'GAURAV-HP-2016',
+    'MoreDetails' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36'
+ ]
+
+
+----------------------- Entry At 11:01 AM ---------------------------------
+
+=> NEW_SLIDER_ENTRY --> {
+    SAVED -> 1
+ USER_INVOLVED --> [
+   FullName --> Gaurav Singh
+   UserName --> admin@golardhhousing.in
+   UserType --> ADMINISTRATOR
+ ]
+}
+
+SystemDetails --> [
+    'DateTime' => 'Sat 29 Jan, 2022 11:01:11 am',
+    'IpAddress' => '127.0.0.1',
+    'DeviceType' => 'Computer',
+    'Tpv6_P' => 'Windows NT GAURAV-HP-2016 10.0 build 19044 (Windows 10) AMD64',
+    'OS' => 'Windows NT',
+    'OS_RELEASE' => '10.0',
+    'OS_Version' =>'build 19044 (Windows 10)',
+    'SystemType' => 'AMD64',
+    'HostName' =>'GAURAV-HP-2016',
+    'MoreDetails' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36'
+ ]
+
+
+----------------------- Entry At 11:01 AM ---------------------------------
+
+=> SLIDER_DETAILS_UPDATED --> {
+    Updated
+ USER_INVOLVED --> [
+   FullName --> Gaurav Singh
+   UserName --> admin@golardhhousing.in
+   UserType --> ADMINISTRATOR
+ ]
+}
+
+SystemDetails --> [
+    'DateTime' => 'Sat 29 Jan, 2022 11:01:29 am',
+    'IpAddress' => '127.0.0.1',
+    'DeviceType' => 'Computer',
+    'Tpv6_P' => 'Windows NT GAURAV-HP-2016 10.0 build 19044 (Windows 10) AMD64',
+    'OS' => 'Windows NT',
+    'OS_RELEASE' => '10.0',
+    'OS_Version' =>'build 19044 (Windows 10)',
+    'SystemType' => 'AMD64',
+    'HostName' =>'GAURAV-HP-2016',
+    'MoreDetails' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36'
+ ]
+
+
+----------------------- Entry At 11:01 AM ---------------------------------
+
+=> USER_LOGOUT --> {
+    Logout Successfully!
+ USER_INVOLVED --> [
+   FullName --> Gaurav Singh
+   UserName --> admin@golardhhousing.in
+   UserType --> ADMINISTRATOR
+ ]
+}
+
+SystemDetails --> [
+    'DateTime' => 'Sat 29 Jan, 2022 11:01:23 am',
+    'IpAddress' => '127.0.0.1',
+    'DeviceType' => 'Computer',
+    'Tpv6_P' => 'Windows NT GAURAV-HP-2016 10.0 build 19044 (Windows 10) AMD64',
+    'OS' => 'Windows NT',
+    'OS_RELEASE' => '10.0',
+    'OS_Version' =>'build 19044 (Windows 10)',
+    'SystemType' => 'AMD64',
+    'HostName' =>'GAURAV-HP-2016',
+    'MoreDetails' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36'
+ ]
+
+
+----------------------- Entry At 11:01 AM ---------------------------------
+
+=> LOGIN_REQUEST_FAILED --> {
+    FAILED ->Incorrect Username and Password. Username : admin@navix.in and Password : 29387e9823yhiof
+ USER_INVOLVED --> [
+   FullName --> Unknown
+   UserName --> Unknown
+   UserType --> Unknown
+ ]
+}
+
+SystemDetails --> [
+    'DateTime' => 'Sat 29 Jan, 2022 11:01:30 am',
+    'IpAddress' => '127.0.0.1',
+    'DeviceType' => 'Computer',
+    'Tpv6_P' => 'Windows NT GAURAV-HP-2016 10.0 build 19044 (Windows 10) AMD64',
+    'OS' => 'Windows NT',
+    'OS_RELEASE' => '10.0',
+    'OS_Version' =>'build 19044 (Windows 10)',
+    'SystemType' => 'AMD64',
+    'HostName' =>'GAURAV-HP-2016',
+    'MoreDetails' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36'
+ ]
+
+
+----------------------- Entry At 11:01 AM ---------------------------------
+
+=> LOGIN_REQUEST_FAILED --> {
+    FAILED ->Incorrect Username and Password. Username : admin@navix.in and Password : Golardh@2022
+ USER_INVOLVED --> [
+   FullName --> Unknown
+   UserName --> Unknown
+   UserType --> Unknown
+ ]
+}
+
+SystemDetails --> [
+    'DateTime' => 'Sat 29 Jan, 2022 11:01:58 am',
+    'IpAddress' => '127.0.0.1',
+    'DeviceType' => 'Computer',
+    'Tpv6_P' => 'Windows NT GAURAV-HP-2016 10.0 build 19044 (Windows 10) AMD64',
+    'OS' => 'Windows NT',
+    'OS_RELEASE' => '10.0',
+    'OS_Version' =>'build 19044 (Windows 10)',
+    'SystemType' => 'AMD64',
+    'HostName' =>'GAURAV-HP-2016',
+    'MoreDetails' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36'
+ ]
+
+
+----------------------- Entry At 11:01 AM ---------------------------------
+
+=> LOGIN_REQUEST_SUCCESS --> {
+    SUCCESS -> Username : admin@golardhhousing.in and Password : Golardh@2022
+ USER_INVOLVED --> [
+   FullName --> Gaurav Singh
+   UserName --> admin@golardhhousing.in
+   UserType --> ADMINISTRATOR
+ ]
+}
+
+SystemDetails --> [
+    'DateTime' => 'Sat 29 Jan, 2022 11:01:16 am',
+    'IpAddress' => '127.0.0.1',
+    'DeviceType' => 'Computer',
+    'Tpv6_P' => 'Windows NT GAURAV-HP-2016 10.0 build 19044 (Windows 10) AMD64',
+    'OS' => 'Windows NT',
+    'OS_RELEASE' => '10.0',
+    'OS_Version' =>'build 19044 (Windows 10)',
+    'SystemType' => 'AMD64',
+    'HostName' =>'GAURAV-HP-2016',
+    'MoreDetails' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36'
+ ]
+
+
+----------------------- Entry At 12:01 PM ---------------------------------
+
+=> LOGIN_REQUEST_SUCCESS --> {
+    SUCCESS -> Username : admin@golardhhousing.in and Password : Golardh@2022
+ USER_INVOLVED --> [
+   FullName --> Gaurav Singh
+   UserName --> admin@golardhhousing.in
+   UserType --> ADMINISTRATOR
+ ]
+}
+
+SystemDetails --> [
+    'DateTime' => 'Sat 29 Jan, 2022 12:01:28 pm',
+    'IpAddress' => '127.0.0.1',
+    'DeviceType' => 'Computer',
+    'Tpv6_P' => 'Windows NT GAURAV-HP-2016 10.0 build 19044 (Windows 10) AMD64',
+    'OS' => 'Windows NT',
+    'OS_RELEASE' => '10.0',
+    'OS_Version' =>'build 19044 (Windows 10)',
+    'SystemType' => 'AMD64',
+    'HostName' =>'GAURAV-HP-2016',
+    'MoreDetails' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36'
+ ]
+
+
+----------------------- Entry At 01:01 PM ---------------------------------
+
+=> PROFILE_UPDATE --> {
+    SUCCESS -> FullName:Gaurav Singh, EmailId: admin@golardhhousing.in, PhoneNumber: 8447572565, Username : admin@golardhhousing.in and Password : Golardh@2022
+ USER_INVOLVED --> [
+   FullName --> Gaurav Singh
+   UserName --> admin@golardhhousing.in
+   UserType --> ADMINISTRATOR
+ ]
+}
+
+SystemDetails --> [
+    'DateTime' => 'Sat 29 Jan, 2022 01:01:24 pm',
+    'IpAddress' => '127.0.0.1',
+    'DeviceType' => 'Computer',
+    'Tpv6_P' => 'Windows NT GAURAV-HP-2016 10.0 build 19044 (Windows 10) AMD64',
+    'OS' => 'Windows NT',
+    'OS_RELEASE' => '10.0',
+    'OS_Version' =>'build 19044 (Windows 10)',
+    'SystemType' => 'AMD64',
+    'HostName' =>'GAURAV-HP-2016',
+    'MoreDetails' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36'
+ ]
+

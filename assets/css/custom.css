@@ -1,0 +1,14 @@
+.tox-tinymce-aux,
+.tox-statusbar__branding {
+  display: none !important;
+}
+
+.page-item.active .page-link {
+  z-index: 00000 !important;
+}
+.card-body {
+  padding: 0.25rem !important;
+}
+.content-wrapper {
+  background-color: white !important;
+}
